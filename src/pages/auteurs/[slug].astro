@@ -45,12 +45,12 @@ const jsonld = [
 ---
 <Base titre={`${d.title} | PLT Family Office`} description={d.meta_description} jsonld={jsonld} actif="journal">
   <div class="wrap auteur">
-    {photo && (
-      <figure class="auteur-photo">
-        <img src={photo} alt={`Portrait de ${d.nom}`} width="222" height="250" fetchpriority="high">
-      </figure>
-    )}
     <article class="prose">
+      {photo && (
+        <figure class="auteur-photo">
+          <img src={photo} alt={`Portrait de ${d.nom}`} width="222" height="250" fetchpriority="high">
+        </figure>
+      )}
       <Content />
     </article>
   </div>

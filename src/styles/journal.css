@@ -58,11 +58,11 @@
 /* ——— Auteurs : portrait (noir et blanc, couleur au survol, comme sur l'accueil) ——— */
 .signature-photo{display:block;width:56px;height:63px;object-fit:cover;margin:4px auto 12px;filter:grayscale(1) contrast(1.05);transition:filter .8s var(--ease)}
 .signature:hover .signature-photo{filter:none}
-.auteur{display:grid;grid-template-columns:220px minmax(0,700px);gap:56px;justify-content:center;align-items:start;padding-top:64px}
-.auteur .prose{margin:0}
-.auteur-photo{position:sticky;top:96px;margin:8px 14px 0 0}
-.auteur-photo::before{content:"";position:absolute;inset:14px -14px -14px 14px;border:1px solid var(--cuivre-clair);transition:inset .8s var(--ease),border-color .8s var(--ease)}
-.auteur-photo:hover::before{inset:7px -7px -7px 7px;border-color:var(--cuivre)}
-.auteur-photo img{position:relative;display:block;width:100%;height:auto;filter:grayscale(1) contrast(1.05);transition:filter 1s var(--ease)}
+.auteur{padding-top:48px}
+.auteur-photo{float:left;width:104px;margin:6px 28px 12px 0;padding:0;border-bottom:2px solid var(--cuivre)}
+.auteur-photo img{display:block;width:100%;height:auto;filter:grayscale(1) contrast(1.05);transition:filter .8s var(--ease)}
 .auteur-photo:hover img{filter:none}
-@media (max-width:860px){.auteur{grid-template-columns:1fr;gap:32px;padding-top:48px}.auteur-photo{position:relative;top:0;width:160px}}
+.auteur .prose h1{font-size:clamp(34px,4vw,46px);font-weight:700;line-height:1.1;padding-top:8px}
+.auteur .prose h1 + p{margin-top:.6em;color:var(--gris);overflow:hidden}
+.auteur .prose > blockquote,.auteur .prose > h2{clear:both}
+@media (max-width:520px){.auteur{padding-top:40px}.auteur-photo{width:84px;margin-right:18px}}
