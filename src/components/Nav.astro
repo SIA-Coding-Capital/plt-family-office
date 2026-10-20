@@ -1,0 +1,18 @@
+---
+import { lien, SITE } from '../lib/site';
+const { actif } = Astro.props;
+---
+<header class="nav" id="top">
+  <span class="progress" aria-hidden="true"></span>
+  <div class="wrap">
+    <a class="logo" href={lien('/')}><b>PLT</b><span>FAMILY<br>OFFICE</span></a>
+    <nav class="links" aria-label="Navigation principale">
+      <a href={lien('/#conseil')}>Notre conseil</a>
+      <a href={lien('/#valeurs')}>Nos valeurs</a>
+      <a href={lien('/#fondateurs')}>Nos fondateurs</a>
+      <a href={lien('/#cas')}>Cas d'accompagnement</a>
+      <a href={lien('/journal')} aria-current={actif === 'journal' ? 'page' : undefined}>Journal</a>
+    </nav>
+    <a class="btn" href={SITE.formulaire} rel="noopener">Candidater</a>
+  </div>
+</header>

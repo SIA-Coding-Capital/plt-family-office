@@ -1,0 +1,24 @@
+---
+import Legal from '../layouts/Legal.astro';
+import { SITE } from '../lib/site';
+---
+<Legal titre="Mentions légales" description="Mentions légales du site de PLT Family Office : éditeur, statuts réglementés, assurance, hébergeur et propriété intellectuelle.">
+  <h2>Éditeur</h2>
+  <p>Le présent site et les questionnaires proposés sont édités par PLT Family Office, société par actions simplifiée (SAS) au capital de 4 000 €. Siège social&nbsp;: 1 passage des Acacias, 75017 Paris, France. Immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 928 077 189. Code APE&nbsp;: 66.22Z. TVA intracommunautaire&nbsp;: FR33 928077189.</p>
+  <h2>Statuts réglementés</h2>
+  <p>PLT Family Office est enregistré en qualité&nbsp;:</p>
+  <ul>
+    <li>d'intermédiaire en assurances (courtier), immatriculé à l'ORIAS sous le numéro 24006260 (<a href="https://www.orias.fr" rel="noopener">www.orias.fr</a>)&nbsp;;</li>
+    <li>de membre de l'ANACOFI-Courtage, association professionnelle agréée par l'ACPR (Autorité de Contrôle Prudentiel et de Résolution, Banque de France)&nbsp;;</li>
+    <li>de Conseil en Investissements Financiers (CIF), membre de l'ANACOFI-CIF, association agréée par l'AMF (Autorité des Marchés Financiers). Attestation CIF en cours de validité.</li>
+  </ul>
+  <p>À ce titre, PLT Family Office bénéficie d'une assurance responsabilité civile professionnelle et d'une garantie financière conformes aux articles L.530-1 et L.530-2 du Code des assurances, souscrites auprès de AIG Europe SA, succursale pour la France, Tour CBX, 1 passerelle des Reflets, 92913 Paris La Défense Cedex. SIREN&nbsp;: 838 136 463.</p>
+  <h2>Hébergeur</h2>
+  <p>Le site est hébergé par GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis (<a href="https://pages.github.com" rel="noopener">pages.github.com</a>).</p>
+  <h2>Propriété intellectuelle</h2>
+  <p>L'ensemble des contenus présents sur ce site (textes, images, logos, questionnaires, etc.) sont la propriété exclusive de PLT Family Office ou de ses partenaires. Toute reproduction ou représentation, totale ou partielle, sans autorisation préalable et écrite, est strictement interdite.</p>
+  <h2>Protection des données personnelles</h2>
+  <p>Les informations recueillies à travers ce site sont destinées à PLT Family Office, dans le cadre de ses obligations légales et réglementaires. Elles font l'objet d'un traitement conforme au Règlement Général sur la Protection des Données (RGPD). Pour exercer vos droits (accès, rectification, opposition, etc.), écrivez à <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</p>
+  <h2>Contenus du journal</h2>
+  <p>Les articles du journal ont une visée pédagogique et ne constituent pas un conseil en investissement. Ils reflètent les règles fiscales françaises en vigueur à leur date de publication, qui peuvent évoluer.</p>
+</Legal>

@@ -1,0 +1,184 @@
+---
+import Base from '../layouts/Base.astro';
+import AppelFinal from '../components/AppelFinal.astro';
+import '../styles/landing.css';
+import { SITE, lien } from '../lib/site';
+import { articlesPublies, grappe, minutes } from '../lib/journal';
+
+const derniers = (await articlesPublies()).slice(0, 3);
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FinancialService',
+    '@id': new URL('/#organisation', Astro.site).href,
+    name: SITE.nom,
+    description: SITE.description,
+    url: new URL(lien('/'), Astro.site).href,
+    logo: new URL(lien('/apple-touch-icon.png'), Astro.site).href,
+    image: new URL(lien('/og.jpg'), Astro.site).href,
+    email: SITE.email,
+    address: { '@type': 'PostalAddress', streetAddress: SITE.adresse.rue, postalCode: SITE.adresse.cp, addressLocality: SITE.adresse.ville, addressCountry: SITE.adresse.pays },
+    areaServed: 'FR',
+    sameAs: [SITE.linkedin, SITE.youtube],
+    founder: ['Rémi de Truchis de Varennes', 'Christophe Faglin', 'Sébastien Valton', 'Stéphane Gambillon'].map((name) => ({ '@type': 'Person', name })),
+    knowsAbout: ["Allocation d'actifs", 'Fiscalité patrimoniale', 'Rémunération du dirigeant', 'Structuration patrimoniale', 'Transmission et succession'],
+  },
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.nom, url: new URL(lien('/'), Astro.site).href, inLanguage: 'fr-FR' },
+];
+---
+<Base titre="PLT Family Office | Multi-Family Office indépendant à Paris" description={SITE.description} jsonld={jsonld}>
+  <section class="hero">
+    <svg class="l-centre" viewBox="0 0 30 37" aria-hidden="true"><use href="#lys"/></svg>
+    <svg class="l-gauche" viewBox="0 0 30 37" aria-hidden="true"><use href="#lys"/></svg>
+    <svg class="l-droite" viewBox="0 0 30 37" aria-hidden="true"><use href="#lys"/></svg>
+    <div class="wrap in">
+      <p class="sur">Structurer · Protéger · Transmettre</p>
+      <h1 class="split">PLT Family Office</h1>
+      <p class="accroche">La référence en ingénierie patrimoniale indépendante, pensée pour structurer, protéger et transmettre votre capital.</p>
+      <p class="seuil">Multi-Family Office basé à Paris. À partir de 300 000 € d'actifs</p>
+    </div>
+    <span class="scroll" aria-hidden="true"></span>
+  </section>
+
+  <section class="intro">
+    <div class="wrap">
+      <div class="gauche rv">
+        <h2 class="split">Nous accompagnons ceux qui pensent long terme</h2>
+        <a class="btn-line" href={SITE.formulaire} rel="noopener">Candidater au PLT Family Office</a>
+      </div>
+      <div class="droite rv">
+        <p>Chez PLT Family Office, nous aidons les entrepreneurs, cadres dirigeants, professions libérales et héritiers à <b>structurer</b>, <b>optimiser</b> et <b>transmettre leur patrimoine</b> avec sérénité.</p>
+        <p>Notre approche est pensée pour ceux qui attendent davantage que des solutions standards. Nous offrons une alternative indépendante, humaine et stratégique aux banques privées.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="conseil" id="conseil">
+    <div class="wrap">
+      <div class="gauche rv">
+        <h2 class="split">Un conseil patrimonial global, à la hauteur de vos enjeux</h2>
+        <p>Nous mettons à votre disposition un accompagnement complet, confidentiel et sur-mesure</p>
+        <p><strong>Votre stratégie est conçue pour durer</strong>.<br>Pas pour plaire à un trimestre.</p>
+      </div>
+      <div class="tabs" role="tablist" aria-label="Nos expertises">
+        <button class="tab on" type="button" role="tab" aria-selected="true"><h3>Allocation d'actifs</h3><p>Marchés financiers, immobilier, private equity</p></button>
+        <button class="tab" type="button" role="tab" aria-selected="false"><h3>Fiscalité patrimoniale</h3><p>Réduction d'impôt, transmission, protection</p></button>
+        <button class="tab" type="button" role="tab" aria-selected="false"><h3>Rémunération du dirigeant</h3><p>Holding, dividendes, capitalisation</p></button>
+        <button class="tab" type="button" role="tab" aria-selected="false"><h3>Structuration patrimoniale</h3><p>Contrats luxembourgeois, sociétés civiles, assurances-vie</p></button>
+        <button class="tab" type="button" role="tab" aria-selected="false"><h3>Transmission &amp; succession</h3><p>Anticipation, optimisation et accompagnement notarial</p></button>
+      </div>
+    </div>
+  </section>
+
+  <section class="bande valeurs" id="valeurs">
+    <div class="wrap">
+      <div class="tete">
+        <h2 class="split">Indépendance. Transparence. Loyauté.</h2>
+        <p>Nous ne sommes liés à aucun établissement bancaire, ni société de gestion.<br>Et parce que nous considérons que la confiance passe par la clarté&nbsp;:</p>
+      </div>
+      <div class="engage">
+        <div class="rv"><span class="n">01</span><i></i><div><h3>Vous choisissez</h3><p>Honoraires ou commissions&nbsp;: c'est vous qui choisissez la formule qui vous convient.</p></div></div>
+        <div class="rv"><span class="n">02</span><i></i><div><h3>Nous clarifions</h3><p>Frais, allocations, arbitrages&nbsp;: tout est expliqué, rien n'est caché.</p></div></div>
+        <div class="rv"><span class="n">03</span><i></i><div><h3>Nous agissons</h3><p>Toujours dans votre intérêt&nbsp;: aucun produit imposé, aucun conflit d'intérêt.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="fondateurs" id="fondateurs">
+    <div class="wrap">
+      <div class="tete-centre">
+        <h2 class="split">Nos fondateurs</h2>
+        <p>Des profils complémentaires, réunis par une même exigence&nbsp;: servir le long terme.</p>
+      </div>
+      <div class="equipe">
+        <article class="fiche rv">
+          <div class="cadre"><div class="photo"><img src={lien("/img/remi-de-truchis-de-varennes.webp")} alt="Photo de Rémi de Truchis de Varennes" width="222" height="250" loading="lazy" decoding="async"></div><span class="num" aria-hidden="true">01</span></div>
+          <h3>Rémi de Truchis de Varennes</h3>
+          <p class="role">Co-fondateur – Investisseur</p>
+          <p class="bio">Spécialiste de l'allocation de capital à long terme et du Value Investing, Rémi est le fondateur de Parlons Long Terme et de plusieurs entreprises dans les univers du logiciel et de la finance. À l'origine de la vision de PLT Family Office, il a contribué à définir son positionnement et ses principes fondateurs. Il intervient aujourd'hui en qualité de cofondateur et d'investisseur, sans rôle dans la gestion opérationnelle quotidienne.</p>
+          <button class="plus" type="button" aria-expanded="false">Lire le parcours<span aria-hidden="true">+</span></button>
+        </article>
+        <article class="fiche rv">
+          <div class="cadre"><div class="photo"><img src={lien("/img/christophe-faglin.webp")} alt="Photo de Christophe Faglin" width="222" height="250" loading="lazy" decoding="async"></div><span class="num" aria-hidden="true">02</span></div>
+          <h3>Christophe Faglin</h3>
+          <p class="role">Co-fondateur – CIF, Gestion de fortune &amp; Ingénierie patrimoniale</p>
+          <p class="bio">Ancien banquier privé et ancien responsable de la gestion privée et de la gestion fortune chez Swisslife, Christophe est expert en <strong>fiscalité patrimoniale complexe</strong>, <strong>structuration intergénérationnelle</strong>, et <strong>optimisation successorale</strong>. Il intervient sur les montages juridiques avancés, la sélection des véhicules d'investissement sur mesure et les stratégies patrimoniales à forte valeur ajoutée.</p>
+          <button class="plus" type="button" aria-expanded="false">Lire le parcours<span aria-hidden="true">+</span></button>
+        </article>
+        <article class="fiche rv">
+          <div class="cadre"><div class="photo"><img src={lien("/img/sebastien-valton.webp")} alt="Photo de Sébastien Valton" width="222" height="250" loading="lazy" decoding="async"></div><span class="num" aria-hidden="true">03</span></div>
+          <h3>Sébastien Valton</h3>
+          <p class="role">Co-fondateur – CIF, Allocation d'actifs &amp; stratégie boursière</p>
+          <p class="bio">Conseiller en investissements financiers, Sébastien est le référent en stratégie de portefeuille au sein de PLT Family Office. Spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value ainsi que dans l'étude de portefeuilles en titres vifs.</p>
+          <button class="plus" type="button" aria-expanded="false">Lire le parcours<span aria-hidden="true">+</span></button>
+        </article>
+        <article class="fiche rv">
+          <div class="cadre"><div class="photo"><img src={lien("/img/stephane-gambillon.webp")} alt="Photo de Stéphane Gambillon" width="222" height="250" loading="lazy" decoding="async"></div><span class="num" aria-hidden="true">04</span></div>
+          <h3>Stéphane Gambillon</h3>
+          <p class="role">Co-fondateur – Expert en optimisation d'entreprise &amp; rémunération du dirigeant</p>
+          <p class="bio">Stéphane accompagne les chefs d'entreprise dans la structuration de leur patrimoine professionnel et privé. Il conçoit des solutions personnalisées pour optimiser leur rémunération, anticiper la cession ou la transmission de leur société, et sécuriser la capitalisation du fruit de leur travail. Architecte de stratégies sur mesure, il intervient en appui des problématiques entrepreneuriales et structurelles à fort enjeu.</p>
+          <button class="plus" type="button" aria-expanded="false">Lire le parcours<span aria-hidden="true">+</span></button>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="bande relation">
+    <svg viewBox="0 0 30 37" aria-hidden="true"><use href="#lys"/></svg>
+    <div class="wrap in">
+      <h2 class="split">Entrez en relation avec le PLT Family Office</h2>
+      <p>Réservez un échange confidentiel, sans engagement, avec un membre fondateur.</p>
+      <a class="btn-line blanc" href={SITE.formulaire} rel="noopener">Candidater au PLT Family Office</a>
+    </div>
+  </section>
+
+  <section class="cas" id="cas">
+    <div class="wrap">
+      <div class="tete-centre">
+        <h2 class="split">Exemples d'interventions personnalisées</h2>
+        <p>Chaque situation est unique. Voici quelques cas concrets que nous avons accompagnés avec exigence, discrétion et stratégie.</p>
+      </div>
+      <div class="cas-liste">
+        <article class="un-cas rv"><div><h3>Financer sans vendre et en limitant la fiscalité</h3><p class="ctx">Un client fortuné voulait financer une résidence secondaire sans toucher à ses actifs ni déclencher d'imposition.</p></div><svg class="puce" viewBox="0 0 37 30" aria-hidden="true"><use href="#lys-h"/></svg><div class="iv"><span>Notre intervention</span><ul><li>Crédit Lombard adossé à un contrat luxembourgeois</li><li>Liquidités mobilisées sans fiscalité ni cession</li><li>Capital conservé, rendement intact</li></ul></div></article>
+        <article class="un-cas rv"><div><h3>Optimisation post-cession d'entreprise</h3><p class="ctx">Un dirigeant souhaitait sécuriser le produit de la vente de son entreprise tout en préparant la transmission.</p></div><svg class="puce" viewBox="0 0 37 30" aria-hidden="true"><use href="#lys-h"/></svg><div class="iv"><span>Notre intervention</span><ul><li>Contrat luxembourgeois multi-supports</li><li>Portage d'actions pour différer l'imposition</li><li>Création d'une holding familiale transgénérationnelle</li></ul></div></article>
+        <article class="un-cas rv"><div><h3>Transmission équilibrée dans une famille recomposée</h3><p class="ctx">Un couple avec enfants de deux unions voulait anticiper et sécuriser sa succession.</p></div><svg class="puce" viewBox="0 0 37 30" aria-hidden="true"><use href="#lys-h"/></svg><div class="iv"><span>Notre intervention</span><ul><li>Donation croisée et clauses bénéficiaires sur mesure</li><li>Simulation des scénarios successoraux</li><li>Coordination avec notaire et avocat</li></ul></div></article>
+        <article class="un-cas rv"><div><h3>Rémunération optimisée pour dirigeant en croissance</h3><p class="ctx">Un chef d'entreprise souhaitait alléger sa fiscalité tout en structurant son patrimoine professionnel.</p></div><svg class="puce" viewBox="0 0 37 30" aria-hidden="true"><use href="#lys-h"/></svg><div class="iv"><span>Notre intervention</span><ul><li>Rémunération via dividendes, PEE, contrat retraite</li><li>Arbitrage fiscal et patrimonial</li><li>Création d'une SCI à l'IS pour centraliser les revenus</li></ul></div></article>
+        <article class="un-cas rv"><div><h3>Arbitrage immobilier vers des placements plus performants</h3><p class="ctx">Un investisseur immobilier voulait sortir de la gestion locative et améliorer son rendement net.</p></div><svg class="puce" viewBox="0 0 37 30" aria-hidden="true"><use href="#lys-h"/></svg><div class="iv"><span>Notre intervention</span><ul><li>Vente d'immeubles peu rentables</li><li>Réallocation vers small caps à dividende, produits structurés, contrat lux</li><li>Structuration via société IS + contrat de capitalisation</li></ul></div></article>
+        <article class="un-cas rv"><div><h3>Structuration internationale après expatriation</h3><p class="ctx">Un couple expatrié post-cession souhaitait organiser la gestion de son capital à l'étranger.</p></div><svg class="puce" viewBox="0 0 37 30" aria-hidden="true"><use href="#lys-h"/></svg><div class="iv"><span>Notre intervention</span><ul><li>Stratégie de remontée de dividendes optimisée</li><li>Assurance-vie internationale pour la gouvernance et la transmission</li></ul></div></article>
+        <article class="un-cas rv"><div><h3>Optimisation globale pour un médecin libéral</h3><p class="ctx">Un praticien en secteur 2 cherchait à réduire ses impôts et structurer son patrimoine croissant.</p></div><svg class="puce" viewBox="0 0 37 30" aria-hidden="true"><use href="#lys-h"/></svg><div class="iv"><span>Notre intervention</span><ul><li>Création d'une SELARL à l'IS</li><li>Rémunération mixte&nbsp;: dividendes + retraite + capitalisation</li><li>Prévoir, investir, sécuriser (contrat lux, PEA, immobilier pro)</li></ul></div></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="conclusion" id="candidater">
+    <div class="wrap in rv">
+      <svg viewBox="0 0 37 30" aria-hidden="true"><use href="#lys-h"/></svg>
+      <h2 class="split">Nous concevons une stratégie patrimoniale unique pour chaque situation.</h2>
+      <p>Nous n'appliquons pas de solutions préconçues.</p>
+      <a class="btn-line" href={SITE.formulaire} rel="noopener">Accéder au formulaire de candidature privée</a>
+    </div>
+  </section>
+
+  {derniers.length > 0 && (
+    <section class="journal" id="journal">
+      <div class="wrap">
+        <div class="tete-centre">
+          <h2 class="split">Le Journal</h2>
+          <p>Nos analyses pour structurer, protéger et transmettre votre patrimoine.</p>
+        </div>
+        <div class="articles">
+          {derniers.map((a) => (
+            <a class="article" href={lien(`/journal/${a.data.slug}`)}>
+              <p class="cat">{grappe(a)} · {minutes(a)} min</p>
+              <h3>{a.data.title}</h3>
+              <p>{a.data.meta_description}</p>
+              <span class="lire">Lire l'article</span>
+            </a>
+          ))}
+        </div>
+        <p class="tous"><a class="btn-line" href={lien('/journal')}>Tous les articles</a></p>
+      </div>
+    </section>
+  )}
+  <AppelFinal />
+</Base>

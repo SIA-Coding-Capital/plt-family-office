@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import '../styles/journal.css';
+import { lien } from '../lib/site';
+---
+<Base titre="Page introuvable | PLT Family Office" description="Cette page n'existe pas ou a été déplacée." noindex>
+  <header class="page-tete" style="min-height:50vh;align-content:center;display:grid">
+    <div class="wrap">
+      <p class="sur">Erreur 404</p>
+      <h1>Cette page est introuvable</h1>
+      <p class="chapo">Elle a peut-être été déplacée. Vous pouvez revenir à l'accueil ou parcourir le journal.</p>
+      <p><a class="btn-line" href={lien('/')}>Retour à l'accueil</a>&nbsp; <a class="btn-line" href={lien('/journal')}>Le Journal</a></p>
+    </div>
+  </header>
+</Base>

@@ -1,0 +1,54 @@
+/* ——— Journal : en-têtes de page ——— */
+.page-tete{padding-block:72px 48px;text-align:center}
+.page-tete .wrap{display:grid;gap:18px;justify-items:center}
+.page-tete h1{font-size:clamp(38px,4.6vw,56px);font-weight:500;line-height:1.08;max-width:16em}
+.page-tete .chapo{font-size:17px;line-height:1.5;color:var(--gris);max-width:36em}
+.fil{font-size:13px;color:var(--gris)}
+.fil ol{display:flex;flex-wrap:wrap;justify-content:center;gap:6px;margin:0;padding:0;list-style:none}
+.fil li+li::before{content:"›";margin-right:6px;color:var(--cuivre-clair)}
+.fil a:hover{color:var(--cuivre-fonce)}
+.signature{font-size:14px;color:var(--gris);line-height:1.5}
+.signature a{color:var(--encre);border-bottom:1px solid var(--cuivre-clair)}
+.signature a:hover{border-color:var(--cuivre)}
+
+/* ——— Liste des articles ——— */
+.liste{padding-block:8px 112px}
+.grappes{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 10px;margin:0 0 56px;padding:0;list-style:none}
+.grappes a{display:inline-block;font-size:13px;font-weight:700;letter-spacing:.02em;color:var(--cuivre-fonce);border:1px solid var(--filet);padding:7px 14px;transition:border-color .3s var(--ease),background-color .3s var(--ease)}
+.grappes a:hover{border-color:var(--cuivre)}
+.grappe-bloc{margin-bottom:72px;scroll-margin-top:96px}
+.grappe-bloc > h2{font-size:30px;margin-bottom:28px}
+.articles{row-gap:44px}
+.vide{text-align:center;color:var(--gris)}
+
+/* ——— Corps d'article ——— */
+.prose{max-width:700px;margin:0 auto;padding-bottom:96px;font-size:17px;line-height:1.65}
+.prose > * + *{margin-top:1.1em}
+.prose h2{font-size:clamp(28px,3vw,34px);font-weight:500;line-height:1.2;margin-top:2em;scroll-margin-top:96px}
+.prose h3{font-size:24px;font-weight:600;line-height:1.25;margin-top:1.6em}
+.prose a{color:var(--cuivre-fonce);text-decoration:underline;text-decoration-color:var(--cuivre-clair);text-underline-offset:3px;transition:text-decoration-color .3s}
+.prose a:hover{text-decoration-color:var(--cuivre)}
+.prose ul,.prose ol{padding-left:1.25em}
+.prose li + li{margin-top:.45em}
+.prose li::marker{color:var(--cuivre)}
+.prose strong{font-weight:700}
+.prose blockquote{margin:2em 0;padding:22px 26px;border-left:2px solid var(--cuivre);background:#F5EEE7}
+.prose blockquote.essentiel{margin-top:0;background:transparent;border:1px solid var(--cuivre-clair);border-left:2px solid var(--cuivre);font-size:17px}
+.prose blockquote.attention{border-left-color:var(--brun);background:#F3EFEB}
+.prose blockquote p{margin:0}
+.prose blockquote p + p{margin-top:.8em}
+.prose hr{border:0;height:1px;background:var(--filet);margin:2.5em 0}
+.tableau{overflow-x:auto;margin:1.6em 0;-webkit-overflow-scrolling:touch}
+.prose table{border-collapse:collapse;width:100%;font-size:15px;line-height:1.4}
+.prose th,.prose td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--filet);vertical-align:top}
+.prose th{font-weight:700;color:var(--brun);border-bottom-color:var(--cuivre-clair);white-space:nowrap}
+.prose em{font-style:italic}
+.video{position:relative;aspect-ratio:16/9;background:#2E231B;overflow:hidden;margin:1.6em 0}
+.video img{width:100%;height:100%;object-fit:cover;display:block;opacity:.85;transition:opacity .4s var(--ease)}
+.video:hover img{opacity:1}
+.video button{position:absolute;inset:0;display:grid;place-items:center;border:0;background:transparent;cursor:pointer}
+.video button span{width:72px;height:72px;border-radius:50%;background:rgba(251,251,251,.92);display:grid;place-items:center;transition:transform .4s var(--ease)}
+.video button span::before{content:"";margin-left:5px;border-style:solid;border-width:11px 0 11px 18px;border-color:transparent transparent transparent var(--cuivre)}
+.video:hover button span{transform:scale(1.08)}
+.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.page-tete + .wrap .prose{padding-top:8px}

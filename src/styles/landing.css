@@ -1,0 +1,154 @@
+/* ——— Hero ——— */
+.hero{position:relative;overflow:hidden;text-align:center;min-height:calc(100vh - 76px - env(safe-area-inset-top));min-height:calc(100svh - 76px - env(safe-area-inset-top));display:flex;flex-direction:column;justify-content:center;padding-block:72px 110px}
+.hero svg{position:absolute;pointer-events:none;fill:url(#lys-g)}
+.hero .l-centre{left:50%;bottom:-34%;height:122%;width:auto;transform:translateX(-50%) translateY(var(--py,0px))}
+.hero .l-gauche{left:-60px;top:-110px;height:300px;width:auto;transform:translateY(calc(var(--py,0px) * -.6)) rotate(180deg) scaleX(-1)}
+.hero .l-droite{right:-80px;top:40px;height:280px;width:auto;transform:translateY(calc(var(--py,0px) * -.35))}
+.hero .in{position:relative;display:grid;justify-items:center;gap:22px}
+.hero h1{font-size:clamp(44px,5.4vw,64px);font-weight:700;line-height:1;text-transform:uppercase;max-width:7.5em}
+.hero .accroche{font-size:18px;line-height:1.25;max-width:24em}
+.hero .seuil{margin-top:28px;font-size:15px;font-weight:300;font-style:italic;color:var(--gris)}
+.hero .btn{margin-top:14px}
+
+/* ——— Introduction ——— */
+.intro{padding-block:72px}
+.intro .wrap{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
+.intro .gauche{text-align:center;display:grid;gap:20px;justify-items:center}
+.intro .droite{display:grid;gap:18px;font-size:16px;line-height:1.3}
+.intro .droite b{color:var(--cuivre);font-weight:700}
+@media (max-width:760px){.intro .wrap{grid-template-columns:1fr;gap:32px}}
+
+/* ——— Notre conseil : onglets ——— */
+.conseil{padding-block:72px 96px}
+.conseil .wrap{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
+.conseil .gauche{display:grid;gap:22px}
+.conseil .gauche p{font-size:16px}
+.tabs{display:grid;gap:6px}
+.tab{display:block;width:100%;text-align:left;background:none;border:0;border-left:3px solid transparent;padding:10px 0 10px 18px;cursor:pointer;font:inherit;color:inherit;transition:border-color .35s var(--ease)}
+.tab h3{font-size:clamp(28px,2.6vw,35px);font-weight:500;line-height:1.2;color:var(--gris-clair);transition:color .35s var(--ease)}
+.tab p{font-size:16px;max-height:0;overflow:hidden;opacity:0;transition:max-height .45s var(--ease),opacity .45s var(--ease),margin .45s var(--ease)}
+.tab:hover h3{color:var(--gris)}
+.tab.on{border-left-color:var(--cuivre)}
+.tab.on h3{color:var(--encre);font-weight:600}
+.tab.on p{max-height:4em;opacity:1;margin-top:8px}
+@media (max-width:760px){.conseil .wrap{grid-template-columns:1fr;gap:32px}}
+
+.valeurs{padding-block:80px;text-align:center}
+.valeurs .tete{display:grid;gap:16px;justify-items:center;margin-bottom:56px}
+.valeurs .tete p{max-width:34em}
+.engage{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px;text-align:left}
+.engage > div{display:grid;grid-template-columns:auto 1px minmax(0,1fr);gap:0 14px;align-items:center}
+.engage .n{font-family:var(--display);font-size:64px;line-height:.9;font-weight:400}
+.engage i{align-self:stretch;background:rgba(255,255,255,.7)}
+.engage h3{font-size:24px;font-weight:600;line-height:1;margin-bottom:6px}
+.engage p{font-size:14px;line-height:1.2}
+@media (max-width:820px){.engage{grid-template-columns:1fr;max-width:340px;margin:0 auto;gap:28px}}
+
+
+/* ——— Fondateurs ——— */
+.fondateurs{padding-block:96px 120px;position:relative}
+.tete-centre{text-align:center;display:grid;gap:12px;justify-items:center;margin-bottom:64px}
+.equipe{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));column-gap:32px;row-gap:48px;align-items:start}
+.equipe .fiche:nth-child(even){margin-top:64px}
+.fiche{display:grid;gap:0;min-width:0;align-content:start}
+.cadre{position:relative;margin:0 14px 30px 0}
+.cadre::before{content:"";position:absolute;inset:14px -14px -14px 14px;border:1px solid var(--cuivre-clair);transition:inset .8s var(--ease),border-color .8s var(--ease)}
+.fiche:hover .cadre::before,.fiche:focus-within .cadre::before{inset:7px -7px -7px 7px;border-color:var(--cuivre)}
+.cadre .num{position:absolute;z-index:2;right:-14px;bottom:-30px;font-family:var(--display);font-style:italic;font-size:15px;color:var(--cuivre);background:var(--fond);padding:0 0 0 8px;line-height:1}
+.photo{position:relative;aspect-ratio:222/250;max-width:100%;overflow:hidden;background:#EEE}
+.photo::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(69,51,34,0) 55%,rgba(69,51,34,.35));mix-blend-mode:multiply;transition:opacity 1s var(--ease)}
+.photo img{width:100%;height:100%;object-fit:cover;display:block;filter:grayscale(1) contrast(1.08) brightness(1.02);transition:transform 1.4s var(--ease),filter 1s var(--ease)}
+.fiche:hover .photo img,.fiche:focus-within .photo img{filter:grayscale(0) contrast(1);transform:scale(1.06)}
+.fiche:hover .photo::after,.fiche:focus-within .photo::after{opacity:0}
+.fiche h3{font-size:26px;font-weight:500;line-height:1.1;margin-top:4px;color:var(--encre)}
+.fiche h3::after{content:"";display:block;width:28px;height:1px;background:var(--cuivre);margin-top:14px;transform-origin:left;transition:transform .7s var(--ease)}
+.fiche:hover h3::after{transform:scaleX(2.2)}
+.fiche .role{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;line-height:1.5;color:var(--cuivre-fonce);margin-top:14px}
+.fiche .bio{font-size:14px;line-height:1.45;color:var(--gris);margin-top:10px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+.fiche.ouvert .bio{-webkit-line-clamp:unset;display:block}
+.fiche .plus{justify-self:start;margin-top:12px;background:none;border:0;padding:0 0 3px;cursor:pointer;font-family:var(--display);font-size:16px;font-weight:600;letter-spacing:.5px;color:var(--cuivre);border-bottom:1px solid var(--cuivre-clair);transition:border-color .3s var(--ease),color .3s var(--ease)}
+.fiche .plus:hover{color:var(--cuivre-fonce);border-color:var(--cuivre)}
+.fiche .plus span{display:inline-block;margin-left:6px;transition:transform .4s var(--ease)}
+.fiche.ouvert .plus span{transform:rotate(45deg)}
+@media (max-width:900px){.equipe{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:28px}.equipe .fiche:nth-child(even){margin-top:48px}}
+@media (max-width:520px){.equipe{grid-template-columns:1fr;max-width:340px;margin-inline:auto}.equipe .fiche:nth-child(even){margin-top:0}.fiche .role{min-height:0}}
+
+/* ——— Cas d'accompagnement ——— */
+.cas{padding-block:88px 72px}
+.cas-liste{border-top:1px solid transparent}
+.un-cas{display:grid;grid-template-columns:minmax(0,1fr) 72px minmax(0,1.25fr);gap:16px;align-items:center;padding:22px 0;border-bottom:1px solid var(--cuivre-clair)}
+.un-cas:last-child{border-bottom:0}
+.un-cas h3{font-size:24px;font-weight:600;line-height:1.2;margin-bottom:12px}
+.un-cas .ctx{font-size:14px;line-height:1.2}
+.un-cas .puce{justify-self:center;width:30px;height:24px;fill:var(--cuivre);transition:transform .5s var(--ease)}
+.un-cas:hover .puce{transform:translateX(6px)}
+.un-cas .iv{display:grid;gap:8px}
+.un-cas .iv span{font-family:var(--display);font-style:italic;font-size:clamp(32px,3.2vw,40px);line-height:1;color:var(--cuivre)}
+.un-cas ul{margin:0;padding:0;list-style:none;font-size:14px;line-height:1.25}
+.un-cas li::before{content:"• "}
+@media (max-width:720px){.un-cas{grid-template-columns:1fr;gap:12px}.un-cas .puce{justify-self:start}}
+
+/* ——— Conclusion ——— */
+.conclusion{padding-block:40px 96px;text-align:center}
+.conclusion .in{display:grid;gap:14px;justify-items:center}
+.conclusion svg{width:34px;height:28px;fill:var(--cuivre);margin-bottom:6px}
+.conclusion h2{max-width:20em}
+.conclusion .btn-line{margin-top:22px}
+
+/* ——— Journal ——— */
+.journal{padding-block:80px;border-top:1px solid var(--filet)}
+.tous{text-align:center;margin-top:40px}
+
+
+/* Hero : ouverture orchestrée */
+.js .hero svg{transition:opacity 2.2s var(--ease),filter 2.2s var(--ease)}
+.js.ouverture .hero svg{opacity:0;filter:blur(10px)}
+.js .hero .accroche,.js .hero .seuil,.js .hero .sur{transition:opacity 1.2s var(--ease),transform 1.2s var(--ease)}
+.js .hero .accroche{transition-delay:.55s}
+.js .hero .seuil{transition-delay:.8s}
+.js.ouverture .hero .accroche,.js.ouverture .hero .seuil,.js.ouverture .hero .sur{opacity:0;transform:translateY(14px)}
+.hero .scroll{position:absolute;left:50%;bottom:28px;width:1px;height:56px;background:var(--filet);overflow:hidden;transform:translateX(-50%)}
+.hero .scroll::after{content:"";position:absolute;left:0;top:-50%;width:1px;height:50%;background:var(--cuivre);animation:descend 2.4s var(--ease) infinite}
+@keyframes descend{to{top:100%}}
+
+/* Onglets : barre cuivre qui glisse */
+.tab{border-left-color:transparent;position:relative}
+.tab::before{content:"";position:absolute;left:-3px;top:0;bottom:0;width:3px;background:var(--cuivre);transform:scaleY(0);transform-origin:top;transition:transform .6s var(--ease)}
+.tab.on{border-left-color:transparent}
+.tab.on::before{transform:scaleY(1)}
+
+/* Valeurs : filets verticaux qui poussent, chiffres qui apparaissent */
+.engage i{transform-origin:top;transition:transform 1.1s var(--ease) .2s}
+.engage .n{transition:opacity 1.2s var(--ease),transform 1.2s var(--ease)}
+.js .engage > div.attente i{transform:scaleY(0)}
+.js .engage > div.attente .n{opacity:0;transform:translateY(20px)}
+.engage > div:nth-child(2),.engage > div:nth-child(2) i,.engage > div:nth-child(2) .n{transition-delay:.15s}
+.engage > div:nth-child(3),.engage > div:nth-child(3) i,.engage > div:nth-child(3) .n{transition-delay:.3s}
+
+/* Fondateurs : apparition en cascade */
+.equipe .fiche:nth-child(2){transition-delay:.1s}
+.equipe .fiche:nth-child(3){transition-delay:.2s}
+.equipe .fiche:nth-child(4){transition-delay:.3s}
+.js .fiche.attente .photo{clip-path:inset(100% 0 0 0)}
+.photo{clip-path:inset(0 0 0 0);transition:clip-path 1.4s cubic-bezier(.77,0,.18,1)}
+
+/* Cas : filets tracés, « Notre intervention » qui glisse */
+.un-cas{border-bottom:0;position:relative}
+.un-cas::after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:var(--cuivre-clair);transform-origin:left;transition:transform 1.4s var(--ease)}
+.un-cas:last-child::after{display:none}
+.js .un-cas.attente::after{transform:scaleX(0)}
+.un-cas .iv span{transition:transform 1s var(--ease) .15s,opacity 1s var(--ease) .15s}
+.js .un-cas.attente .iv span{transform:translateX(-24px);opacity:0}
+.un-cas .puce{transition:transform .9s var(--ease) .1s,opacity .9s var(--ease) .1s}
+.js .un-cas.attente .puce{transform:rotate(-90deg) scale(.6);opacity:0}
+
+
+@media (prefers-reduced-motion:reduce){
+  .js.ouverture .hero svg,.js.ouverture .hero .accroche,.js.ouverture .hero .seuil,.js.ouverture .hero .sur{opacity:1;filter:none;transform:none}
+  .js .split:not(.vu) .m > span{transform:none}
+  .js .engage > div.attente i,.js .un-cas.attente::after{transform:none}
+  .js .engage > div.attente .n,.js .un-cas.attente .iv span,.js .un-cas.attente .puce{opacity:1;transform:none}
+  .js .fiche.attente .photo{clip-path:none}
+  .final .ghost,.hero .scroll::after{animation:none}
+}
+

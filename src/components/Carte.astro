@@ -1,0 +1,12 @@
+---
+import { lien } from '../lib/site';
+import { grappe, minutes, type Article } from '../lib/journal';
+const { a, niveau = 'h3' } = Astro.props as { a: Article; niveau?: 'h2' | 'h3' };
+const Titre = niveau;
+---
+<a class="article" href={lien(`/journal/${a.data.slug}`)}>
+  <p class="cat">{grappe(a)} · {minutes(a)} min</p>
+  <Titre>{a.data.title}</Titre>
+  <p>{a.data.meta_description}</p>
+  <span class="lire">Lire l'article</span>
+</a>

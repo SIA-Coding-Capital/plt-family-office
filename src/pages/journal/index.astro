@@ -1,0 +1,63 @@
+---
+import Base from '../../layouts/Base.astro';
+import AppelFinal from '../../components/AppelFinal.astro';
+import Carte from '../../components/Carte.astro';
+import '../../styles/journal.css';
+import { SITE, lien } from '../../lib/site';
+import { articlesPublies, grappe } from '../../lib/journal';
+
+const articles = await articlesPublies();
+const ordre = ['Transmission et succession', 'Enveloppes et fiscalité', 'Allocation et investissement', 'Dirigeants et international', 'Choisir son accompagnement'];
+const groupes = ordre
+  .map((g) => ({ g, id: g.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z]+/g, '-'), liste: articles.filter((a) => grappe(a) === g) }))
+  .filter((x) => x.liste.length);
+const recents = articles.slice(0, 3);
+const titre = 'Le Journal : gestion de patrimoine, transmission et fiscalité';
+const description =
+  'Les analyses de PLT Family Office pour structurer, protéger et transmettre votre patrimoine : succession, donation, assurance-vie, holding, allocation et fiscalité du dirigeant.';
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Blog',
+    name: 'Le Journal de PLT Family Office',
+    description,
+    url: new URL(lien('/journal'), Astro.site).href,
+    inLanguage: 'fr-FR',
+    publisher: { '@type': 'Organization', name: SITE.nom },
+    blogPost: articles.map((a) => ({ '@type': 'BlogPosting', headline: a.data.title, url: new URL(lien(`/journal/${a.data.slug}`), Astro.site).href })),
+  },
+];
+---
+<Base titre={`${titre} | PLT Family Office`} description={description} jsonld={jsonld} actif="journal">
+  <header class="page-tete">
+    <div class="wrap">
+      <p class="sur">Le Journal</p>
+      <h1 class="split">Structurer, protéger, transmettre</h1>
+      <p class="chapo">Nos analyses sur la transmission, la fiscalité et l'allocation du patrimoine. Un nouvel article chaque jour, rédigé par les fondateurs de PLT Family Office.</p>
+    </div>
+  </header>
+  <div class="wrap liste">
+    {articles.length === 0 ? (
+      <p class="vide">Les premiers articles paraissent très bientôt.</p>
+    ) : (
+      <>
+        {groupes.length > 1 && (
+          <ul class="grappes" aria-label="Thèmes">
+            {groupes.map((x) => <li><a href={`#${x.id}`}>{x.g}</a></li>)}
+          </ul>
+        )}
+        <section class="grappe-bloc" aria-labelledby="recents">
+          <h2 id="recents">Les plus récents</h2>
+          <div class="articles">{recents.map((a) => <Carte a={a} />)}</div>
+        </section>
+        {articles.length > 3 && groupes.map((x) => (
+          <section class="grappe-bloc" id={x.id} aria-labelledby={`t-${x.id}`}>
+            <h2 id={`t-${x.id}`}>{x.g}</h2>
+            <div class="articles">{x.liste.map((a) => <Carte a={a} />)}</div>
+          </section>
+        ))}
+      </>
+    )}
+  </div>
+  <AppelFinal />
+</Base>

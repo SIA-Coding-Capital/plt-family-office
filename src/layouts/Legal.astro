@@ -1,0 +1,9 @@
+---
+import Base from './Base.astro';
+import '../styles/journal.css';
+const { titre, description } = Astro.props;
+---
+<Base titre={`${titre} | PLT Family Office`} description={description}>
+  <header class="page-tete"><div class="wrap"><h1>{titre}</h1></div></header>
+  <div class="wrap"><div class="prose"><slot /></div></div>
+</Base>

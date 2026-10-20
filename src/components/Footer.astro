@@ -1,0 +1,15 @@
+---
+import { lien, SITE } from '../lib/site';
+---
+<footer class="bande">
+  <div class="wrap">
+    <a class="f-logo" href={lien('/')}><b>PLT FAMILY</b><span>OFFICE</span></a>
+    <nav class="f-liens" aria-label="Liens de pied de page">
+      <a href={SITE.linkedin} rel="noopener">LinkedIn</a>
+      <a href={lien('/journal')}>Journal</a>
+      <a href={lien('/protection-des-donnees')}>Politique de protection des données</a>
+      <a href={lien('/mentions-legales')}>Mentions légales</a>
+    </nav>
+    <p class="mentions">1 passage des Acacias, 75017 Paris. SAS au capital de 4 000 € – RCS Paris 928 077 189 – APE 66.22Z. ORIAS n° 24006260 – Membre ANACOFI-CIF – Attestation CIF en cours. Assurance RCP &amp; garantie financière&nbsp;: AIG EUROPE SA. TVA intracom&nbsp;: FR33928077189</p>
+  </div>
+</footer>

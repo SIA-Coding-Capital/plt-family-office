@@ -1,0 +1,13 @@
+---
+import { SITE } from '../lib/site';
+const { titre = 'Entrez en relation avec le PLT Family Office.' } = Astro.props;
+---
+<section class="final" id="contact">
+  <span class="ghost" aria-hidden="true">PLT</span>
+  <div class="wrap in">
+    <p class="sur">Candidature privée</p>
+    <h2 class="split">{titre}</h2>
+    <p>Réservez un échange confidentiel, sans engagement, avec un membre fondateur.</p>
+    <a class="btn-line blanc" href={SITE.formulaire} rel="noopener">Accéder au formulaire de candidature privée</a>
+  </div>
+</section>
