@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - compte à terme entreprise
   - trésorerie holding
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
@@ -58,7 +58,7 @@ sources:
 
 # Trésorerie excédentaire : faire travailler l'argent qui dort dans la société
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Une trésorerie d'entreprise se place en trois poches : l'exploitation (quelques mois de charges, disponibles à vue), la précaution (comptes à terme, fonds monétaires) et l'excédent durable, qui peut viser plus de rendement via obligations, contrats de capitalisation ou private equity. À l'impôt sur les sociétés, les gains sont taxés à 15 % ou 25 %, parfois chaque année même sans vente. Un excédent mal géré peut aussi peser sur une cession ou un pacte Dutreil.
 
@@ -173,6 +173,6 @@ La verser déclenche immédiatement 31,4 % de fiscalité sur un dividende. La pl
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement ni un conseil fiscal. Tout placement non garanti comporte un risque de perte en capital. Règles en vigueur à la date de publication ; elles peuvent évoluer.*

@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - audit patrimonial prix
   - tous les combien faire un bilan patrimonial
 intention: informationnelle / commerciale
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
@@ -61,7 +61,7 @@ sources:
 
 # L'audit patrimonial : ce qu'il contient et ce qu'il fait économiser
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Un audit patrimonial est une analyse complète de la situation d'une famille : droit de la famille, inventaire des biens et des dettes, fiscalité, qualité et frais des placements, simulation des droits de succession. Il débouche sur un plan d'action chiffré. Exemple : pour un parent veuf avec deux enfants et 1 M€ de patrimoine, les droits passent d'environ 156 400 € à 95 400 € en logeant 305 000 € en assurance-vie avant 70 ans. Il se refait environ tous les cinq ans.
 
@@ -190,6 +190,6 @@ Souvent des dizaines, parfois des centaines de milliers d'euros, surtout sur la 
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil juridique, fiscal ou en investissement. Règles fiscales françaises en vigueur à la date de publication ; elles peuvent évoluer.*

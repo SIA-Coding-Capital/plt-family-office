@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - fonds global macro
   - UCITS alternatifs assurance-vie
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
 longueur: environ 1150 mots
@@ -50,7 +50,7 @@ sources:
 
 # Gestion alternative et hedge funds : à quoi servent-ils dans un patrimoine ?
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** La gestion alternative regroupe des fonds (hedge funds) qui cherchent une performance la plus régulière possible, peu dépendante de la hausse ou de la baisse des marchés, en combinant achats, ventes à découvert, arbitrages ou positions sur les taux et les devises. Les fonds visent typiquement 4 à 7 % par an. Quasi absente des portefeuilles des particuliers, elle fait partie des classes d'actifs que les grandes fortunes renforcent. Pour en juger un, regardez d'abord ce qu'il a fait en 2022.
 
@@ -169,6 +169,6 @@ Regardez sa performance en 2022, son pire repli historique, sa corrélation avec
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. La gestion alternative présente un risque de perte en capital. Les performances passées ne préjugent pas des performances futures. Règles en vigueur à la date de publication ; elles peuvent évoluer.*

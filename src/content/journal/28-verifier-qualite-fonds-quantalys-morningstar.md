@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - code ISIN fonds
   - frais courants OPCVM
 intention: informationnelle / pratique
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
@@ -55,7 +55,7 @@ sources:
 
 # Vérifier la qualité de ses fonds en 5 minutes (Quantalys, Morningstar)
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Pour vérifier la qualité d'un fonds, tapez son code ISIN sur Quantalys ou Morningstar, deux sites consultables gratuitement. Contrôlez sa catégorie, sa note de 1 à 5 étoiles (chez Morningstar, 5 étoiles signifie faire partie des 10 % meilleurs de la catégorie sur trois ans au moins), son rang sur trois et cinq ans et ses frais courants. Un fonds durablement dans la moitié basse de sa catégorie, et plus cher qu'elle, mérite une explication écrite de votre conseiller.
 
@@ -175,6 +175,6 @@ Non. La note mesure le passé, pas l'avenir, et ne dit rien de l'adéquation du 
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. Les notations de fonds reflètent le passé et ne préjugent pas des performances futures. Règles et méthodologies en vigueur à la date de publication ; elles peuvent évoluer.*

@@ -12,7 +12,7 @@ mots_cles_secondaires:
   - crypto crédit lombard
   - bitcoin succession
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
@@ -61,7 +61,7 @@ sources:
 
 # Cryptomonnaies : quelle place dans un patrimoine, et sous quelle forme
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Dans les patrimoines suivis en gestion de fortune, les cryptomonnaies pèsent en général moins de 1 %. Pour un investisseur convaincu, 3 à 5 % constitue un maximum raisonnable, investi progressivement, car l'actif ne verse aucun revenu et peut perdre 60 % en un an. On peut les détenir en direct, via des produits cotés (ETP) ou dans un contrat d'assurance-vie luxembourgeois. En direct, les plus-values sont taxées à 31,4 % en 2026.
 
@@ -187,6 +187,6 @@ Non. En France, elles entrent dans la succession comme les autres actifs, au bar
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. Les cryptomonnaies présentent un risque de perte en capital élevé. Règles fiscales françaises en vigueur à la date de publication ; elles peuvent évoluer.*

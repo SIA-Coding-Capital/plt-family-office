@@ -12,7 +12,7 @@ mots_cles_secondaires:
   - holding avant cession
   - que faire du prix de cession
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
@@ -59,7 +59,7 @@ sources:
 
 # Céder son entreprise : ce qui se joue trois ans avant la signature
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Une cession d'entreprise se prépare idéalement trois ans à l'avance. Vendre en direct coûte 31,4 % de la plus-value, plus 3 à 4 % de contribution sur les hauts revenus. Un apport préalable des titres à une holding reporte l'impôt, à condition depuis février 2026 de réinvestir 70 % du prix dans une activité économique sous trois ans. Une donation avant la vente purge la plus-value sur les titres donnés. Trésorerie, régime matrimonial et allocation du prix se règlent aussi en amont.
 
@@ -169,6 +169,6 @@ Oui, sur les titres donnés : le donataire les reçoit à leur valeur au jour de
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil fiscal ou juridique. Les régimes cités sont soumis à conditions. Règles en vigueur à la date de publication ; elles peuvent évoluer.*

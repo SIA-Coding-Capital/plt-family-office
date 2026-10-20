@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - private equity assurance vie luxembourgeoise
   - capital investissement
 intention: informationnelle / commerciale
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
@@ -55,7 +55,7 @@ sources:
 
 # Private equity : la classe d'actifs que les grandes fortunes ne négligent jamais
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Le private equity consiste à investir dans des entreprises non cotées. Il représente environ un quart du patrimoine des grandes fortunes, contre 2 à 5 % chez les particuliers français. Sur vingt ans, les fonds médians de croissance ont rapporté environ 13 % par an et ceux du premier quartile plus de 20 %. Un particulier y accède via des fonds de fonds ou un contrat d'assurance-vie luxembourgeois.
 
@@ -152,6 +152,6 @@ Elle dépend de l'horizon et des besoins de liquidité. Chez les grandes fortune
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. Le private equity présente un risque de perte en capital et une liquidité réduite.*

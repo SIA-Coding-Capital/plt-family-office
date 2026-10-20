@@ -12,7 +12,7 @@ mots_cles_secondaires:
   - donation au dernier vivant famille recomposée
   - clause bénéficiaire famille recomposée
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
@@ -60,7 +60,7 @@ sources:
 
 # Famille recomposée : protéger son conjoint sans déshériter personne
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Dans une famille recomposée, le conjoint survivant ne reçoit par défaut qu'un quart du patrimoine en pleine propriété dès qu'il existe un enfant d'une autre union, et les beaux-enfants n'héritent de rien : ce qu'on leur transmet est taxé à 60 % après un abattement de 1 594 €. Testament, donation entre époux, clause bénéficiaire d'assurance-vie bien rédigée et, le cas échéant, adoption simple de l'enfant du conjoint permettent de protéger chacun sans léser personne.
 
@@ -191,6 +191,6 @@ Parce que les capitaux reçus par le conjoint survivant lui appartiennent : à s
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil juridique ou fiscal. Consultez votre notaire avant toute donation, tout testament ou toute adoption. Règles en vigueur à la date de publication ; elles peuvent évoluer.*

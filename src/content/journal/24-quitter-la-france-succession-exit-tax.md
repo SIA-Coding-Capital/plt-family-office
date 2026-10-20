@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - résidence fiscale article 4 B
   - expatriation et transmission
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1100 mots
@@ -53,7 +53,7 @@ sources:
 
 # Quitter la France pour sa succession : ce que le départ change, et ce qu'il ne change pas
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Quitter la France ne supprime pas automatiquement les droits de succession français : les biens situés en France restent taxables, et les biens situés à l'étranger le sont aussi dès que l'héritier vit en France depuis au moins 6 des 10 dernières années. Le départ peut en outre déclencher l'exit tax, au taux global de 31,4 %, sur les plus-values latentes au-delà de 800 000 € de titres. Il faut d'abord mesurer ce que l'on peut optimiser en restant.
 
@@ -169,6 +169,6 @@ Rarement pour cette seule raison. Une transmission anticipée bien organisée en
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil fiscal. Un projet d'expatriation se prépare avec un avocat fiscaliste dans chacun des pays concernés. Règles en vigueur à la date de publication ; elles peuvent évoluer.*

@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - rappel fiscal 15 ans
   - barème droits de donation
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
@@ -61,7 +61,7 @@ sources:
 
 # La règle des 15 ans : le socle de toute stratégie de transmission
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Tous les 15 ans, chaque parent peut donner 100 000 € à chaque enfant sans droits, plus 31 865 € en argent s'il a moins de 80 ans et que l'enfant est majeur. Les grands-parents disposent de 31 865 € par petit-enfant (et autant en argent), les époux et partenaires de Pacs de 80 724 €. Au-delà de 15 ans, les donations passées ne sont plus prises en compte : donner tôt permet de réutiliser ces abattements.
 
@@ -182,6 +182,6 @@ En ligne directe, un barème progressif de 5 % à 45 % s'applique ; la tranche �
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. Montants et barèmes en vigueur à la date de publication ; ils peuvent évoluer.*

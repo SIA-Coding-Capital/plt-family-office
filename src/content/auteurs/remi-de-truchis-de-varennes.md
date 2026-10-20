@@ -6,7 +6,7 @@ url: /auteurs/remi-de-truchis-de-varennes
 nom: Rémi de Truchis de Varennes
 fonction: "Cofondateur et actionnaire, investisseur et entrepreneur"
 organisation: PLT Family Office
-photo: "À fournir (portrait HD, demandé plus tard)"
+photo: https://cdn.prod.website-files.com/684f28f3bc4263879ab598bc/684fb2cba16df6a9f8d9d5e2_R%C3%A9mi.webp
 livres:
   - titre: "Surperformez en bourse avec les small caps : le value investing pour des investissements performants et sécurisés"
     url: https://www.amazon.fr/dp/2818812240
@@ -32,7 +32,7 @@ date_mise_a_jour: 2026-10-20
 
 *Cofondateur et actionnaire de PLT Family Office. Investisseur et entrepreneur.*
 
-> Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Ingénieur de formation, il a cofondé [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'intelligence financière, ainsi que la chaîne Parlons Long Terme. Chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*, il est très actif dans l'écosystème des introductions en Bourse. Il signe les articles du journal de PLT Family Office.
+> Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Ingénieur de formation, il a cofondé [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'intelligence financière, ainsi que la chaîne Parlons Long Terme. Chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*, il est très actif dans l'écosystème des introductions en Bourse. Il signe les articles du journal consacrés au family office et à l'investissement en actions.
 
 <!-- Portrait HD de Rémi à intégrer ici -->
 
@@ -66,64 +66,21 @@ Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/remi-de-truchis-de
 
 ## Ses articles
 
+### Transmission et succession
+
+- [Comment parler de succession avec ses parents (et ses enfants)](/journal/parler-transmission-famille)
+
+### Allocation et investissement
+
+- [Small caps : pourquoi les petites valeurs méritent une place](/journal/small-caps-investissement)
+
 ### Choisir son accompagnement
 
 - [Multi family office : définition, rôle et à partir de quel patrimoine](/journal/multi-family-office-definition)
 - [Family office ou banque privée : comment choisir ?](/journal/family-office-ou-banque-privee)
 - [Gestion de fortune dès 300 000 € : pour qui, comment](/journal/gestion-de-fortune-300000-euros)
 - [CGP, banque privée, multi family office : qui fait quoi ?](/journal/cgp-banque-privee-multi-family-office)
-- [Honoraires ou rétrocessions : comment votre conseiller est payé](/journal/honoraires-ou-retrocessions)
-- [Audit patrimonial : ce qu'il contient, ce qu'il fait économiser](/journal/audit-patrimonial)
 - [Histoire des family offices : des Médicis à Rockefeller](/journal/histoire-family-office)
-
-### Transmission et succession
-
-- [Démembrement de propriété : transmettre avec une décote légale](/journal/demembrement-propriete-donation-nue-propriete)
-- [Donation : la règle des 15 ans et les abattements à connaître](/journal/abattement-donation-15-ans)
-- [Assurance-vie et succession : 152 500 € par bénéficiaire, et après ?](/journal/assurance-vie-succession-clause-beneficiaire)
-- [Donation-partage ou donation simple : l'erreur qui divise les familles](/journal/donation-partage-ou-donation-simple)
-- [Qui hérite si rien n'est prévu ? Pacs, mariage et couple sans enfant](/journal/qui-herite-succession-couple-sans-enfant)
-- [Cas pratique : 1,8 M€ à transmettre, de 295 000 € à 45 000 € de droits](/journal/cas-pratique-reduire-droits-succession)
-- [Comment parler de succession avec ses parents (et ses enfants)](/journal/parler-transmission-famille)
-- [Pacte Dutreil 2026 : transmettre son entreprise à 75 % exonéré](/journal/pacte-dutreil-transmission-entreprise)
-- [Donation avant cession : purger la plus-value de son entreprise](/journal/donation-avant-cession)
-- [Clause bénéficiaire d'assurance-vie : modèles et erreurs à éviter](/journal/clause-beneficiaire-assurance-vie-modeles)
-- [Donation temporaire d'usufruit : principe et cas d'usage](/journal/donation-temporaire-usufruit)
-- [SCI familiale : avantages, statuts et transmission](/journal/sci-familiale-transmission)
-- [Barème des droits de succession et de donation 2026](/journal/bareme-droits-succession-2026)
-- [Transmettre à ses petits-enfants : donation et assurance-vie](/journal/transmettre-petits-enfants)
-- [Famille recomposée : protéger son conjoint et tous ses enfants](/journal/famille-recomposee-succession)
-
-### Enveloppes et fiscalité
-
-- [Compte-titres, PEA, assurance-vie : que se passe-t-il au décès ?](/journal/compte-titres-pea-succession)
-- [Assurance-vie luxembourgeoise : avantages, frais et pièges](/journal/assurance-vie-luxembourgeoise)
-- [Frais cachés de l'assurance-vie : calculez ce que vous payez](/journal/frais-caches-assurance-vie)
-- [Assurance-vie et expatriation : ce qui change](/journal/assurance-vie-expatriation)
-
-### Allocation et investissement
-
-- [Comment investissent les grandes fortunes : l'allocation à copier](/journal/allocation-patrimoine-grandes-fortunes)
-- [Private equity pour particuliers : pourquoi et comment y accéder](/journal/private-equity-particulier)
-- [Obligations : pourquoi les grandes fortunes y sont revenues](/journal/obligations-grandes-fortunes)
-- [Gestion alternative et hedge funds : à quoi servent-ils ?](/journal/gestion-alternative-hedge-funds)
-- [Diversifier en devises : faut-il couvrir le risque de change ?](/journal/diversification-devises-risque-change)
-- [Vérifier ses fonds en 5 minutes avec Quantalys et Morningstar](/journal/verifier-qualite-fonds-quantalys-morningstar)
-- [ETF ou gestion active : quand chaque approche a du sens](/journal/etf-ou-gestion-active)
-- [Small caps : pourquoi les petites valeurs méritent une place](/journal/small-caps-investissement)
-- [Cryptomonnaies : quelle part du patrimoine, comment les détenir](/journal/cryptomonnaies-patrimoine)
-- [Investir 1 million d'euros : par où commencer ?](/journal/investir-1-million-euros)
-
-### Dirigeants et international
-
-- [Holding patrimoniale : quand la créer, et quand l'éviter](/journal/holding-patrimoniale-quand-la-creer)
-- [Crédit lombard : fonctionnement, taux, risques et vrais usages](/journal/credit-lombard)
-- [Quitter la France pour sa succession ? Exit tax et limites](/journal/quitter-la-france-succession-exit-tax)
-- [Céder son entreprise : la préparation patrimoniale, 3 ans avant](/journal/preparer-cession-entreprise)
-- [Trésorerie excédentaire en société : comment la placer](/journal/placer-tresorerie-entreprise)
-- [Rémunération du dirigeant : salaire, dividendes ou holding ?](/journal/remuneration-dirigeant-salaire-dividendes)
-- [Crédit lombard pour dirigeants et non-résidents](/journal/credit-lombard-dirigeants-non-residents)
-- [S'expatrier : la check-list patrimoniale avant de partir](/journal/expatriation-checklist-patrimoniale)
 
 ## Ses vidéos
 

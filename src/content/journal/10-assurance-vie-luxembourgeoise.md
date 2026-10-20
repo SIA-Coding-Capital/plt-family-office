@@ -13,7 +13,7 @@ mots_cles_secondaires:
   - assurance vie luxembourgeoise frais
   - assurance vie luxembourgeoise expatriation
 intention: informationnelle / commerciale
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1500 mots
@@ -56,7 +56,7 @@ sources:
 
 # Assurance-vie luxembourgeoise : ce qu'elle apporte vraiment
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** L'assurance-vie luxembourgeoise est un contrat souscrit auprès d'un assureur luxembourgeois. Pour un résident français, sa fiscalité est exactement celle de l'assurance-vie française, grâce à la neutralité fiscale du Luxembourg. Ses vrais atouts sont un univers d'investissement très large (titres vifs, private equity, parts institutionnelles), le choix de la devise, le crédit lombard et la portabilité en cas d'expatriation. Ticket d'entrée : 750 000 € à 1 M€ en banque, 300 000 € chez PLT Family Office.
 
@@ -217,6 +217,6 @@ Pas forcément. Bien négocié, avec des titres vifs, des ETF et des parts insti
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement.*

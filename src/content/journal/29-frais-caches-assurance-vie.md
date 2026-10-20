@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - rétrocessions assurance vie
   - tableau des frais assurance vie
 intention: informationnelle / pratique
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
@@ -56,7 +56,7 @@ sources:
 
 # Les frais cachés de l'assurance-vie : calculer ce que vous payez vraiment
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Une assurance-vie investie en fonds accumule trois couches de frais annuels : la gestion du contrat (0,5 à 1 %), la gestion sous mandat éventuelle (environ 0,5 %) et les frais courants des fonds (environ 1,75 % en moyenne pour des fonds actions actifs). Au total, environ 3 % par an dans un contrat bancaire géré. Sur 500 000 € et 20 ans, avec un rendement de marché de 6 %, passer de 3 % à 1,5 % de frais représente environ 300 000 € d'écart.
 
@@ -176,6 +176,6 @@ Dans le tableau standardisé des frais que les assureurs et distributeurs publie
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. Règles en vigueur à la date de publication ; elles peuvent évoluer.*

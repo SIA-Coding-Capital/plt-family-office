@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - pacte Dutreil holding
   - compte-titres en société
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
@@ -56,7 +56,7 @@ sources:
 
 # Holding patrimoniale : un très bel outil, mais pas pour tout le monde
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** En France, une holding patrimoniale ne réduit pas l'impôt : elle permet de choisir quand le payer. Elle est pertinente pour vendre une entreprise sans avoir besoin du prix (environ 3 % de fiscalité effective sous conditions, au lieu de 26 à 37 %), transmettre progressivement, monter un OBO ou séparer des associés aux stratégies différentes. Elle n'a pas de sens pour loger une épargne personnelle.
 
@@ -172,6 +172,6 @@ Non. Les gains seraient taxés à l'impôt sur les sociétés puis à la sortie,
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil fiscal. Les régimes cités sont soumis à conditions et évoluent régulièrement.*

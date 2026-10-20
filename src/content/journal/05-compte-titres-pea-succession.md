@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - PEA ou compte-titres
   - donner des actions à ses enfants
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
@@ -53,7 +53,7 @@ sources:
 
 # Compte-titres, PEA, assurance-vie : ce que deviennent vos placements au décès
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Au décès, un PEA est clôturé : les prélèvements sociaux (18,6 %) sont dus sur les gains, puis les droits de succession s'appliquent. Sur un compte-titres, les plus-values sont effacées et l'héritier reprend les titres à leur valeur au décès, majorée des droits qu'il a payés. Une donation de titres efface aussi la plus-value latente, ce qui en fait un levier de transmission souvent oublié.
 
@@ -174,6 +174,6 @@ Souvent des titres en plus-value : la donation efface la plus-value latente, et 
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. Taux en vigueur à la date de publication ; ils peuvent évoluer.*

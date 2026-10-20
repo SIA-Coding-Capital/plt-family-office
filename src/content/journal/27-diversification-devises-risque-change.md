@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - investir en dollars
   - contrat en franc suisse
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
@@ -54,7 +54,7 @@ sources:
 
 # Diversifier en devises : faut-il couvrir le risque de change ?
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Le risque de change est la variation de valeur d'un placement due à l'évolution de sa devise face à l'euro. En 2025, le S&P 500 a gagné environ 17 % en dollars mais seulement 4 % une fois converti en euros. Couvrir ce risque coûte environ l'écart de taux d'intérêt entre les deux devises : c'est souvent pertinent pour des obligations étrangères, beaucoup moins pour des actions détenues à long terme. Diversifier ses devises est utile ; parier sur elles ne l'est pas.
 
@@ -161,6 +161,6 @@ Oui, un contrat d'assurance-vie luxembourgeois peut être libellé dans une autr
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. Les marchés des changes sont volatils et les performances passées ne préjugent pas des performances futures. Règles en vigueur à la date de publication ; elles peuvent évoluer.*

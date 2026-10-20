@@ -12,7 +12,7 @@ mots_cles_secondaires:
   - clause bénéficiaire concubin
   - modifier clause bénéficiaire
 intention: informationnelle
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
@@ -61,7 +61,7 @@ sources:
 
 # Clause bénéficiaire d'assurance-vie : modèles commentés et erreurs à éviter
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Une clause bénéficiaire efficace désigne chaque bénéficiaire sans ambiguïté (nom, prénom, date et lieu de naissance), prévoit plusieurs rangs (« à défaut ») et la représentation des enfants prédécédés. La clause standard « mon conjoint, à défaut mes enfants » prive souvent les enfants de leur abattement de 152 500 €. Une clause démembrée, ou répartie entre conjoint et enfants, protège le conjoint tout en réduisant les droits au second décès.
 
@@ -194,6 +194,6 @@ Nommément, avec son nom, ses prénoms, sa date et son lieu de naissance. Le con
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil juridique, fiscal ou en investissement. Règles fiscales françaises en vigueur à la date de publication ; elles peuvent évoluer.*

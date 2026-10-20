@@ -11,7 +11,7 @@ mots_cles_secondaires:
   - frais de gestion rétrocédés
   - relevé annuel des coûts et frais
 intention: informationnelle / comparative
-auteur: Rémi de Truchis de Varennes
+auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
@@ -59,7 +59,7 @@ sources:
 
 # Honoraires ou rétrocessions : ce que vous payez vraiment à votre conseiller
 
-*Par [Rémi de Truchis de Varennes](/auteurs/remi-de-truchis-de-varennes), cofondateur de PLT Family Office. Mis à jour le 20 octobre 2026.*
+*Par [Sébastien Valton](/auteurs/sebastien-valton), cofondateur de PLT Family Office, conseiller en investissements financiers (CIF). Mis à jour le 20 octobre 2026.*
 
 > **L'essentiel.** Un conseiller patrimonial est payé soit par rétrocessions, c'est-à-dire une part des frais des produits qu'il place, sans TVA, soit par honoraires, un montant convenu à l'avance et soumis à 20 % de TVA. Depuis MiFID II, un conseiller qui se dit indépendant ne peut pas conserver de rétrocessions. Sur 500 000 € pendant 20 ans, un écart de frais d'environ un point représente près de 176 000 € de capital.
 
@@ -190,6 +190,6 @@ Non. Elles permettent d'accéder au conseil sans payer de TVA ni de facture sép
 
 ## À propos de l'auteur
 
-Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Cofondateur de [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'investissement, et d'IPO Arena, il est chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*. Les conseils aux familles sont délivrés par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers. [Voir sa page auteur](/auteurs/remi-de-truchis-de-varennes).
+Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille et spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. [Voir sa page auteur](/auteurs/sebastien-valton).
 
 *Contenu à visée pédagogique, ne constituant pas un conseil en investissement. Règles en vigueur à la date de publication ; elles peuvent évoluer.*
