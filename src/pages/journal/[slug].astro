@@ -73,13 +73,6 @@ for (const v of d.videos)
     duration: v.duree,
     contentUrl: v.url,
     embedUrl: `https://www.youtube-nocookie.com/embed/${v.id}`,
-    hasPart: v.passages.map((p, i) => ({
-      '@type': 'Clip',
-      name: p.label,
-      startOffset: p.t,
-      ...(v.passages[i + 1] && { endOffset: v.passages[i + 1].t }),
-      url: `${v.url}&t=${p.t}s`,
-    })),
   });
 ---
 <Base titre={`${d.title} | PLT Family Office`} description={d.meta_description} type="article" jsonld={jsonld} actif="journal" publie={pub} modifie={maj}>
