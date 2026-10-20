@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import AppelFinal from '../components/AppelFinal.astro';
 import '../styles/landing.css';
-import { SITE, lien } from '../lib/site';
+import { SITE, lien, insecables } from '../lib/site';
 import { articlesPublies, grappe, minutes } from '../lib/journal';
 
 const derniers = (await articlesPublies()).slice(0, 3);
@@ -170,8 +170,8 @@ const jsonld = [
           {derniers.map((a) => (
             <a class="article" href={lien(`/journal/${a.data.slug}`)}>
               <p class="cat">{grappe(a)} · {minutes(a)} min</p>
-              <h3>{a.data.title}</h3>
-              <p>{a.data.meta_description}</p>
+              <h3>{insecables(a.data.title)}</h3>
+              <p>{insecables(a.data.meta_description)}</p>
               <span class="lire">Lire l'article</span>
             </a>
           ))}

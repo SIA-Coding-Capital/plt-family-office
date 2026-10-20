@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import AppelFinal from '../../components/AppelFinal.astro';
 import '../../styles/journal.css';
-import { SITE, lien, dateLongue } from '../../lib/site';
+import { SITE, lien, dateLongue, insecables } from '../../lib/site';
 import { articlesPublies, grappe, minutes, publieLe, misAJourLe, type Article } from '../../lib/journal';
 
 export async function getStaticPaths() {
@@ -88,8 +88,8 @@ for (const v of d.videos)
       <nav class="fil" aria-label="Fil d'Ariane">
         <ol><li><a href={lien('/')}>Accueil</a></li><li><a href={lien('/journal')}>Journal</a></li><li>{grappe(a)}</li></ol>
       </nav>
-      <p class="sur">{grappe(a)} · {minutes(a)} min de lecture</p>
-      <h1 class="split">{d.title}</h1>
+      <p class="sur">{grappe(a)} · {minutes(a)} min</p>
+      <h1 class="split">{insecables(d.title)}</h1>
       <p class="signature">
         Par {urlAuteur ? <a href={urlAuteur} rel="author">{d.auteur}</a> : d.auteur}, cofondateur de PLT Family Office.<br>
         Publié le <time datetime={pub}>{dateLongue(pub)}</time>{maj !== pub && <>, mis à jour le <time datetime={maj}>{dateLongue(maj)}</time></>}.

@@ -20,6 +20,8 @@ export default function rehypeJournal({ publies, base = '/' }) {
 
     visit(tree, (node, index, parent) => {
       if (!parent) return;
+      // Typographie française : pas de retour à la ligne avant : ; ? ! »
+      if (node.type === 'text') node.value = node.value.replace(/ ([:;?!»])/g, '\u00a0$1').replace(/« /g, '«\u00a0');
       // 2. Liens internes
       if (node.tagName === 'a') {
         const href = String(node.properties.href || '');

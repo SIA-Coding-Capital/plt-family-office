@@ -14,3 +14,6 @@ export const lien = (chemin: string) => import.meta.env.BASE_URL.replace(/\/$/, 
 
 export const dateLongue = (d: Date | string) =>
   new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(d));
+
+// Typographie française : espace insécable avant : ; ? ! » et après «, pour éviter les retours à la ligne orphelins.
+export const insecables = (t: string) => t.replace(/ ([:;?!»])/g, '\u00a0$1').replace(/« /g, '«\u00a0');
