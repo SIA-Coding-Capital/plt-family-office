@@ -132,7 +132,7 @@ Deux exemples de fausse diversification :
 
 Les actions américaines ont porté les marchés pendant dix ans. Mais un portefeuille 100 % S&P 500 porte un double risque :
 
-- **la concentration** : une dizaine d'entreprises représentent près de la moitié de l'indice, et la technologie environ la moitié ;
+- **la concentration** : une dizaine d'entreprises représentent près de la moitié de l'indice, et les valeurs technologiques au sens large (logiciels, semi-conducteurs, plateformes internet) près de la moitié ;
 - **la devise** : investir en S&P 500, c'est investir en dollars. Sur l'année écoulée au moment de l'enregistrement, le S&P 500 progressait d'environ 17 % en dollars, mais seulement d'environ 4 % une fois converti en euros. Nous détaillons comment [gérer ce risque de change](/journal/diversification-devises-risque-change).
 
 Les cycles existent : en 2014, le Nasdaq sortait de quinze ans pendant lesquels il était simplement revenu à son point de départ. Depuis 2025, on observe un mouvement de « dédollarisation » des portefeuilles, et les grandes fortunes prévoient de renforcer leur exposition à l'**Asie**, zone de forte croissance et d'innovation [(à 17:12 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1032s).

@@ -6,10 +6,16 @@ url: /auteurs/remi-de-truchis-de-varennes
 nom: Rémi de Truchis de Varennes
 fonction: "Cofondateur, investisseur"
 organisation: PLT Family Office
-photo: "À fournir (portrait HD)"
+photo: "À fournir (portrait HD, demandé plus tard)"
+livres:
+  - titre: "Surperformez en bourse avec les small caps : le value investing pour des investissements performants et sécurisés"
+    url: https://www.amazon.fr/dp/2818812240
+    isbn: "2818812240"
+  - titre: "Enseignez l'argent à vos enfants : le guide de l'éducation financière de 3 à 18 ans, argent, épargne et investissement en famille"
+    url: https://www.amazon.fr/dp/B09RGBXQV7
 same_as:
   - https://www.youtube.com/@parlons-long-terme
-  - "LinkedIn : URL à fournir"
+  - https://www.linkedin.com/in/remi-de-truchis-de-varennes/
 expertise:
   - Allocation de capital à long terme
   - Value investing
@@ -22,7 +28,7 @@ date_mise_a_jour: 2026-10-20
 
 *Cofondateur de PLT Family Office. Investisseur.*
 
-> Rémi de Truchis de Varennes est cofondateur de PLT Family Office, dont il a porté la vision et défini les principes fondateurs. Spécialiste de l'allocation de capital à long terme et du value investing, il a fondé la chaîne YouTube Parlons Long Terme et plusieurs entreprises dans le logiciel et la finance. Il signe les articles du journal de PLT Family Office.
+> Rémi de Truchis de Varennes est cofondateur de PLT Family Office, dont il a porté la vision et défini les principes fondateurs. Spécialiste de l'allocation de capital à long terme et du value investing, il a fondé la chaîne YouTube Parlons Long Terme et plusieurs entreprises dans le logiciel et la finance. Il est l'auteur de *Surperformez en bourse avec les small caps* et signe les articles du journal de PLT Family Office.
 
 <!-- Portrait HD de Rémi à intégrer ici -->
 
@@ -32,7 +38,12 @@ Rémi est entrepreneur avant d'être conseiller. Il a créé plusieurs entrepris
 
 C'est de cette démarche qu'est né PLT Family Office : rendre accessibles, dès 300 000 € de patrimoine, les méthodes que les grandes familles réservaient jusqu'ici à leur propre family office. Rémi intervient aujourd'hui comme cofondateur et investisseur. Le conseil aux familles est assuré par les associés conseillers en investissements financiers (CIF) de PLT Family Office.
 
-Il est l'auteur d'ouvrages sur l'investissement en bourse et les small caps.
+Il est l'auteur de deux livres :
+
+- [*Surperformez en bourse avec les small caps : le value investing pour des investissements performants et sécurisés*](https://www.amazon.fr/dp/2818812240) ;
+- [*Enseignez l'argent à vos enfants : le guide de l'éducation financière de 3 à 18 ans, argent, épargne et investissement en famille*](https://www.amazon.fr/dp/B09RGBXQV7).
+
+Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/remi-de-truchis-de-varennes/).
 
 ## Ses convictions d'investisseur
 

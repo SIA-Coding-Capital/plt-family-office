@@ -16,10 +16,19 @@ for (const [from, to] of [['articles', 'src/content/journal'], ['auteurs', 'src/
   }
 }
 
+// Repère les colonnes « N° » et « Grappe » dans l'en-tête du tableau du calendrier.
 const grappes = {};
+let colNum = -1;
+let colGrappe = -1;
 for (const line of fs.readFileSync(path.join(src, 'README.md'), 'utf8').split('\n')) {
-  const m = line.match(/^\|\s*J\d+\s*\|[^|]*\|\s*(\d+)\s*\|[^|]*\|\s*([^|]+?)\s*\|/);
-  if (m) grappes[Number(m[1])] = m[2];
+  if (!line.startsWith('|')) continue;
+  const cells = line.split('|').slice(1, -1).map((c) => c.trim());
+  if (cells.includes('N°') && cells.includes('Grappe')) {
+    colNum = cells.indexOf('N°');
+    colGrappe = cells.indexOf('Grappe');
+  } else if (colNum >= 0 && /^\d+$/.test(cells[colNum] ?? '')) {
+    grappes[Number(cells[colNum])] = cells[colGrappe];
+  }
 }
 fs.writeFileSync(path.join(root, 'src/data/grappes.json'), JSON.stringify(grappes, null, 2) + '\n');
 console.log(`${Object.keys(grappes).length} grappes, articles copiés depuis ${src}`);
