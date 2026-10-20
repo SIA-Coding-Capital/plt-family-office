@@ -34,18 +34,11 @@ videos:
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 272, label: "Ce que la loi vous laisse libre de décider"}
-      - {t: 305, label: "La quotité disponible selon le nombre d'enfants"}
-      - {t: 1310, label: "La clause « mon conjoint » et ses limites"}
-      - {t: 1344, label: "Démembrer la clause bénéficiaire"}
   - id: V8qZaCLBKX0
     titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 2426, label: "Protéger le conjoint et les enfants dès que la famille se structure"}
 faq:
   - q: "Que reçoit le conjoint survivant dans une famille recomposée ?"
     r: "Sans testament ni donation entre époux, le conjoint survivant reçoit un quart de la succession en pleine propriété dès que le défunt laisse au moins un enfant né d'une autre union. Il perd alors l'option pour l'usufruit de la totalité, réservée aux familles où tous les enfants sont communs. Il est en revanche totalement exonéré de droits de succession."
@@ -106,7 +99,7 @@ Vos enfants sont héritiers réservataires : une part minimale de votre patrimoi
 | 2 | 2/3 | 1/3 |
 | 3 et plus | 3/4 | 1/4 |
 
-Christophe Faglin rappelle ces proportions [à 4:32 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=272s). Pour élargir les droits du conjoint, la **donation entre époux** (ou une clause du testament) lui ouvre trois options au décès (article 1094-1 du Code civil) : la quotité disponible en pleine propriété, un quart en pleine propriété et trois quarts en usufruit, ou l'usufruit de la totalité.
+Pour élargir les droits du conjoint, la **donation entre époux** (ou une clause du testament) lui ouvre trois options au décès (article 1094-1 du Code civil) : la quotité disponible en pleine propriété, un quart en pleine propriété et trois quarts en usufruit, ou l'usufruit de la totalité.
 
 Dans l'exemple de Paul, avec deux enfants, Claire pourrait ainsi recevoir 400 000 € en pleine propriété, ou l'usufruit de l'ensemble.
 
@@ -134,7 +127,11 @@ Trois outils changent radicalement ce calcul.
 
 Beaucoup de contrats portent la clause « mon conjoint, à défaut mes enfants ». En famille recomposée, elle peut produire l'inverse de ce que vous souhaitez : les capitaux reçus par votre conjoint lui appartiennent, et à son décès, ils iront à ses héritiers à lui, éventuellement ses propres enfants. Vos enfants du premier lit n'en verront rien.
 
-Christophe Faglin décrit ce mécanisme de bascule [à 21:50 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1310s). La réponse est souvent la **clause démembrée** : l'usufruit des capitaux au conjoint, la nue-propriété à vos enfants. Le conjoint dispose des fonds sa vie durant, et vos enfants détiennent une créance sur sa succession, déductible de celle-ci. Les modèles de rédaction sont détaillés dans notre article sur la [clause bénéficiaire d'assurance-vie](/journal/clause-beneficiaire-assurance-vie-modeles).
+La réponse est souvent la **clause démembrée** : l'usufruit des capitaux au conjoint, la nue-propriété à vos enfants. Le conjoint dispose des fonds sa vie durant, et vos enfants détiennent une créance sur sa succession, déductible de celle-ci. Les modèles de rédaction sont détaillés dans notre article sur la [clause bénéficiaire d'assurance-vie](/journal/clause-beneficiaire-assurance-vie-modeles).
+
+Rémi de Truchis de Varennes et Christophe Faglin reviennent sur ce piège de la clause « mon conjoint », et sur la manière de démembrer la clause, dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
 
 ## Le régime matrimonial et l'action en retranchement
 
@@ -147,7 +144,7 @@ Un régime de communauté universelle avec attribution intégrale au survivant e
 3. Choisissez les outils : donation entre époux, testament, assurance-vie, donation-partage, adoption.
 4. Expliquez vos choix. En famille recomposée plus qu'ailleurs, le silence crée des malentendus (voir [comment parler de transmission en famille](/journal/parler-transmission-famille)).
 
-Il faut s'interroger sur la protection du conjoint et des enfants dès que la famille se structure, puis revoir le sujet environ tous les cinq ans, comme le recommande Christophe Faglin [à 40:26 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2426s).
+Il faut s'interroger sur la protection du conjoint et des enfants dès que la famille se structure, puis revoir le sujet environ tous les cinq ans, comme le recommande Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé. Pour replacer ces choix dans une stratégie de transmission plus large, vous pouvez prolonger la lecture avec [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0).
 
 ## En résumé
 
@@ -174,31 +171,6 @@ Oui. L'enfant adopté en la forme simple qui est l'enfant de votre conjoint bén
 ### Pourquoi la clause « mon conjoint, à défaut mes enfants » est-elle risquée en famille recomposée ?
 
 Parce que les capitaux reçus par le conjoint survivant lui appartiennent : à son décès, ils iront à ses propres héritiers, qui ne sont pas forcément vos enfants. Une clause démembrée, qui donne l'usufruit au conjoint et la nue-propriété à vos enfants, garantit que ces derniers récupéreront les sommes.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
-
-Les passages clés :
-
-- [4:32](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=272s) Ce que la loi vous laisse libre de décider
-- [5:05](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=305s) La quotité disponible selon le nombre d'enfants
-- [21:50](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1310s) La clause « mon conjoint » et ses limites
-- [22:24](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1344s) Démembrer la clause bénéficiaire
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [40:26](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2426s) Protéger le conjoint et les enfants dès que la famille se structure
 
 ## Sources
 

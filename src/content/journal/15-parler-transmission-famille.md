@@ -12,7 +12,8 @@ mots_cles_secondaires:
   - culture familiale du patrimoine
 intention: informationnelle
 auteur: Rémi de Truchis de Varennes
-source_video: https://www.youtube.com/watch?v=V8qZaCLBKX0
+source_video:
+  - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 700 mots
 ordre_publication: 15
 date_mise_a_jour: 2026-10-20
@@ -31,12 +32,6 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 96, label: "Pourquoi tant de familles attendent trop longtemps"}
-      - {t: 2520, label: "Le malaise face au sujet"}
-      - {t: 2734, label: "Parler d'audit patrimonial plutôt que successoral"}
-      - {t: 2750, label: "Le grand transfert du patrimoine des boomers"}
-      - {t: 2766, label: "Adapter la donation à la maturité des enfants"}
 faq:
   - q: "Comment parler de succession avec ses parents ?"
     r: "En leur proposant un audit patrimonial global plutôt qu'un audit successoral. La question de la transmission y est présentée parmi d'autres, et ils l'abordent d'eux-mêmes s'ils le souhaitent."
@@ -63,7 +58,7 @@ Le coût de ce silence se chiffre pourtant souvent en [centaines de milliers d'e
 Deux raisons reviennent sans cesse :
 
 - **« On a le temps. »** La transmission semble une affaire de fin de vie. C'est faux : les outils les plus efficaces ([démembrement](/journal/demembrement-propriete-donation-nue-propriete), [abattements renouvelables tous les 15 ans](/journal/abattement-donation-15-ans)) sont d'autant plus puissants qu'on les utilise tôt.
-- **Le malaise.** Même les professionnels du patrimoine le ressentent quand il s'agit de leurs propres parents. Christophe Faglin, qui accompagne des familles depuis plus de quinze ans, le reconnaît : avec ses proches, il n'aborde jamais le sujet de lui-même et attend qu'ils viennent vers lui [(à 42:00 dans la vidéo Héritage en France)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2520s).
+- **Le malaise.** Même les professionnels du patrimoine le ressentent quand il s'agit de leurs propres parents. Christophe Faglin, qui accompagne des familles depuis plus de quinze ans, le reconnaît : avec ses proches, il n'aborde jamais le sujet de lui-même et attend qu'ils viennent vers lui.
 
 Or la France favorise ceux qui anticipent. Et si vous ne choisissez pas vos héritiers, la loi le fait pour vous. Voir [qui hérite si rien n'est prévu](/journal/qui-herite-succession-couple-sans-enfant).
 
@@ -71,7 +66,11 @@ Or la France favorise ceux qui anticipent. Et si vous ne choisissez pas vos hér
 
 Le conseil le plus utile est aussi le plus simple : **ne parlez pas d'audit successoral, parlez d'[audit patrimonial](/journal/audit-patrimonial)**.
 
-Proposer à ses parents de faire le point sur leur patrimoine au sens large (placements, fiscalité, protection du conjoint) est beaucoup plus facile à entendre que de leur parler de leur succession. Lors d'un audit patrimonial, le conseiller présente l'ensemble des sujets sur lesquels il peut apporter de la valeur : l'allocation des placements, et la transmission. Si vos parents sont intéressés, ils aborderont eux-mêmes le sujet. Vous n'aurez pas eu à leur dire « il faudrait que tu prépares ta succession ». Christophe Faglin partage ce conseil [à 45:34 dans la vidéo](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2734s).
+Proposer à ses parents de faire le point sur leur patrimoine au sens large (placements, fiscalité, protection du conjoint) est beaucoup plus facile à entendre que de leur parler de leur succession. Lors d'un audit patrimonial, le conseiller présente l'ensemble des sujets sur lesquels il peut apporter de la valeur : l'allocation des placements, et la transmission. Si vos parents sont intéressés, ils aborderont eux-mêmes le sujet. Vous n'aurez pas eu à leur dire « il faudrait que tu prépares ta succession ».
+
+Ce conseil est développé, avec l'ensemble des leviers fiscaux de la transmission, dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), un entretien entre Rémi de Truchis de Varennes et Christophe Faglin publié sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 Un point mérite particulièrement leur attention : les **contrats d'assurance-vie anciens** et leurs **[clauses bénéficiaires](/journal/assurance-vie-succession-clause-beneficiaire)**. Un contrat ouvert avant le 20 novembre 1991, ou une clause qui oppose conjoint et enfants, peut représenter des économies considérables.
 
@@ -82,7 +81,7 @@ Il n'y a pas de bonne réponse universelle. Certaines familles associent leurs e
 Quelques repères aident à décider :
 
 - **Expliquer ses choix évite les malentendus.** Pourquoi tel enfant a reçu tel bien, pourquoi on a choisi l'indivision ou des lots séparés. Une fois parti, on ne peut plus rien expliquer. Voir [donation-partage ou donation simple](/journal/donation-partage-ou-donation-simple).
-- **On peut transmettre sans tout livrer.** Une donation peut prévoir que les fonds ne seront disponibles qu'à 25 ans, ou réservés à l'achat d'une résidence principale [(à 46:06 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2766s).
+- **On peut transmettre sans tout livrer.** Une donation peut prévoir que les fonds ne seront disponibles qu'à 25 ans, ou réservés à l'achat d'une résidence principale.
 - **L'éducation financière se transmet aussi.** Dans beaucoup de familles aristocratiques ou entrepreneuriales, il existe une culture familiale forte (cousinades, traditions) mais le patrimoine reste un sujet non abordé. C'est souvent là que les choses se perdent d'une génération à l'autre.
 
 ## Les bons moments pour ouvrir la discussion
@@ -99,7 +98,7 @@ Une fois la stratégie posée, il suffit d'y revenir **tous les cinq ans** envir
 
 ## Un enjeu historique
 
-Dans les vingt prochaines années, une part historique du patrimoine français va changer de mains, avec la transmission du patrimoine des baby-boomers [(à 45:50 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2750s). Les familles qui auront anticipé transmettront beaucoup plus, et dans de meilleures conditions.
+Dans les vingt prochaines années, une part historique du patrimoine français va changer de mains, avec la transmission du patrimoine des baby-boomers. Les familles qui auront anticipé transmettront beaucoup plus, et dans de meilleures conditions.
 
 Rappelons-le : l'argent que l'on transmet a déjà supporté l'impôt sur le revenu et les charges sociales. Le préserver est légitime.
 
@@ -123,20 +122,6 @@ Il n'y a pas de règle unique. Expliquer ses choix évite les malentendus, et de
 ### À quel moment préparer sa succession ?
 
 À chaque étape de vie : mariage ou Pacs, naissance, création ou cession d'entreprise, expatriation. Puis environ tous les cinq ans.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 sur la chaîne Parlons Long Terme (48 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [1:36](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=96s) Pourquoi tant de familles attendent trop longtemps
-- [42:00](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2520s) Le malaise face au sujet
-- [45:34](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2734s) Parler d'audit patrimonial plutôt que successoral
-- [45:50](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2750s) Le grand transfert du patrimoine des boomers
-- [46:06](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2766s) Adapter la donation à la maturité des enfants
 
 ## Sources
 

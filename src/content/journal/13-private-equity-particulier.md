@@ -15,8 +15,6 @@ auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
-  - https://www.youtube.com/watch?v=kRNe9rGqKyA
-  - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 800 mots
 ordre_publication: 12
 date_mise_a_jour: 2026-10-20
@@ -36,30 +34,11 @@ videos:
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 661, label: "Private equity : la classe d'actifs la plus rentable"}
-      - {t: 866, label: "La part de private equity dans l'allocation de Christophe Faglin"}
   - id: z-pAIMtxv1w
     titre: "Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient"
     url: https://www.youtube.com/watch?v=z-pAIMtxv1w
     date_publication: 2025-08-30
     duree: PT38M49S
-    passages:
-      - {t: 860, label: "Médiane et premier quartile"}
-  - id: kRNe9rGqKyA
-    titre: "Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)"
-    url: https://www.youtube.com/watch?v=kRNe9rGqKyA
-    date_publication: 2025-05-01
-    duree: PT25M0S
-    passages:
-      - {t: 327, label: "Pourquoi la sélection des gérants compte"}
-  - id: V8qZaCLBKX0
-    titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
-    url: https://www.youtube.com/watch?v=V8qZaCLBKX0
-    date_publication: 2026-03-18
-    duree: PT47M41S
-    passages:
-      - {t: 1446, label: "Private equity et transmission"}
 faq:
   - q: "Qu'est-ce que le private equity ?"
     r: "C'est l'investissement dans des entreprises non cotées en bourse, via des fonds spécialisés : capital-risque, capital-développement, LBO, reprise, dette privée."
@@ -86,7 +65,7 @@ Cet écart n'est pas un hasard : c'est l'un des domaines où un [multi family of
 
 ## La classe d'actifs la plus rentable des vingt dernières années
 
-Sur vingt ans, la performance médiane des fonds de private equity de croissance tourne autour de **13 % par an, nette de frais de gestion**. Celle des fonds du premier quartile, les 25 % meilleurs, dépasse **20 % par an**. Christophe Faglin commente ces chiffres [à 11:01 dans la vidéo sur l'allocation 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=661s).
+Sur vingt ans, la performance médiane des fonds de private equity de croissance tourne autour de **13 % par an, nette de frais de gestion**. Celle des fonds du premier quartile, les 25 % meilleurs, dépasse **20 % par an**.
 
 Deux enseignements en découlent :
 
@@ -99,7 +78,7 @@ Le private equity a aussi souvent montré de la résilience lors des crises (bul
 
 Trois obstacles expliquent sa faible place dans les patrimoines privés.
 
-**Les tickets d'entrée.** Les meilleurs gérants mondiaux, comme KKR, ouvrent leurs fonds à des institutionnels avec des tickets de plusieurs dizaines, voire centaines de millions d'euros [(à 14:20 dans la vidéo sur l'assurance-vie luxembourgeoise)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=860s).
+**Les tickets d'entrée.** Les meilleurs gérants mondiaux, comme KKR, ouvrent leurs fonds à des institutionnels avec des tickets de plusieurs dizaines, voire centaines de millions d'euros.
 
 **Les enveloppes.** La plupart des contrats d'assurance-vie français ne proposent que très peu de fonds de private equity, et rarement les meilleurs.
 
@@ -109,7 +88,7 @@ Trois obstacles expliquent sa faible place dans les patrimoines privés.
 
 **Les fonds de fonds.** Ils regroupent les capitaux de nombreux investisseurs pour accéder aux meilleurs gérants avec des tickets raisonnables, tout en diversifiant entre plusieurs fonds et millésimes.
 
-**Le contrat d'assurance-vie luxembourgeois.** Il permet d'intégrer, sous conditions, une large gamme de fonds de private equity. Avantage supplémentaire : le private equity y bénéficie du cadre fiscal de l'assurance-vie, et le contrat peut servir de garantie pour un crédit lombard. Voir notre [guide du contrat luxembourgeois](/journal/assurance-vie-luxembourgeoise).
+**Le contrat d'assurance-vie luxembourgeois.** Il permet d'intégrer, sous conditions, une large gamme de fonds de private equity. Avantage supplémentaire : le private equity y bénéficie du cadre fiscal de l'assurance-vie, et le contrat peut servir de garantie pour un crédit lombard. Voir notre [guide du contrat luxembourgeois](/journal/assurance-vie-luxembourgeoise). Les mécanismes qui ouvrent ces fonds aux particuliers sont aussi décortiqués dans [Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w), un épisode de Parlons Long Terme.
 
 **Le [crédit lombard](/journal/credit-lombard).** Une stratégie consiste à nantir un portefeuille prudent (obligations) pour emprunter et investir une partie du crédit en private equity. On obtient une capacité d'investissement supérieure à celle qu'offrirait le nantissement d'actifs risqués.
 
@@ -126,11 +105,13 @@ Un conseiller indépendant peut mettre les gérants en concurrence. C'est l'un d
 
 ## Et la transmission ?
 
-Les parts de fonds de private equity et les participations non cotées suivent les mêmes règles que les autres actifs : [abattements](/journal/abattement-donation-15-ans), [démembrement](/journal/demembrement-propriete-donation-nue-propriete), [donation-partage](/journal/donation-partage-ou-donation-simple). La question à se poser est surtout celle de l'enveloppe. Investir en direct ou via une assurance-vie luxembourgeoise ? La réponse dépend de votre âge, de votre tranche de droits de succession et des frais du contrat, comparés aux droits économisés. Si vous détenez du private equity et que votre conseiller n'a jamais abordé ce point, c'est un signal d'alerte [(à 24:06 dans la vidéo Héritage en France)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1446s).
+Les parts de fonds de private equity et les participations non cotées suivent les mêmes règles que les autres actifs : [abattements](/journal/abattement-donation-15-ans), [démembrement](/journal/demembrement-propriete-donation-nue-propriete), [donation-partage](/journal/donation-partage-ou-donation-simple). La question à se poser est surtout celle de l'enveloppe. Investir en direct ou via une assurance-vie luxembourgeoise ? La réponse dépend de votre âge, de votre tranche de droits de succession et des frais du contrat, comparés aux droits économisés. Si vous détenez du private equity et que votre conseiller n'a jamais abordé ce point, c'est un signal d'alerte.
 
 ## Quelle part lui donner ?
 
-Le private equity immobilise le capital pendant plusieurs années. Sa place dépend donc de votre horizon et de vos besoins de liquidité. Plus vous avez de temps devant vous et plus vous acceptez le risque, plus il peut peser lourd. À titre d'exemple, l'allocation personnelle de Christophe Faglin compte environ 20 % de private equity et d'actifs privés, une part qu'il souhaite renforcer [(à 14:26 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=866s).
+Le private equity immobilise le capital pendant plusieurs années. Sa place dépend donc de votre horizon et de vos besoins de liquidité. Plus vous avez de temps devant vous et plus vous acceptez le risque, plus il peut peser lourd. À titre d'exemple, l'allocation personnelle de Christophe Faglin compte environ 20 % de private equity et d'actifs privés, une part qu'il souhaite renforcer. Le cofondateur de PLT Family Office et Rémi de Truchis de Varennes expliquent comment le private equity s'articule avec les autres classes d'actifs dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk).
+
+<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
 
 ## En résumé
 
@@ -156,45 +137,6 @@ Via des fonds de fonds accessibles avec des tickets raisonnables, ou en logeant 
 ### Quelle part du patrimoine consacrer au private equity ?
 
 Elle dépend de l'horizon et des besoins de liquidité. Chez les grandes fortunes, private equity et dette privée pèsent environ un quart du patrimoine.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Allocation 2026
-
-**[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 (40 min).
-
-<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
-
-Les passages clés :
-
-- [11:01](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=661s) Private equity : la classe d'actifs la plus rentable
-- [14:26](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=866s) La part de private equity dans l'allocation de Christophe Faglin
-
-### Assurance-vie luxembourgeoise
-
-**[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min).
-
-Les passages clés :
-
-- [14:20](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=860s) Médiane et premier quartile
-
-### Family office et banque privée
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1 mai 2025 (25 min).
-
-Les passages clés :
-
-- [5:27](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=327s) Pourquoi la sélection des gérants compte
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [24:06](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1446s) Private equity et transmission
 
 ## Sources
 

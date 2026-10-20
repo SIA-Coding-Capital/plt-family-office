@@ -33,19 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 631, label: "Désigner nominativement ses bénéficiaires"}
-      - {t: 1285, label: "Une clause mal écrite coûte des centaines de milliers d'euros"}
-      - {t: 1310, label: "Le piège de la clause « mon conjoint »"}
-      - {t: 1344, label: "Démembrer sa clause bénéficiaire"}
   - id: V8qZaCLBKX0
     titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 2447, label: "Une clause qui oppose conjoint et enfants"}
-      - {t: 2467, label: "Challenger le démembrement de la clause"}
 faq:
   - q: "Comment rédiger une clause bénéficiaire d'assurance-vie ?"
     r: "Désignez chaque bénéficiaire sans ambiguïté (nom, prénom, date et lieu de naissance, ou qualité comme « mes enfants »), indiquez la répartition, prévoyez des bénéficiaires de rang suivant avec la mention « à défaut », et ajoutez « vivants ou représentés » pour les enfants. Terminez par « à défaut mes héritiers » pour qu'aucun capital ne reste sans bénéficiaire."
@@ -73,7 +65,7 @@ sources:
 
 > **L'essentiel.** Une clause bénéficiaire efficace désigne chaque bénéficiaire sans ambiguïté (nom, prénom, date et lieu de naissance), prévoit plusieurs rangs (« à défaut ») et la représentation des enfants prédécédés. La clause standard « mon conjoint, à défaut mes enfants » prive souvent les enfants de leur abattement de 152 500 €. Une clause démembrée, ou répartie entre conjoint et enfants, protège le conjoint tout en réduisant les droits au second décès.
 
-La clause bénéficiaire se remplit en trente secondes, souvent le jour de la souscription, en cochant une case. Elle décidera pourtant qui recevra des capitaux qui atteignent parfois plusieurs centaines de milliers d'euros, et combien ils paieront. Christophe Faglin y voit l'une des erreurs les plus coûteuses commises par les épargnants [(à 21:25 dans la vidéo sur les frais de succession)](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1285s).
+La clause bénéficiaire se remplit en trente secondes, souvent le jour de la souscription, en cochant une case. Elle décidera pourtant qui recevra des capitaux qui atteignent parfois plusieurs centaines de milliers d'euros, et combien ils paieront. Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, y voit l'une des erreurs les plus coûteuses commises par les épargnants.
 
 Les règles fiscales de l'assurance-vie au décès sont détaillées dans notre [guide assurance-vie et succession](/journal/assurance-vie-succession-clause-beneficiaire). Ici, nous nous concentrons sur la rédaction.
 
@@ -87,7 +79,11 @@ Elle peut figurer dans le contrat, être modifiée par simple avenant adressé �
 
 La plupart des contrats proposent par défaut : « mon conjoint, à défaut mes enfants nés ou à naître, vivants ou représentés, par parts égales, à défaut mes héritiers ».
 
-Cette clause est bien construite sur la forme. Son défaut est de fond : le conjoint, exonéré de droits, reçoit tout. Les enfants n'utilisent pas leur abattement de 152 500 €, et au second décès, le capital est taxé dans la succession du conjoint au [barème en ligne directe](/journal/bareme-droits-succession-2026). C'est le piège décrit [à 21:50 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1310s). La bonne question est donc : votre conjoint a-t-il besoin de la totalité des capitaux ?
+Cette clause est bien construite sur la forme. Son défaut est de fond : le conjoint, exonéré de droits, reçoit tout. Les enfants n'utilisent pas leur abattement de 152 500 €, et au second décès, le capital est taxé dans la succession du conjoint au [barème en ligne directe](/journal/bareme-droits-succession-2026). Rémi de Truchis de Varennes et Christophe Faglin décortiquent ce piège, et la façon d'y échapper, dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
+
+La bonne question est donc : votre conjoint a-t-il besoin de la totalité des capitaux ?
 
 ## Cinq modèles de clauses, commentés
 
@@ -109,7 +105,7 @@ Simple et lisible, elle permet aux enfants d'utiliser leurs abattements dès le 
 
 > « Mon conjoint pour l'usufruit, et mes enfants nés ou à naître, vivants ou représentés, par parts égales entre eux, pour la nue-propriété. L'usufruitier pourra disposer des capitaux dans les conditions de l'article 587 du Code civil, à charge de restitution à son décès. À défaut de mon conjoint, mes enfants en pleine propriété dans les mêmes conditions, à défaut mes héritiers. »
 
-Elle protège le conjoint, qui dispose des sommes, et crée au profit des enfants une créance qui réduira la succession du conjoint (voir l'exemple ci-dessous). Christophe Faglin la recommande [à 41:07 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2467s).
+Elle protège le conjoint, qui dispose des sommes, et crée au profit des enfants une créance qui réduira la succession du conjoint (voir l'exemple ci-dessous). Christophe Faglin la recommande ; il revient sur les clauses qui opposent conjoint et enfants dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0).
 
 **4. La clause à options.**
 
@@ -148,7 +144,7 @@ Deux précautions : la créance de restitution doit être documentée (acte cons
 6. **Désigner un enfant mineur sans réflexion.** Les capitaux seront gérés par ses représentants légaux jusqu'à sa majorité, y compris un ex-conjoint. Une clause organisant leur administration peut être prévue, notamment dans une [famille recomposée](/journal/famille-recomposee-succession).
 7. **Ne pas informer.** Les assureurs recherchent les bénéficiaires, mais une clause détaillée et des proches informés accélèrent le versement.
 
-Une clause nominative simplifie aussi le règlement, comme le rappelle Christophe Faglin [à 10:31 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=631s).
+Une clause nominative simplifie aussi le règlement, comme le rappelle Christophe Faglin.
 
 ## En résumé
 
@@ -178,32 +174,6 @@ C'est une clause qui attribue l'usufruit des capitaux au conjoint et la nue-prop
 ### Comment désigner un concubin comme bénéficiaire ?
 
 Nommément, avec son nom, ses prénoms, sa date et son lieu de naissance. Le concubin n'est pas exonéré comme l'époux : il profite de l'abattement de 152 500 € pour les primes versées avant 70 ans, puis de taxes de 20 % et 31,25 %, bien moins lourdes que les 60 % de droits de succession.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
-
-Les passages clés :
-
-- [10:31](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=631s) Désigner nominativement ses bénéficiaires
-- [21:25](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1285s) Une clause mal écrite coûte des centaines de milliers d'euros
-- [21:50](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1310s) Le piège de la clause « mon conjoint »
-- [22:24](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1344s) Démembrer sa clause bénéficiaire
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [40:47](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2447s) Une clause qui oppose conjoint et enfants
-- [41:07](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2467s) Challenger le démembrement de la clause
 
 ## Sources
 

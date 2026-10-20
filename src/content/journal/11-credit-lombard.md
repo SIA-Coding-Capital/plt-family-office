@@ -15,7 +15,6 @@ intention: informationnelle / commerciale
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
-  - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1400 mots
 ordre_publication: 2
 date_mise_a_jour: 2026-10-20
@@ -34,27 +33,6 @@ videos:
     url: https://www.youtube.com/watch?v=3yIsaGb3ywM
     date_publication: 2025-09-05
     duree: PT31M52S
-    passages:
-      - {t: 176, label: "L'origine et le principe"}
-      - {t: 220, label: "Exemple : 1 250 000 € placés, 1 M€ empruntés"}
-      - {t: 390, label: "Un crédit non affecté"}
-      - {t: 462, label: "Les conditions d'accès"}
-      - {t: 527, label: "Cryptomonnaies en garantie"}
-      - {t: 671, label: "Ce que l'on peut nantir"}
-      - {t: 834, label: "Taux variable et Euribor"}
-      - {t: 903, label: "Un crédit sans date de fin"}
-      - {t: 1043, label: "Le scénario d'une chute de 40 %"}
-      - {t: 1085, label: "Les marges de sécurité"}
-      - {t: 1258, label: "Vivre à crédit : mythe ou réalité"}
-      - {t: 1671, label: "Crédit lombard et holding"}
-      - {t: 1774, label: "Les cas d'usage"}
-  - id: z-pAIMtxv1w
-    titre: "Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient"
-    url: https://www.youtube.com/watch?v=z-pAIMtxv1w
-    date_publication: 2025-08-30
-    duree: PT38M49S
-    passages:
-      - {t: 1416, label: "Crédit lombard ou avance sur contrat"}
 faq:
   - q: "Qu'est-ce qu'un crédit lombard ?"
     r: "Un prêt accordé en contrepartie du nantissement d'un portefeuille de titres ou d'un contrat d'assurance-vie. Le montant dépend de la valeur et du risque des actifs nantis, pas du taux d'endettement."
@@ -100,7 +78,7 @@ Vous placez 1 250 000 € dans un contrat d'assurance-vie luxembourgeois : 50 % 
 
 - Sur la poche obligataire, peu risquée, la banque peut prêter jusqu'à 85 %.
 - Sur la poche actions, jusqu'à 75 %.
-- En moyenne : 80 %, soit **1 000 000 € de capacité d'emprunt** (exemple détaillé [à 3:40 dans la vidéo](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=220s)).
+- En moyenne : 80 %, soit **1 000 000 € de capacité d'emprunt**.
 
 Vous gardez vos 1 250 000 € investis, et vous disposez en plus d'un million d'euros.
 
@@ -116,7 +94,7 @@ La banque privilégie les actifs cotés et liquides. Plus l'actif est prudent, p
 | ETF et actions diversifiées | 50 % à 75 % |
 | Cryptomonnaies (via ETF) | 30 % à 50 % (environ 40 % sur le bitcoin) |
 
-Un portefeuille concentré sur une seule ligne obtient un ratio plus faible qu'un portefeuille diversifié. L'immobilier, lui, ne s'apporte pas en garantie d'un crédit lombard : on parle alors de prêt hypothécaire. Les ratios sont passés en revue [à 12:56 dans la vidéo](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=776s).
+Un portefeuille concentré sur une seule ligne obtient un ratio plus faible qu'un portefeuille diversifié. L'immobilier, lui, ne s'apporte pas en garantie d'un crédit lombard : on parle alors de prêt hypothécaire.
 
 ## Le grand atout : un crédit non affecté
 
@@ -139,7 +117,7 @@ Le crédit lombard est généralement à **taux variable**, ce qui surprend souv
 - d'un **indice de référence**, souvent l'Euribor 12 mois ;
 - d'une **marge bancaire**, autour de 1,5 %, plus faible si vous confiez la gestion de vos placements à la banque.
 
-Au moment de l'enregistrement de nos vidéos, cela donnait un taux d'environ 3,5 %, révisé tous les douze mois [(à 13:54 dans la vidéo)](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=834s).
+Courant 2025, cela donnait un taux d'environ 3,5 %, révisé tous les douze mois.
 
 Le crédit est en général **in fine** : vous ne payez que les intérêts, et le capital est remboursé à l'échéance. Vous pouvez rembourser à tout moment, par exemple si les taux montent trop par rapport à ce que rapportent vos placements.
 
@@ -158,7 +136,11 @@ Reprenons l'exemple. La banque a prêté 1 000 000 € sur 1 250 000 € placés
 
 Si vous ne pouvez pas, la banque rend le crédit exigible et vend vos titres. Dans un scénario à -40 %, votre placement ne vaut plus que 750 000 €. Vous avez perdu votre capital et vous devez encore 250 000 € à la banque, plus les intérêts.
 
-**Mal dosé, le crédit lombard peut être létal.** Christophe Faglin déroule ce scénario [à 17:23 dans la vidéo](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1043s). C'est comme un ingrédient en cuisine : excellent à bonne dose, il gâche le plat si l'on en met trop.
+**Mal dosé, le crédit lombard peut être létal.** C'est comme un ingrédient en cuisine : excellent à bonne dose, il gâche le plat si l'on en met trop.
+
+Ce scénario de krach, les ratios de financement et les cas d'usage concrets sont au cœur de [Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM), un entretien entre Christophe Faglin et Rémi de Truchis de Varennes publié sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : 3yIsaGb3ywM -->
 
 ## Les deux marges de sécurité
 
@@ -166,13 +148,13 @@ Pour l'utiliser sereinement, il faut s'imposer deux marges.
 
 **1. Ne jamais nantir tout son patrimoine.** Demandez-vous : si mon placement en actions fait -50 %, le reste de mon patrimoine me permet-il de faire face à un appel de marge ?
 
-**2. Ne jamais emprunter au maximum autorisé.** Si la banque prête 70 % sur des actions, retenez plutôt **40 à 50 %**. On finit toujours par sortir des crises. Il faut juste se donner le temps de les traverser [(à 18:05 dans la vidéo)](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1085s).
+**2. Ne jamais emprunter au maximum autorisé.** Si la banque prête 70 % sur des actions, retenez plutôt **40 à 50 %**. On finit toujours par sortir des crises. Il faut juste se donner le temps de les traverser.
 
 Et une règle de bon sens : votre placement doit rapporter **plus que le coût du crédit**. Nantir des fonds en euros à 3 % pour emprunter à 3,5 % n'a aucun intérêt.
 
 ## Peut-on vraiment « vivre à crédit sans payer d'impôts » ?
 
-C'est le mythe le plus répandu. En théorie, on pourrait emprunter chaque année pour financer son train de vie, sans jamais vendre ni payer d'impôt. En pratique, il faut un patrimoine très élevé, de l'ordre de **8 à 10 millions d'euros**, pour en tirer un revenu décent avec une marge de sécurité suffisante [(à 22:54 dans la vidéo)](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1374s). Et à ce niveau, le rendement du capital suffit généralement.
+C'est le mythe le plus répandu. En théorie, on pourrait emprunter chaque année pour financer son train de vie, sans jamais vendre ni payer d'impôt. En pratique, il faut un patrimoine très élevé, de l'ordre de **8 à 10 millions d'euros**, pour en tirer un revenu décent avec une marge de sécurité suffisante. Et à ce niveau, le rendement du capital suffit généralement.
 
 La vraie fonction du crédit lombard est ailleurs : c'est un **accélérateur**. Quelqu'un qui a dix, quinze ou vingt ans devant lui pour se construire une liberté financière peut, dès le départ, faire travailler une somme supérieure à celle qu'il possède, investie selon [une allocation diversifiée](/journal/allocation-patrimoine-grandes-fortunes).
 
@@ -219,40 +201,6 @@ Il est en général variable : un indice comme l'Euribor 12 mois plus une marge 
 ### À partir de quel montant obtient-on un crédit lombard ?
 
 Les bonnes conditions commencent autour de 400 000 € empruntés, soit 600 000 à 700 000 € placés. Des solutions d'avance existent dès 300 000 € placés.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Crédit lombard
-
-**[Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM)**, publiée le 5 septembre 2025 (32 min).
-
-<!-- Lecteur YouTube à intégrer ici : 3yIsaGb3ywM -->
-
-Les passages clés :
-
-- [2:56](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=176s) L'origine et le principe
-- [3:40](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=220s) Exemple : 1 250 000 € placés, 1 M€ empruntés
-- [6:30](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=390s) Un crédit non affecté
-- [7:42](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=462s) Les conditions d'accès
-- [8:47](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=527s) Cryptomonnaies en garantie
-- [11:11](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=671s) Ce que l'on peut nantir
-- [13:54](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=834s) Taux variable et Euribor
-- [15:03](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=903s) Un crédit sans date de fin
-- [17:23](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1043s) Le scénario d'une chute de 40 %
-- [18:05](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1085s) Les marges de sécurité
-- [20:58](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1258s) Vivre à crédit : mythe ou réalité
-- [27:51](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1671s) Crédit lombard et holding
-- [29:34](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1774s) Les cas d'usage
-
-### Assurance-vie luxembourgeoise
-
-**[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min).
-
-Les passages clés :
-
-- [23:36](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1416s) Crédit lombard ou avance sur contrat
 
 ## Sources
 

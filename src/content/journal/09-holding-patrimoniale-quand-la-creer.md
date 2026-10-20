@@ -33,17 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 1648, label: "Quand créer une holding patrimoniale"}
-      - {t: 1847, label: "L'OBO pour transmettre son entreprise"}
-      - {t: 1889, label: "Le pacte Dutreil"}
   - id: A1gOvHMmxBk
     titre: "1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026"
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 1584, label: "Un compte-titres en société ?"}
 faq:
   - q: "Une holding permet-elle de payer moins d'impôts ?"
     r: "Pas en soi. Elle permet de différer l'imposition personnelle et de réinvestir des sommes non encore imposées, mais elle ajoute des coûts et une fiscalité à la sortie."
@@ -66,7 +60,7 @@ sources:
 
 > **L'essentiel.** En France, une holding patrimoniale ne réduit pas l'impôt : elle permet de choisir quand le payer. Elle est pertinente pour vendre une entreprise sans avoir besoin du prix (environ 3 % de fiscalité effective sous conditions, au lieu de 26 à 37 %), transmettre progressivement, monter un OBO ou séparer des associés aux stratégies différentes. Elle n'a pas de sens pour loger une épargne personnelle.
 
-La holding est devenue un sujet à la mode, présentée comme la solution miracle pour payer moins d'impôts. La réalité est plus nuancée. En France, une holding ne fait pas disparaître l'impôt. Elle vous donne la **maîtrise du moment** où vous le payez. Pour certains profils, c'est un levier remarquable. Pour d'autres, c'est un coût inutile. Christophe Faglin en dresse le bilan [à 27:28 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1648s).
+La holding est devenue un sujet à la mode, présentée comme la solution miracle pour payer moins d'impôts. La réalité est plus nuancée. En France, une holding ne fait pas disparaître l'impôt. Elle vous donne la **maîtrise du moment** où vous le payez. Pour certains profils, c'est un levier remarquable. Pour d'autres, c'est un coût inutile.
 
 ## Ce qu'une holding coûte vraiment
 
@@ -113,7 +107,11 @@ Un dirigeant qui veut transmettre sa société sans la vendre à un tiers peut m
 3. la holding rembourse sa dette grâce aux dividendes de la société ;
 4. tant qu'elle est endettée, la holding vaut peu : c'est le moment d'en **donner les parts** à ses enfants, avec une valeur taxable très faible.
 
-L'entrepreneur a récupéré la valeur de son entreprise et transmet l'outil de travail presque sans droits. C'est un montage puissant, qui exige un accompagnement juridique et fiscal rigoureux. Il est présenté [à 30:47 dans la vidéo](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1847s).
+L'entrepreneur a récupéré la valeur de son entreprise et transmet l'outil de travail presque sans droits. C'est un montage puissant, qui exige un accompagnement juridique et fiscal rigoureux.
+
+Rémi de Truchis de Varennes et Christophe Faglin reviennent sur l'OBO, le pacte Dutreil et le bon moment pour créer une holding dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 ## Cas n°4 : des associés qui n'investissent pas de la même façon
 
@@ -125,7 +123,7 @@ Autre intérêt : une société opérationnelle bourrée de liquidités est moin
 
 ## Et un compte-titres dans une société ?
 
-Une question fréquente : faut-il ouvrir un compte-titres en société plutôt qu'en nom propre, pour investir son épargne personnelle ? **Clairement non** [(réponse à 26:24 dans la vidéo sur l'allocation 2026)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1584s). Vous créeriez des frais de structure, vos gains seraient taxés à l'impôt sur les sociétés, puis de nouveau à la sortie. La holding a du sens pour des revenus qui naissent déjà dans une société, pas pour y loger une épargne privée.
+Une question fréquente : faut-il ouvrir un compte-titres en société plutôt qu'en nom propre, pour investir son épargne personnelle ? **Clairement non**. Vous créeriez des frais de structure, vos gains seraient taxés à l'impôt sur les sociétés, puis de nouveau à la sortie. La holding a du sens pour des revenus qui naissent déjà dans une société, pas pour y loger une épargne privée. La question est aussi abordée dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk), avec le choix entre PEA et compte-titres.
 
 ## Et pour investir hors d'Europe ?
 
@@ -157,30 +155,6 @@ Un owner buy-out : le dirigeant crée une holding qui s'endette pour racheter sa
 ### Faut-il ouvrir un compte-titres en société pour son épargne personnelle ?
 
 Non. Les gains seraient taxés à l'impôt sur les sociétés puis à la sortie, avec des frais de structure en plus.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [27:28](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1648s) Quand créer une holding patrimoniale
-- [30:47](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1847s) L'OBO pour transmettre son entreprise
-- [31:29](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1889s) Le pacte Dutreil
-
-### Allocation 2026
-
-**[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 (40 min).
-
-Les passages clés :
-
-- [26:24](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1584s) Un compte-titres en société ?
 
 ## Sources
 

@@ -15,7 +15,6 @@ auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
   - https://www.youtube.com/watch?v=0-_Yi9J2eXM
-  - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1200 mots
 ordre_publication: 21
 date_mise_a_jour: 2026-10-20
@@ -38,27 +37,11 @@ videos:
     url: https://www.youtube.com/watch?v=kRNe9rGqKyA
     date_publication: 2025-05-01
     duree: PT25M0S
-    passages:
-      - {t: 701, label: "Le seuil de 3 à 5 M€ en banque"}
-      - {t: 723, label: "Un accès abaissé à 300 000 €"}
-      - {t: 754, label: "Accompagner le dirigeant"}
-      - {t: 826, label: "L'architecte du patrimoine"}
-      - {t: 971, label: "Se former avant d'avoir des millions"}
   - id: 0-_Yi9J2eXM
     titre: "Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?"
     url: https://www.youtube.com/watch?v=0-_Yi9J2eXM
     date_publication: 2026-03-26
     duree: PT10M28S
-    passages:
-      - {t: 439, label: "Les stratégies des grandes familles, pour tous"}
-      - {t: 461, label: "Des experts à temps partagé"}
-  - id: z-pAIMtxv1w
-    titre: "Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient"
-    url: https://www.youtube.com/watch?v=z-pAIMtxv1w
-    date_publication: 2025-08-30
-    duree: PT38M49S
-    passages:
-      - {t: 652, label: "Le ticket d'entrée du contrat luxembourgeois"}
 faq:
   - q: "À partir de quel montant accède-t-on à la gestion de fortune ?"
     r: "Dans la plupart des banques, il faut 3 à 5 millions d'euros pour accéder au service de gestion de fortune. Certains multi family offices l'ouvrent plus tôt : PLT Family Office est accessible dès 300 000 € de patrimoine, sur candidature."
@@ -85,11 +68,11 @@ Ce que sont un family office et un multi family office est expliqué dans [notre
 
 ## Pourquoi les banques fixent-elles le seuil à 3 à 5 millions ?
 
-La gestion de fortune, en banque, est une segmentation commerciale : on passe de la banque de détail à la banque privée, puis à la gestion de fortune, en fonction de ses avoirs. Dans la plupart des établissements, il faut **3 à 5 millions d'euros** pour accéder à ce dernier niveau, explique Christophe Faglin [à 11:41 dans la vidéo sur les banques privées](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=701s).
+La gestion de fortune, en banque, est une segmentation commerciale : on passe de la banque de détail à la banque privée, puis à la gestion de fortune, en fonction de ses avoirs. Dans la plupart des établissements, il faut **3 à 5 millions d'euros** pour accéder à ce dernier niveau, explique Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé.
 
 Le seuil n'a rien d'arbitraire : il reflète le coût d'une équipe d'experts dédiée. C'est aussi pourquoi certaines solutions restent réservées aux montants élevés, comme le contrat d'assurance-vie luxembourgeois, accessible en général entre 750 000 € et 1 M€ en banque.
 
-Un multi family office raisonne autrement. En mutualisant ses experts entre plusieurs familles et en négociant pour l'ensemble de ses clients, il peut abaisser l'accès. PLT Family Office l'a fixé à **300 000 €** [(à 12:03 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=723s), y compris pour le [contrat luxembourgeois](/journal/assurance-vie-luxembourgeoise) [(à 10:52 dans la vidéo dédiée)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=652s). Le client accède à des experts « à temps partagé », chacun intervenant sur son domaine quand il en a besoin [(à 7:41 dans la vidéo sur le multi family office)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=461s).
+Un multi family office raisonne autrement. En mutualisant ses experts entre plusieurs familles et en négociant pour l'ensemble de ses clients, il peut abaisser l'accès. PLT Family Office l'a fixé à **300 000 €**, y compris pour le [contrat luxembourgeois](/journal/assurance-vie-luxembourgeoise). Le client accède à des experts « à temps partagé », chacun intervenant sur son domaine quand il en a besoin. Ce fonctionnement, et la question de savoir à partir de quel patrimoine il se justifie, sont discutés dans [Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM), sur la chaîne Parlons Long Terme.
 
 ## Qui a vraiment besoin d'un accompagnement à 300 000 € ?
 
@@ -104,7 +87,9 @@ Le montant seul ne suffit pas à justifier un accompagnement global. Ce qui comp
 | Projet d'expatriation | Résidence fiscale, sort des contrats, exit tax |
 | Patrimoine concentré | Une seule action, un seul bien immobilier, une seule devise |
 
-Christophe Faglin résume ce rôle d'une formule : le multi family office est « l'architecte du patrimoine », de la création de l'entreprise à sa cession, et de la sphère professionnelle à la sphère privée [(à 13:46 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=826s).
+Christophe Faglin résume ce rôle d'une formule : le multi family office est « l'architecte du patrimoine », de la création de l'entreprise à sa cession, et de la sphère professionnelle à la sphère privée. Rémi de Truchis de Varennes et lui comparent cette approche à celle des banques privées dans [Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA).
+
+<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
 
 ## Quand peut-on s'en passer ?
 
@@ -140,11 +125,11 @@ Le mode de rémunération est choisi par le client : honoraire fixe ou frais de 
 
 À 300 000 €, vous n'aurez pas une équipe à plein temps comme une famille qui dispose de son propre family office. Vous accédez en revanche aux mêmes méthodes : partir des objectifs, raisonner en système plutôt qu'en produits, mettre les gérants en concurrence. Et à des solutions jusque-là réservées à des montants plus élevés : contrat luxembourgeois, solutions d'avance ou [crédit lombard](/journal/credit-lombard) à mesure que le patrimoine grandit, fonds institutionnels, private equity.
 
-C'est le sens du projet : les stratégies qui permettent aux grandes familles, depuis les [premiers family offices](/journal/histoire-family-office), de préserver et faire croître leur patrimoine n'ont aucune raison de rester réservées à ceux qui disposent de plus de 30 millions d'euros [(à 7:19 dans la vidéo)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=439s). Pour comparer les autres types d'interlocuteurs, voir [CGP, banque privée, multi family office : qui fait quoi](/journal/cgp-banque-privee-multi-family-office).
+C'est le sens du projet : les stratégies qui permettent aux grandes familles, depuis les [premiers family offices](/journal/histoire-family-office), de préserver et faire croître leur patrimoine n'ont aucune raison de rester réservées à ceux qui disposent de plus de 30 millions d'euros. Pour comparer les autres types d'interlocuteurs, voir [CGP, banque privée, multi family office : qui fait quoi](/journal/cgp-banque-privee-multi-family-office).
 
 ## Le plus tôt est le mieux
 
-Mieux vaut apprendre et structurer avec quelques centaines de milliers d'euros que découvrir ces sujets le jour où l'on vend son entreprise pour plusieurs millions, sans avoir eu le temps de choisir ses partenaires [(à 16:11 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=971s). Les outils de transmission les plus puissants sont aussi ceux que l'on utilise tôt.
+Mieux vaut apprendre et structurer avec quelques centaines de milliers d'euros que découvrir ces sujets le jour où l'on vend son entreprise pour plusieurs millions, sans avoir eu le temps de choisir ses partenaires. Les outils de transmission les plus puissants sont aussi ceux que l'on utilise tôt.
 
 ## En résumé
 
@@ -172,41 +157,6 @@ Cela dépend du mode de rémunération, honoraires ou frais de gestion, et du p�
 ### Quelle différence entre gestion de patrimoine et gestion de fortune ?
 
 Les deux expressions se recoupent. En banque, la gestion de fortune désigne le service réservé aux patrimoines les plus élevés. Dans un multi family office, elle désigne une approche globale : placements, fiscalité, structuration et transmission, coordonnés par une même équipe.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Family office et banque privée
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1 mai 2025 (25 min).
-
-<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
-
-Les passages clés :
-
-- [11:41](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=701s) Le seuil de 3 à 5 M€ en banque
-- [12:03](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=723s) Un accès abaissé à 300 000 €
-- [12:34](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=754s) Accompagner le dirigeant
-- [13:46](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=826s) L'architecte du patrimoine
-- [16:11](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=971s) Se former avant d'avoir des millions
-
-### Multi family office
-
-**[Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM)**, publiée le 26 mars 2026 (10 min).
-
-Les passages clés :
-
-- [7:19](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=439s) Les stratégies des grandes familles, pour tous
-- [7:41](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=461s) Des experts à temps partagé
-
-### Assurance-vie luxembourgeoise
-
-**[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min).
-
-Les passages clés :
-
-- [10:52](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=652s) Le ticket d'entrée du contrat luxembourgeois
 
 ## Sources
 

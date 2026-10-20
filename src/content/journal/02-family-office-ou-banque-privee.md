@@ -12,7 +12,8 @@ mots_cles_secondaires:
   - Quantalys notation fonds
 intention: commerciale / comparative
 auteur: Rémi de Truchis de Varennes
-source_video: https://www.youtube.com/watch?v=kRNe9rGqKyA
+source_video:
+  - https://www.youtube.com/watch?v=kRNe9rGqKyA
 longueur: environ 1100 mots
 ordre_publication: 7
 date_mise_a_jour: 2026-10-20
@@ -35,16 +36,6 @@ videos:
     url: https://www.youtube.com/watch?v=kRNe9rGqKyA
     date_publication: 2025-05-01
     duree: PT25M0S
-    passages:
-      - {t: 121, label: "Comment fonctionne une banque privée"}
-      - {t: 275, label: "L'épicerie et le fromager : l'architecture ouverte"}
-      - {t: 327, label: "L'écart de performance entre fonds médians et premier quartile"}
-      - {t: 474, label: "Le turnover des conseillers en banque privée"}
-      - {t: 574, label: "Les fintechs, concurrentes ou outils ?"}
-      - {t: 663, label: "Quand faire appel à la gestion de fortune"}
-      - {t: 1035, label: "Honoraires ou rétrocessions"}
-      - {t: 1232, label: "Les défis des familles fortunées"}
-      - {t: 1396, label: "Vérifier ses fonds sur Quantalys"}
 faq:
   - q: "Quelle est la différence entre une banque privée et un family office ?"
     r: "La banque privée propose surtout ses propres solutions dans un cadre industrialisé. Le family office, ou multi family office, est indépendant : il sélectionne les meilleures solutions du marché et accompagne la famille sur la durée, sur tous les sujets patrimoniaux."
@@ -67,7 +58,7 @@ sources:
 
 Quand un patrimoine grandit, deux grandes familles d'accompagnement s'offrent à vous : la banque privée, et le family office (une [invention du XIXe siècle](/journal/histoire-family-office)), ou sa version mutualisée, le [multi family office](/journal/multi-family-office-definition). Les deux promettent un conseil haut de gamme. Leur fonctionnement, en revanche, n'a rien à voir.
 
-Christophe Faglin, cofondateur de PLT Family Office, a passé plus de quinze ans en banque privée et en gestion de fortune, notamment chez HSBC et Swiss Life. Voici sa lecture, sans caricature.
+Christophe Faglin, cofondateur de PLT Family Office, a passé plus de quinze ans en banque privée et en gestion de fortune, notamment chez HSBC et Swiss Life. Son regard d'ancien banquier privé éclaire les différences qui suivent, sans caricature.
 
 ## Comment fonctionne une banque privée
 
@@ -84,7 +75,11 @@ Et il y a, dans les banques privées, des professionnels extrêmement compétent
 
 Une banque pousse naturellement ses propres solutions. Certaines fonctionnent en « architecture ouverte » et proposent aussi des produits d'autres établissements, mais la part des solutions maison reste largement dominante.
 
-Pensez à une épicerie. Vous y trouverez du fromage, de la viande, du poisson. Vous n'y trouverez pas le meilleur fromage de la ville. Pour cela, il faut aller chez le fromager. Christophe Faglin développe cette image [à 4:35 dans la vidéo](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=275s).
+Pensez à une épicerie. Vous y trouverez du fromage, de la viande, du poisson. Vous n'y trouverez pas le meilleur fromage de la ville. Pour cela, il faut aller chez le fromager.
+
+Christophe Faglin développe cette comparaison, avec Rémi de Truchis de Varennes, dans [Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA), sur la chaîne Parlons Long Terme. Ils y abordent aussi le turnover des conseillers, les fintechs et la vérification des fonds.
+
+<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
 
 Un family office indépendant, à la différence d'un [CGP ou d'une banque privée](/journal/cgp-banque-privee-multi-family-office), fonctionne comme quelqu'un qui connaît tous les meilleurs artisans de la ville. Sur chaque classe d'actifs (actions, obligations, private equity, gestion alternative), il peut mettre les gérants en concurrence et sélectionner les meilleurs.
 
@@ -105,7 +100,7 @@ Même logique sur les actions cotées. Les études SPIVA montrent qu'environ 90 
 
 ## La stabilité de la relation
 
-Deuxième différence, souvent sous-estimée : la durée. En banque privée, les conseillers changent régulièrement de poste, tous les deux ou trois ans. C'est d'ailleurs ce qui forme d'excellents professionnels, comme le raconte Christophe, passé lui-même par plusieurs postes [(à 7:54 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=474s). Mais il est très difficile de construire une stratégie de transmission ou de préparer une cession d'entreprise avec un interlocuteur qui change aussi souvent.
+Deuxième différence, souvent sous-estimée : la durée. En banque privée, les conseillers changent régulièrement de poste, tous les deux ou trois ans. C'est d'ailleurs ce qui forme d'excellents professionnels, et Christophe Faglin est lui-même passé par plusieurs postes. Mais il est très difficile de construire une stratégie de transmission ou de préparer une cession d'entreprise avec un interlocuteur qui change aussi souvent.
 
 Un multi family office est conçu pour accompagner une famille sur des décennies. Les associés sont aussi les conseillers.
 
@@ -128,7 +123,7 @@ C'est la question à poser à tout conseiller. Deux modèles existent.
 
 Il existe une troisième voie : le **[contrat d'assurance-vie luxembourgeois](/journal/assurance-vie-luxembourgeoise)** avec gestion dédiée, dans lequel le conseiller ne perçoit pas de rétrocession sur les fonds sélectionnés. Le choix d'un fonds plutôt qu'un autre ne change pas sa rémunération.
 
-Chez PLT Family Office, nous présentons les deux modes de rémunération et le client choisit en connaissance de cause. Les deux modèles sont comparés [à 17:15 dans la vidéo](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1035s).
+Chez PLT Family Office, nous présentons les deux modes de rémunération et le client choisit en connaissance de cause.
 
 ## Fintechs : concurrentes ou outils ?
 
@@ -138,7 +133,7 @@ Les fintechs font baisser les prix et améliorent l'expérience client. Elles so
 
 Que vous soyez en banque privée ou ailleurs, prenez le temps de mettre votre situation à l'épreuve :
 
-1. **Vérifiez la qualité de vos fonds** (méthode montrée [à 23:16 dans la vidéo](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1396s)). Sur Quantalys ou Morningstar, gratuits ([méthode détaillée](/journal/verifier-qualite-fonds-quantalys-morningstar)), tapez le nom ou le code ISIN de chaque fonds. Une étoile signifie que le fonds se situe dans les 25 % les moins performants de sa catégorie, cinq étoiles dans les 25 % les meilleurs. Comparez ensuite votre allocation à [celle des grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes).
+1. **Vérifiez la qualité de vos fonds.** Sur Quantalys ou Morningstar, gratuits ([méthode détaillée](/journal/verifier-qualite-fonds-quantalys-morningstar)), tapez le nom ou le code ISIN de chaque fonds. Une étoile signifie que le fonds se situe dans les 25 % les moins performants de sa catégorie, cinq étoiles dans les 25 % les meilleurs. Comparez ensuite votre allocation à [celle des grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes).
 2. **Demandez par écrit ce que vous coûte réellement votre conseil :** frais du contrat, frais de mandat, frais des supports. Un écrit est toujours plus précis.
 3. **Faites jouer la concurrence.** Allez voir de temps en temps ce que proposent d'autres acteurs.
 4. **Formez-vous.** L'éducation financière est la meilleure protection et vous permet de mieux choisir vos conseils.
@@ -168,24 +163,6 @@ Tapez le nom ou le code ISIN de chaque fonds sur Quantalys ou Morningstar. La no
 ### Vaut-il mieux payer son conseiller en honoraires ou en rétrocessions ?
 
 L'honoraire garantit l'indépendance mais supporte la TVA. La rétrocession n'a pas de TVA mais lie la rémunération du conseiller aux produits choisis. Le contrat luxembourgeois sans rétrocession est une troisième voie.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1 mai 2025 sur la chaîne Parlons Long Terme (25 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
-
-Les passages clés :
-
-- [2:01](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=121s) Comment fonctionne une banque privée
-- [4:35](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=275s) L'épicerie et le fromager : l'architecture ouverte
-- [5:27](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=327s) L'écart de performance entre fonds médians et premier quartile
-- [7:54](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=474s) Le turnover des conseillers en banque privée
-- [9:34](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=574s) Les fintechs, concurrentes ou outils ?
-- [11:03](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=663s) Quand faire appel à la gestion de fortune
-- [17:15](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1035s) Honoraires ou rétrocessions
-- [20:32](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1232s) Les défis des familles fortunées
-- [23:16](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1396s) Vérifier ses fonds sur Quantalys
 
 ## Sources
 

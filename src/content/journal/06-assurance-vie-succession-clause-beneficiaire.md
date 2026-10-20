@@ -33,20 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 738, label: "Assurance-vie : avant et après 70 ans"}
-      - {t: 930, label: "152 500 € par bénéficiaire"}
-      - {t: 1126, label: "Les gains exonérés après 70 ans"}
-      - {t: 1251, label: "Les contrats ouverts avant le 20 novembre 1991"}
-      - {t: 1285, label: "Les erreurs de clause bénéficiaire"}
   - id: V8qZaCLBKX0
     titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 2294, label: "L'assurance-vie dans un cas pratique"}
-      - {t: 2460, label: "Le démembrement de la clause bénéficiaire"}
 faq:
   - q: "Combien peut-on transmettre par assurance-vie sans droits de succession ?"
     r: "152 500 € par bénéficiaire pour les sommes versées avant 70 ans, tous contrats confondus. Au-delà, les sommes sont taxées à 20 % jusqu'à 700 000 € puis à 31,25 %."
@@ -81,7 +72,7 @@ C'est ce qui en fait un outil si puissant dès que l'on veut transmettre en deho
 
 ## Versements avant 70 ans : 152 500 € par bénéficiaire
 
-Pour les sommes versées avant vos 70 ans, chaque bénéficiaire reçoit **152 500 € en franchise totale de droits** (Christophe Faglin le détaille [à 15:30 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=930s)). Au-delà, il est taxé à **20 %** jusqu'à 700 000 €, puis **31,25 %**.
+Pour les sommes versées avant vos 70 ans, chaque bénéficiaire reçoit **152 500 € en franchise totale de droits**. Au-delà, il est taxé à **20 %** jusqu'à 700 000 €, puis **31,25 %**.
 
 L'abattement s'applique **par bénéficiaire**, et chaque assuré a le sien. Un couple avec deux enfants, où chacun désigne ses deux enfants, peut transmettre **610 000 €** sans droits par ce seul canal. Ajoutez des petits-enfants comme bénéficiaires et le total dépasse le million d'euros.
 
@@ -91,11 +82,15 @@ Ces montants s'ajoutent aux [100 000 € d'abattement par parent et par enfant](
 
 Après 70 ans, l'abattement tombe à **30 500 €**, à partager entre tous les bénéficiaires, tous contrats confondus. Au-delà, les primes versées réintègrent la succession classique.
 
-Cela paraît beaucoup moins intéressant, et pourtant : **tous les gains générés par ces versements sont exonérés de droits** [(à 18:46 dans la vidéo)](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1126s). Seules les primes versées sont prises en compte. Quelqu'un qui verse tôt après 70 ans, sur une allocation dynamique, transmet toute la croissance de son capital hors droits de succession.
+Cela paraît beaucoup moins intéressant, et pourtant : **tous les gains générés par ces versements sont exonérés de droits**. Seules les primes versées sont prises en compte. Quelqu'un qui verse tôt après 70 ans, sur une allocation dynamique, transmet toute la croissance de son capital hors droits de succession.
 
 ## La pépite oubliée : les contrats ouverts avant le 20 novembre 1991
 
-Si vous, ou vos parents, détenez un contrat d'assurance-vie ouvert **avant le 20 novembre 1991**, gardez-le précieusement. Sur ces contrats, l'âge au moment du versement n'est pas regardé de la même façon : des versements effectués à 75 ou 82 ans peuvent bénéficier d'un traitement bien plus favorable que sur un contrat récent. Les règles exactes dépendent de la date des versements : faites étudier le contrat avant d'y toucher. Christophe Faglin parle de ces « pépites » [à 20:51 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1251s).
+Si vous, ou vos parents, détenez un contrat d'assurance-vie ouvert **avant le 20 novembre 1991**, gardez-le précieusement. Sur ces contrats, l'âge au moment du versement n'est pas regardé de la même façon : des versements effectués à 75 ou 82 ans peuvent bénéficier d'un traitement bien plus favorable que sur un contrat récent. Les règles exactes dépendent de la date des versements : faites étudier le contrat avant d'y toucher.
+
+Avant ou après 70 ans, contrats anciens, erreurs de clause : Rémi de Truchis de Varennes et Christophe Faglin passent ces règles en revue dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
 
 ## L'erreur la plus coûteuse : la clause bénéficiaire
 
@@ -113,7 +108,7 @@ Une solution élégante consiste à [démembrer](/journal/demembrement-propriete
 - Les enfants utilisent dès le premier décès une partie de l'abattement de 152 500 €, partagée avec le conjoint usufruitier selon son âge ([exemple chiffré](/journal/clause-beneficiaire-assurance-vie-modeles)).
 - Au décès du conjoint, les enfants récupèrent leur créance de restitution, qui vient en déduction de la succession.
 
-Bien rédigée, cette clause peut faire économiser des centaines de milliers d'euros. Elle doit être construite avec soin, avec votre notaire ou votre conseiller. Christophe Faglin revient sur cette erreur fréquente [à 41:00 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2460s).
+Bien rédigée, cette clause peut faire économiser des centaines de milliers d'euros. Elle doit être construite avec soin, avec votre notaire ou votre conseiller. Christophe Faglin montre comment elle s'intègre dans une stratégie complète dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0).
 
 ## Faut-il choisir l'assurance-vie ou le compte-titres ?
 
@@ -160,33 +155,6 @@ Le conjoint reçoit l'usufruit des capitaux et les enfants la nue-propriété. L
 ### Le conjoint paie-t-il des droits sur une assurance-vie ?
 
 Non. Le conjoint et le partenaire de Pacs sont exonérés de droits de succession, y compris sur l'assurance-vie.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
-
-Les passages clés :
-
-- [12:18](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=738s) Assurance-vie : avant et après 70 ans
-- [15:30](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=930s) 152 500 € par bénéficiaire
-- [18:46](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1126s) Les gains exonérés après 70 ans
-- [20:51](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1251s) Les contrats ouverts avant le 20 novembre 1991
-- [21:25](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1285s) Les erreurs de clause bénéficiaire
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [38:14](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2294s) L'assurance-vie dans un cas pratique
-- [41:00](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2460s) Le démembrement de la clause bénéficiaire
 
 ## Sources
 

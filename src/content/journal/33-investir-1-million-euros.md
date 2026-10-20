@@ -35,14 +35,6 @@ videos:
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 131, label: "Première étape : définir son objectif"}
-      - {t: 391, label: "L'effet des frais sur 30 ans"}
-      - {t: 425, label: "Organiser le suivi"}
-      - {t: 1121, label: "L'erreur de tout sécuriser"}
-      - {t: 1224, label: "Le facteur psychologique"}
-      - {t: 1440, label: "Le plafond du PEA"}
-      - {t: 1584, label: "Un compte-titres en société ?"}
 faq:
   - q: "Que faire en premier avec 1 million d'euros ?"
     r: "Ne rien précipiter : mettre les fonds à l'abri sur des supports liquides et peu risqués, répartis entre plusieurs établissements, le temps de définir son objectif, son horizon et ses besoins de revenus. Les décisions d'investissement viennent ensuite."
@@ -82,7 +74,7 @@ Si la somme provient de la vente de votre entreprise et se trouve dans une holdi
 
 ## Quelle question se poser avant de placer ?
 
-« Pourquoi est-ce que j'investis ? » C'est la première étape, et la plus souvent sautée, rappelle Christophe Faglin [à 2:11 dans la vidéo sur l'allocation 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=131s). Trois objectifs appellent trois architectures différentes :
+« Pourquoi est-ce que j'investis ? » C'est la première étape, et la plus souvent sautée, rappelle Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé. Trois objectifs appellent trois architectures différentes :
 
 | Objectif | Question clé | Conséquence |
 |---|---|---|
@@ -92,13 +84,17 @@ Si la somme provient de la vente de votre entreprise et se trouve dans une holdi
 
 Prenons un besoin de 40 000 € par an. Il représente 4 % d'un million. Pour ne pas entamer le capital à long terme, il faut un rendement net supérieur à ce retrait, majoré de l'inflation. C'est atteignable, mais pas avec un capital laissé sur des supports sans risque.
 
+Si vous préférez suivre cette démarche de vive voix, de l'objectif jusqu'au choix des enveloppes, Rémi de Truchis de Varennes et Christophe Faglin la détaillent dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
+
 ## Combien garder en réserve ?
 
-Deux erreurs opposées guettent celui qui vient de recevoir un capital important. La première consiste à **tout sécuriser** au motif qu'on vient de vendre son entreprise ou de partir à la retraite, alors qu'à 50 ou 60 ans l'horizon dépasse encore vingt ans [(à 18:41 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1121s). La seconde consiste à tout placer en actions en comptant prélever chaque année : si le portefeuille perd la moitié de sa valeur, les retraits détruisent le capital.
+Deux erreurs opposées guettent celui qui vient de recevoir un capital important. La première consiste à **tout sécuriser** au motif qu'on vient de vendre son entreprise ou de partir à la retraite, alors qu'à 50 ou 60 ans l'horizon dépasse encore vingt ans. La seconde consiste à tout placer en actions en comptant prélever chaque année : si le portefeuille perd la moitié de sa valeur, les retraits détruisent le capital.
 
 La règle pratique : conserver **quatre à cinq années de besoins** sur des placements peu volatils mais rémunérateurs, comme les [obligations](/journal/obligations-grandes-fortunes) ou la gestion alternative. Avec 40 000 € de besoins annuels, cela représente 160 000 à 200 000 €. Le reste peut travailler sur le long terme et traverser les crises sans retrait forcé.
 
-Le facteur psychologique compte aussi. Voir 1 million devenir 800 000 € en quelques mois est difficile à vivre la première fois, et c'est souvent là que l'on vend au plus mauvais moment [(à 20:24 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1224s).
+Le facteur psychologique compte aussi. Voir 1 million devenir 800 000 € en quelques mois est difficile à vivre la première fois, et c'est souvent là que l'on vend au plus mauvais moment.
 
 ## Dans quelles enveloppes loger 1 million d'euros ?
 
@@ -106,14 +102,14 @@ Une fois la répartition décidée, chaque brique se loge dans l'enveloppe la pl
 
 | Enveloppe | Ce qu'elle apporte | Limite |
 |---|---|---|
-| PEA | Pas d'impôt sur le revenu sur les gains après 5 ans (prélèvements sociaux de 18,6 % dus) | Versements plafonnés à 150 000 €, actions européennes et certains ETF seulement [(à 24:00 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1440s) |
+| PEA | Pas d'impôt sur le revenu sur les gains après 5 ans (prélèvements sociaux de 18,6 % dus) | Versements plafonnés à 150 000 €, actions européennes et certains ETF seulement |
 | Assurance-vie française | Pas d'impôt sans retrait, abattement annuel sur les gains après 8 ans, cadre successoral | Univers d'investissement souvent étroit, frais à vérifier |
 | [Assurance-vie luxembourgeoise](/journal/assurance-vie-luxembourgeoise) | Mêmes avantages fiscaux, univers très large, devises, crédit lombard | Ticket d'entrée de 750 000 € à 1 M€ en banque, 300 000 € chez PLT Family Office |
 | Compte-titres | Aucune limite d'univers, effacement de la plus-value au décès | Gains imposés à 31,4 % à chaque cession ou dividende |
 
 Le choix ne se fait pas seulement sur le rendement : le PEA et le compte-titres n'ont pas le même sort au décès, comme nous l'expliquons dans [compte-titres, PEA, assurance-vie : que se passe-t-il au décès ?](/journal/compte-titres-pea-succession).
 
-Une fausse bonne idée revient souvent : ouvrir un compte-titres dans une société pour y placer de l'argent personnel. La réponse est non : les gains seraient taxés à l'impôt sur les sociétés puis à nouveau à la sortie [(à 26:24 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1584s).
+Une fausse bonne idée revient souvent : ouvrir un compte-titres dans une société pour y placer de l'argent personnel. La réponse est non : les gains seraient taxés à l'impôt sur les sociétés puis à nouveau à la sortie.
 
 ## Faut-il investir en une fois ou progressivement ?
 
@@ -134,7 +130,7 @@ C'est la variable la plus sous-estimée, et la seule que l'on maîtrise. Prenons
 | 2,50 % | 3,50 % | environ 1 990 000 € |
 | 1,25 % | 4,75 % | environ 2 530 000 € |
 
-Un écart de 1,25 point de frais représente environ **540 000 €** au bout de vingt ans. Christophe Faglin fait la même démonstration sur 300 000 € et trente ans [à 6:31 dans la vidéo](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=391s). Pour mesurer ce que vous payez vraiment, voir [les frais cachés de l'assurance-vie](/journal/frais-caches-assurance-vie) et le débat [ETF ou gestion active](/journal/etf-ou-gestion-active).
+Un écart de 1,25 point de frais représente environ **540 000 €** au bout de vingt ans. Christophe Faglin fait la même démonstration sur 300 000 € et trente ans. Pour mesurer ce que vous payez vraiment, voir [les frais cachés de l'assurance-vie](/journal/frais-caches-assurance-vie) et le débat [ETF ou gestion active](/journal/etf-ou-gestion-active).
 
 ## Et l'IFI ?
 
@@ -142,7 +138,7 @@ Un million d'euros de placements financiers n'est pas soumis à l'impôt sur la 
 
 ## Organiser le suivi
 
-Une fois le portefeuille construit, ne le regardez pas tous les jours : c'est la meilleure façon de laisser vos émotions décider. Si vous déléguez, un point par trimestre ou par quadrimestre suffit [(à 7:05 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=425s). Si vous empruntez sur vos placements avec un [crédit lombard](/journal/credit-lombard), le suivi doit être plus serré. Et à chaque grande étape de vie, un [audit patrimonial](/journal/audit-patrimonial) permet de vérifier que l'ensemble reste cohérent.
+Une fois le portefeuille construit, ne le regardez pas tous les jours : c'est la meilleure façon de laisser vos émotions décider. Si vous déléguez, un point par trimestre ou par quadrimestre suffit. Si vous empruntez sur vos placements avec un [crédit lombard](/journal/credit-lombard), le suivi doit être plus serré. Et à chaque grande étape de vie, un [audit patrimonial](/journal/audit-patrimonial) permet de vérifier que l'ensemble reste cohérent.
 
 ## En résumé
 
@@ -173,22 +169,6 @@ En général une combinaison : PEA jusqu'à 150 000 €, assurance-vie français
 ### Un million d'euros de placements est-il soumis à l'IFI ?
 
 Non. L'impôt sur la fortune immobilière ne concerne que l'immobilier, détenu directement ou indirectement, au-delà de 1,3 million d'euros de patrimoine immobilier net. Les placements financiers n'y entrent pas, hors fonds immobiliers.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 sur la chaîne Parlons Long Terme (40 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
-
-Les passages clés :
-
-- [2:11](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=131s) Première étape : définir son objectif
-- [6:31](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=391s) L'effet des frais sur 30 ans
-- [7:05](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=425s) Organiser le suivi
-- [18:41](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1121s) L'erreur de tout sécuriser
-- [20:24](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1224s) Le facteur psychologique
-- [24:00](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1440s) Le plafond du PEA
-- [26:24](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1584s) Un compte-titres en société ?
 
 ## Sources
 

@@ -16,7 +16,6 @@ intention: informationnelle / commerciale
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
-  - https://www.youtube.com/watch?v=dJ9yXONnr5M
 longueur: environ 1500 mots
 ordre_publication: 1
 date_mise_a_jour: 2026-10-20
@@ -37,20 +36,6 @@ videos:
     url: https://www.youtube.com/watch?v=z-pAIMtxv1w
     date_publication: 2025-08-30
     duree: PT38M49S
-    passages:
-      - {t: 113, label: "Le triangle de sécurité"}
-      - {t: 173, label: "Loi Sapin 2 et super-privilège"}
-      - {t: 246, label: "La solidité des banques françaises"}
-      - {t: 313, label: "Un couteau suisse pour investir"}
-      - {t: 356, label: "La neutralité fiscale"}
-      - {t: 532, label: "Investir dans une autre devise"}
-      - {t: 652, label: "Le ticket d'entrée"}
-      - {t: 708, label: "L'étiquette ne suffit pas"}
-      - {t: 1015, label: "Fiscalité pour un résident français"}
-      - {t: 1416, label: "Le crédit lombard"}
-      - {t: 1668, label: "Les vrais frais comparés"}
-      - {t: 2183, label: "Transférer un contrat"}
-      - {t: 2245, label: "En cas d'expatriation"}
 faq:
   - q: "Qu'est-ce qu'une assurance-vie luxembourgeoise ?"
     r: "C'est un contrat d'assurance-vie souscrit auprès d'un assureur établi au Luxembourg, accessible depuis la France sans être résident luxembourgeois, avec un univers d'investissement beaucoup plus large qu'un contrat français."
@@ -87,13 +72,17 @@ On cite souvent la sécurité du Luxembourg en premier. Elle repose sur quatre m
 
 **3. Le super-privilège.** En cas de faillite de l'assureur, les souscripteurs sont remboursés en priorité, avant les salariés et même avant l'État. En France, la garantie des contrats d'assurance-vie est plafonnée à 70 000 € par assuré et par assureur.
 
-**4. L'absence de « loi Sapin 2 ».** En France, le régulateur peut autoriser un assureur à limiter ou bloquer les retraits pendant trois mois, renouvelables. Ce mécanisme n'existe pas au Luxembourg. Attention toutefois aux contrats luxembourgeois dont le fonds en euros passe par une succursale française : ils peuvent y être soumis. Christophe Faglin passe en revue ces quatre protections [à 1:53 dans la vidéo](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=113s).
+**4. L'absence de « loi Sapin 2 ».** En France, le régulateur peut autoriser un assureur à limiter ou bloquer les retraits pendant trois mois, renouvelables. Ce mécanisme n'existe pas au Luxembourg. Attention toutefois aux contrats luxembourgeois dont le fonds en euros passe par une succursale française : ils peuvent y être soumis.
+
+Ces protections, comme la fiscalité, le ticket d'entrée et les frais du contrat, sont détaillées par Rémi de Truchis de Varennes et Christophe Faglin dans [Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w), un entretien de la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : z-pAIMtxv1w -->
 
 Le Luxembourg offre sans doute les meilleures garanties de protection en Europe. Mais ce n'est pas une raison suffisante pour y ouvrir un contrat. La France dispose elle aussi de protections solides, et trois des dix plus grandes banques européennes sont françaises. Il ne faut pas confondre la trajectoire budgétaire d'un pays avec la solidité de ses établissements. Surtout, l'État luxembourgeois ne viendra pas au secours d'un assureur défaillant : **le choix de l'assureur reste essentiel**.
 
 ## Premier vrai avantage : un univers d'investissement sans équivalent
 
-Le contrat luxembourgeois est un couteau suisse [(à 5:13 dans la vidéo)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=313s). On peut y loger :
+Le contrat luxembourgeois est un couteau suisse. On peut y loger :
 
 - des **actions en direct**, y compris des small caps du monde entier ;
 - des **parts institutionnelles** de fonds, moins chargées en frais que les parts destinées aux particuliers ;
@@ -115,7 +104,7 @@ Pour un résident français, cela signifie que le contrat luxembourgeois bénéf
 - en cas de retrait, seule la part de gains contenue dans le retrait est taxée ;
 - au décès, les mêmes [abattements de 152 500 € par bénéficiaire](/journal/assurance-vie-succession-clause-beneficiaire) pour les versements avant 70 ans.
 
-Et si vous vous installez un jour à l'étranger, à Dubaï, à Maurice ou ailleurs, le contrat suit simplement la fiscalité de votre nouveau pays de résidence. Un contrat français, lui, peut continuer à être imposé en France selon la convention fiscale, alors que vous ne bénéficiez plus de ses services. Pour quiconque envisage une [expatriation](/journal/assurance-vie-expatriation), c'est un levier de simplification considérable (explication [à 5:56 dans la vidéo](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=356s)).
+Et si vous vous installez un jour à l'étranger, à Dubaï, à Maurice ou ailleurs, le contrat suit simplement la fiscalité de votre nouveau pays de résidence. Un contrat français, lui, peut continuer à être imposé en France selon la convention fiscale, alors que vous ne bénéficiez plus de ses services. Pour quiconque envisage une [expatriation](/journal/assurance-vie-expatriation), c'est un levier de simplification considérable.
 
 ## Troisième et quatrième avantages : la devise et le crédit
 
@@ -145,7 +134,7 @@ Il est accessible depuis la plupart des pays européens, et même depuis certain
 
 Dans la plupart des banques privées, il faut **750 000 € à 1 million d'euros** pour accéder à un contrat luxembourgeois. Le seuil s'explique par l'ingénierie nécessaire : un même contrat doit pouvoir être ouvert depuis de nombreux pays et intégrer de nouveaux fonds.
 
-On trouve des contrats à des montants plus bas, mais il faut vérifier qu'ils offrent bien le moteur financier décrit plus haut. Chez PLT Family Office, nous rendons accessibles des contrats de qualité **à partir de 300 000 €** [(à 10:52 dans la vidéo)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=652s).
+On trouve des contrats à des montants plus bas, mais il faut vérifier qu'ils offrent bien le moteur financier décrit plus haut. Chez PLT Family Office, nous rendons accessibles des contrats de qualité **à partir de 300 000 €**.
 
 ## Le vrai piège : l'étiquette ne suffit pas
 
@@ -168,7 +157,7 @@ On entend souvent que le contrat luxembourgeois coûte plus cher. Pas forcément
 - supports : pas de frais sur les titres en direct (hors droits de garde marginaux), parts institutionnelles et ETF moins chargés.
 - **Total : environ 1,5 % à 1,75 %** pour une gestion actions, soit jusqu'à deux fois moins.
 
-Sur 30 ans, l'écart est vertigineux. 250 000 € placés à 3 % par an deviennent environ 606 000 €. Avec trois points de performance en plus, grâce aux frais et à la qualité des supports, ils deviennent environ **1,44 million d'euros**. La comparaison complète est présentée [à 27:48 dans la vidéo](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1668s).
+Sur 30 ans, l'écart est vertigineux. 250 000 € placés à 3 % par an deviennent environ 606 000 €. Avec trois points de performance en plus, grâce aux frais et à la qualité des supports, ils deviennent environ **1,44 million d'euros**.
 
 ## Transférer un contrat existant
 
@@ -211,28 +200,6 @@ Oui, chaque année avec sa déclaration de revenus. Un contrat non déclaré exp
 ### Un contrat luxembourgeois coûte-t-il plus cher qu'un contrat français ?
 
 Pas forcément. Bien négocié, avec des titres vifs, des ETF et des parts institutionnelles, il peut coûter jusqu'à deux fois moins cher qu'un contrat bancaire français géré sous mandat.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 sur la chaîne Parlons Long Terme (39 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : z-pAIMtxv1w -->
-
-Les passages clés :
-
-- [1:53](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=113s) Le triangle de sécurité
-- [2:53](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=173s) Loi Sapin 2 et super-privilège
-- [4:06](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=246s) La solidité des banques françaises
-- [5:13](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=313s) Un couteau suisse pour investir
-- [5:56](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=356s) La neutralité fiscale
-- [8:52](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=532s) Investir dans une autre devise
-- [10:52](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=652s) Le ticket d'entrée
-- [11:48](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=708s) L'étiquette ne suffit pas
-- [16:55](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1015s) Fiscalité pour un résident français
-- [23:36](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1416s) Le crédit lombard
-- [27:48](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1668s) Les vrais frais comparés
-- [36:23](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=2183s) Transférer un contrat
-- [37:25](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=2245s) En cas d'expatriation
 
 ## Sources
 

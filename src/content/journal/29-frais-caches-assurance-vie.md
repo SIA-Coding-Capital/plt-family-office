@@ -32,24 +32,11 @@ videos:
     url: https://www.youtube.com/watch?v=z-pAIMtxv1w
     date_publication: 2025-08-30
     duree: PT38M49S
-    passages:
-      - {t: 1668, label: "Les vrais frais comparés"}
-      - {t: 1791, label: "Les frais de gestion du contrat"}
-      - {t: 1806, label: "0,5 à 0,75 % seul, 0,75 à 1 % en banque"}
-      - {t: 1833, label: "La gestion sous mandat"}
-      - {t: 1864, label: "Les frais des supports, la couche ignorée"}
-      - {t: 1925, label: "Environ 3 % par an au total"}
-      - {t: 2025, label: "Les parts institutionnelles"}
-      - {t: 2070, label: "Jusqu'à deux fois moins cher"}
   - id: kRNe9rGqKyA
     titre: "Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)"
     url: https://www.youtube.com/watch?v=kRNe9rGqKyA
     date_publication: 2025-05-01
     duree: PT25M00S
-    passages:
-      - {t: 368, label: "250 000 € à 5 % ou à 7 % sur 30 ans"}
-      - {t: 1035, label: "Le modèle en honoraires"}
-      - {t: 1082, label: "Le modèle des rétrocessions"}
 faq:
   - q: "Quels sont les frais d'une assurance-vie ?"
     r: "Il peut y avoir des frais sur versements, puis chaque année des frais de gestion du contrat (0,5 à 1 % sur les unités de compte), éventuellement des frais de gestion sous mandat (environ 0,5 %) et les frais courants des fonds détenus. S'y ajoutent parfois des frais d'arbitrage et des commissions de surperformance."
@@ -77,7 +64,7 @@ Demandez à un épargnant combien lui coûte son assurance-vie : il citera le pl
 
 ## Quelles sont les différentes couches de frais ?
 
-Les frais d'une assurance-vie sont l'ensemble des sommes prélevées par l'assureur, le distributeur et les sociétés de gestion des fonds, à l'entrée, chaque année et lors de certaines opérations. Christophe Faglin les décompose une par une [à 27:48 dans la vidéo sur l'assurance-vie luxembourgeoise](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1668s).
+Les frais d'une assurance-vie sont l'ensemble des sommes prélevées par l'assureur, le distributeur et les sociétés de gestion des fonds, à l'entrée, chaque année et lors de certaines opérations.
 
 | Couche | Qui la prélève | Ordre de grandeur | Visible sur le relevé ? |
 |---|---|---|---|
@@ -87,13 +74,17 @@ Les frais d'une assurance-vie sont l'ensemble des sommes prélevées par l'assur
 | Frais courants des fonds | Sociétés de gestion | Environ 1,75 % en moyenne pour des fonds actions actifs | **Non** |
 | Arbitrages, surperformance, transactions | Assureur, sociétés de gestion | Variable | Partiellement |
 
-**La gestion du contrat.** Si vous gérez tout vous-même, les meilleurs contrats facturent 0,5 à 0,75 % par an. Avec l'accompagnement d'une banque, comptez plutôt 0,75 à 1 % [(à 30:06 dans la vidéo)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1806s).
+**La gestion du contrat.** Si vous gérez tout vous-même, les meilleurs contrats facturent 0,5 à 0,75 % par an. Avec l'accompagnement d'une banque, comptez plutôt 0,75 à 1 %.
 
-**La gestion sous mandat.** Si la banque choisit les supports pour vous, ajoutez environ 0,5 % [(à 30:33 dans la vidéo)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1833s).
+**La gestion sous mandat.** Si la banque choisit les supports pour vous, ajoutez environ 0,5 %.
 
-**Les frais des supports.** C'est la couche « très souvent ignorée et qui est pourtant la principale » [(à 31:04 dans la vidéo)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1864s). Pour des fonds actions gérés activement, la moyenne tourne autour de 1,75 %, un peu moins pour les fonds investis aux États-Unis, davantage pour les petites capitalisations et les marchés émergents.
+**Les frais des supports.** C'est la couche « très souvent ignorée et qui est pourtant la principale ». Pour des fonds actions gérés activement, la moyenne tourne autour de 1,75 %, un peu moins pour les fonds investis aux États-Unis, davantage pour les petites capitalisations et les marchés émergents.
 
-Total pour un contrat bancaire investi en actions et géré sous mandat : 0,75 + 0,5 + 1,75 = **3 % par an**, « sans certitude d'avoir les meilleurs fonds » [(à 32:05 dans la vidéo)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1925s).
+Total pour un contrat bancaire investi en actions et géré sous mandat : 0,75 + 0,5 + 1,75 = **3 % par an**, « sans certitude d'avoir les meilleurs fonds ».
+
+Rémi de Truchis de Varennes et Christophe Faglin passent ces couches en revue, et les comparent avec celles d'un contrat luxembourgeois, dans [Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : z-pAIMtxv1w -->
 
 Pour le fonds en euros, la logique est différente : les frais de gestion sont prélevés avant que le taux ne soit annoncé. Le rendement servi est déjà net de ces frais.
 
@@ -108,13 +99,13 @@ Prenons 500 000 € investis pendant 20 ans, avec un rendement brut des marchés
 
 L'écart atteint environ **303 000 €**, soit plus de la moitié du capital de départ. La première année, 3 % de frais sur 500 000 € représentent 15 000 €, prélevés sans qu'aucune ligne du relevé n'affiche ce montant total.
 
-L'exemple de la vidéo sur les banques privées va dans le même sens : 250 000 € placés 30 ans à 5 % deviennent environ 1,08 M€ ; à 7 %, environ 1,90 M€ [(à 6:08 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=368s). Deux points d'écart, liés aux frais et à la qualité des supports, et le résultat final est presque multiplié par deux.
+Un second exemple va dans le même sens : 250 000 € placés 30 ans à 5 % deviennent environ 1,08 M€ ; à 7 %, environ 1,90 M€. Deux points d'écart, liés aux frais et à la qualité des supports, et le résultat final est presque multiplié par deux. Ce calcul est développé dans [Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA), qui compare aussi les modes de rémunération des conseillers.
 
 ## Que sont les rétrocessions ?
 
 Une rétrocession est la part des frais courants d'un fonds que la société de gestion reverse à l'assureur ou au distributeur qui l'a placé. Elle ne s'ajoute pas aux frais affichés du fonds : elle est prise dedans.
 
-Le mécanisme est légal et très répandu. En France, la rétrocession est le mode de rémunération le plus courant des conseillers [(à 18:02 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1082s). Son inconvénient : elle peut orienter le choix vers les fonds qui rémunèrent le mieux le distributeur, et pas forcément vers les meilleurs. L'alternative est le conseil en honoraires, sans lien entre la rémunération et les fonds choisis, mais soumis à la TVA de 20 % [(à 17:15 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1035s). Nous comparons les deux modèles dans notre article [honoraires ou rétrocessions](/journal/honoraires-ou-retrocessions).
+Le mécanisme est légal et très répandu. En France, la rétrocession est le mode de rémunération le plus courant des conseillers. Son inconvénient : elle peut orienter le choix vers les fonds qui rémunèrent le mieux le distributeur, et pas forcément vers les meilleurs. L'alternative est le conseil en honoraires, sans lien entre la rémunération et les fonds choisis, mais soumis à la TVA de 20 %. Nous comparons les deux modèles dans notre article [honoraires ou rétrocessions](/journal/honoraires-ou-retrocessions).
 
 ## Où retrouver ses frais réels ?
 
@@ -131,10 +122,10 @@ Pour aller plus vite, tapez le code ISIN de chaque fonds sur Quantalys ou Mornin
 
 1. **Négocier les frais du contrat.** Ils sont souvent négociables au-delà de quelques centaines de milliers d'euros.
 2. **Remplacer les fonds coûteux qui ne battent pas leur indice par des ETF.** Sur les grands indices, un ETF coûte souvent moins de 0,3 % par an. Voir notre comparaison [ETF ou gestion active](/journal/etf-ou-gestion-active).
-3. **Accéder aux parts institutionnelles.** Un même fonds existe souvent en part « particuliers » et en part « institutionnelle », moins chargée de l'ordre de 0,7 à 0,8 point [(à 33:45 dans la vidéo)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=2025s).
+3. **Accéder aux parts institutionnelles.** Un même fonds existe souvent en part « particuliers » et en part « institutionnelle », moins chargée de l'ordre de 0,7 à 0,8 point.
 4. **Loger des titres en direct**, qui ne supportent pas de frais de support, seulement des droits de garde marginaux.
 
-Les points 3 et 4 sont l'un des atouts du contrat d'[assurance-vie luxembourgeois](/journal/assurance-vie-luxembourgeoise). Bien négocié, il peut ramener le coût global d'une gestion actions entre 1,5 et 1,75 %, soit jusqu'à deux fois moins qu'un contrat bancaire classique [(à 34:30 dans la vidéo)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=2070s).
+Les points 3 et 4 sont l'un des atouts du contrat d'[assurance-vie luxembourgeois](/journal/assurance-vie-luxembourgeoise). Bien négocié, il peut ramener le coût global d'une gestion actions entre 1,5 et 1,75 %, soit jusqu'à deux fois moins qu'un contrat bancaire classique.
 
 Attention à ne pas tomber dans l'excès inverse. Le moins cher n'est pas toujours le meilleur : un fonds de private equity ou de gestion alternative coûte plus qu'un ETF, et peut le justifier. La bonne question n'est pas « combien je paie ? » mais « qu'est-ce que j'obtiens pour ce prix ? ». C'est aussi l'un des critères pour choisir entre [banque privée et family office](/journal/family-office-ou-banque-privee), et l'un des premiers chantiers d'un [audit patrimonial](/journal/audit-patrimonial).
 
@@ -167,35 +158,6 @@ C'est la part des frais d'un fonds que la société de gestion reverse à l'assu
 ### Où trouver les frais réels de son contrat ?
 
 Dans le tableau standardisé des frais que les assureurs et distributeurs publient depuis 2022, dans les documents d'informations clés des fonds et dans le récapitulatif annuel des frais que l'assureur doit vous adresser. Demandez aussi à votre conseiller un état écrit des frais, niveau par niveau.
-
-## La vidéo de référence
-
-Cet article s'appuie sur deux vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Assurance-vie luxembourgeoise
-
-**[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min).
-
-<!-- Lecteur YouTube à intégrer ici : z-pAIMtxv1w -->
-
-Les passages clés :
-
-- [27:48](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1668s) Les vrais frais comparés
-- [29:51](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1791s) Les frais de gestion du contrat
-- [30:06](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1806s) 0,5 à 0,75 % seul, 0,75 à 1 % en banque
-- [30:33](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1833s) La gestion sous mandat
-- [31:04](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1864s) Les frais des supports, la couche ignorée
-- [32:05](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1925s) Environ 3 % par an au total
-- [33:45](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=2025s) Les parts institutionnelles
-- [34:30](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=2070s) Jusqu'à deux fois moins cher
-
-### Les vrais riches et les banques privées
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1er mai 2025 (25 min).
-
-- [6:08](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=368s) 250 000 € à 5 % ou à 7 % sur 30 ans
-- [17:15](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1035s) Le modèle en honoraires
-- [18:02](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1082s) Le modèle des rétrocessions
 
 ## Sources
 

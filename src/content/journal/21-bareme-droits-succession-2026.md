@@ -34,22 +34,11 @@ videos:
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 102, label: "Un million d'euros, un enfant : plus de 215 000 € de droits"}
-      - {t: 111, label: "Le même million légué à un frère"}
-      - {t: 774, label: "Pas de droits entre époux depuis 2007"}
-      - {t: 791, label: "Les 100 000 premiers euros exonérés"}
-      - {t: 818, label: "Les petites tranches, puis 20 %"}
-      - {t: 863, label: "Frères et sœurs : 35 % puis 45 %"}
-      - {t: 888, label: "Neveux 55 %, au-delà 60 %"}
   - id: V8qZaCLBKX0
     titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 715, label: "Le barème en ligne directe"}
-      - {t: 2561, label: "Neveux et nièces, frères et sœurs"}
 faq:
   - q: "Quel est le barème des droits de succession en 2026 ?"
     r: "En ligne directe, après un abattement de 100 000 € par enfant et par parent, les taux vont de 5 % à 45 % ; la tranche à 20 % s'applique entre 15 932 € et 552 324 € de part taxable. Les frères et sœurs paient 35 % puis 45 %, les neveux et nièces 55 %, les autres héritiers 60 %. Le conjoint et le partenaire de Pacs sont exonérés."
@@ -79,7 +68,9 @@ sources:
 
 > **L'essentiel.** Les barèmes 2026 sont inchangés. En ligne directe, chaque enfant bénéficie de 100 000 € d'abattement par parent, puis d'un barème de 5 % à 45 % (20 % entre 15 932 € et 552 324 € de part taxable). Époux et partenaire de Pacs sont exonérés de droits de succession. Frères et sœurs : 15 932 € d'abattement, puis 35 % et 45 %. Neveux et nièces : 7 967 €, puis 55 %. Au-delà du 4e degré ou sans lien de parenté : 60 %.
 
-Le coût d'une transmission dépend de deux variables : le lien de parenté entre celui qui transmet et celui qui reçoit, et le montant reçu par chacun. Les écarts sont considérables. Un million d'euros transmis à un enfant unique coûte environ 213 000 € de droits ; le même million légué à un frère en coûte plus de 440 000 €. Christophe Faglin cite ces deux ordres de grandeur [à 1:42 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=102s).
+Le coût d'une transmission dépend de deux variables : le lien de parenté entre celui qui transmet et celui qui reçoit, et le montant reçu par chacun. Les écarts sont considérables. Un million d'euros transmis à un enfant unique coûte environ 213 000 € de droits ; le même million légué à un frère en coûte plus de 440 000 €. Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, part de ces deux ordres de grandeur dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), un entretien avec Rémi de Truchis de Varennes sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
 
 Voici les barèmes en vigueur, vérifiés auprès des textes officiels.
 
@@ -107,11 +98,11 @@ Il s'applique entre parents et enfants, mais aussi entre grands-parents et petit
 | De 902 839 € à 1 805 677 € | 40 % |
 | Au-delà de 1 805 677 € | 45 % |
 
-En pratique, dès qu'un enfant reçoit plus de 115 932 € d'un même parent, chaque euro supplémentaire est taxé à 20 % au moins (le passage est commenté [à 11:55 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=715s)).
+En pratique, dès qu'un enfant reçoit plus de 115 932 € d'un même parent, chaque euro supplémentaire est taxé à 20 % au moins.
 
 ## Le barème entre époux et partenaires de Pacs
 
-Au décès, le conjoint marié et le partenaire de Pacs sont **totalement exonérés** de droits de succession (le rappel est fait [à 12:54 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=774s)). Attention : le partenaire de Pacs n'hérite que s'il a été désigné par testament, comme l'explique notre article [qui hérite si rien n'est prévu](/journal/qui-herite-succession-couple-sans-enfant).
+Au décès, le conjoint marié et le partenaire de Pacs sont **totalement exonérés** de droits de succession. Attention : le partenaire de Pacs n'hérite que s'il a été désigné par testament, comme l'explique notre article [qui hérite si rien n'est prévu](/journal/qui-herite-succession-couple-sans-enfant).
 
 Pour les **donations** entre époux ou partenaires, un abattement de 80 724 € s'applique, puis ce barème :
 
@@ -135,7 +126,7 @@ Pour les **donations** entre époux ou partenaires, un abattement de 80 724 € 
 | Autres parents jusqu'au 4e degré (oncle, tante, cousin germain) | 1 594 € | 55 % |
 | Parents au-delà du 4e degré, personnes sans lien de parenté | 1 594 € | 60 % |
 
-Un frère ou une sœur peut être **totalement exonéré** de droits de succession à trois conditions cumulatives : être célibataire, veuf, divorcé ou séparé de corps ; avoir plus de 50 ans ou être atteint d'une infirmité l'empêchant de travailler ; avoir vécu avec le défunt pendant les cinq années précédant le décès. Les taux sont rappelés [à 14:23 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=863s).
+Un frère ou une sœur peut être **totalement exonéré** de droits de succession à trois conditions cumulatives : être célibataire, veuf, divorcé ou séparé de corps ; avoir plus de 50 ans ou être atteint d'une infirmité l'empêchant de travailler ; avoir vécu avec le défunt pendant les cinq années précédant le décès.
 
 ## Tous les abattements 2026 en un tableau
 
@@ -184,7 +175,7 @@ Les barèmes et les abattements sont **inchangés** : ils ne sont pas indexés s
 
 > **Attention : le régime a été modifié récemment.** La loi de finances pour 2026 a durci le [pacte Dutreil](/journal/pacte-dutreil-transmission-entreprise) pour les transmissions réalisées depuis le 21 février 2026. L'exonération des dons pour un logement prend fin le 31 décembre 2026 : une prolongation a été proposée dans le cadre du budget 2027, sans être votée à ce jour. Vérifiez l'état des textes avant toute opération.
 
-Connaître le barème n'est que le point de départ. Les outils pour réduire la facture, du [démembrement de propriété](/journal/demembrement-propriete-donation-nue-propriete) à l'assurance-vie, sont chiffrés dans notre [cas pratique sur une succession de 1,8 M€](/journal/cas-pratique-reduire-droits-succession).
+Connaître le barème n'est que le point de départ. Les outils pour réduire la facture, du [démembrement de propriété](/journal/demembrement-propriete-donation-nue-propriete) à l'assurance-vie, sont chiffrés dans notre [cas pratique sur une succession de 1,8 M€](/journal/cas-pratique-reduire-droits-succession). Pour aller plus loin sur ces leviers, l'épisode [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0) les passe en revue un par un.
 
 ## En résumé
 
@@ -215,35 +206,6 @@ Un neveu ou une nièce bénéficie d'un abattement de 7 967 €, puis paie 55 % 
 ### Le barème des donations est-il le même que celui des successions ?
 
 Oui pour les taux, sauf entre époux ou partenaires de Pacs : exonérés en succession, ils ont en donation un abattement de 80 724 € et un barème propre. Certains abattements n'existent qu'en donation, comme les 31 865 € entre grands-parents et petits-enfants.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
-
-Les passages clés :
-
-- [1:42](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=102s) Un million d'euros, un enfant : plus de 215 000 € de droits
-- [1:51](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=111s) Le même million légué à un frère
-- [12:54](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=774s) Pas de droits entre époux depuis 2007
-- [13:11](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=791s) Les 100 000 premiers euros exonérés
-- [13:38](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=818s) Les petites tranches, puis 20 %
-- [14:23](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=863s) Frères et sœurs : 35 % puis 45 %
-- [14:48](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=888s) Neveux 55 %, au-delà 60 %
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [11:55](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=715s) Le barème en ligne directe
-- [42:41](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2561s) Neveux et nièces, frères et sœurs
 
 ## Sources
 

@@ -16,4 +16,4 @@ export const dateLongue = (d: Date | string) =>
   new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(d));
 
 // Typographie française : espace insécable avant : ; ? ! » et après «, pour éviter les retours à la ligne orphelins.
-export const insecables = (t: string) => t.replace(/ ([:;?!»])/g, '\u00a0$1').replace(/« /g, '«\u00a0');
+export const insecables = (t: string) => t.replace(/ ([:;?!»])/g, '\u00a0$1').replace(/« /g, '«\u00a0').replace(/(\d) (?=\d{3}\b|%|€)/g, '$1\u00a0');

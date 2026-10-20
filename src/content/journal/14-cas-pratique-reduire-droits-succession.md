@@ -12,7 +12,8 @@ mots_cles_secondaires:
   - transmettre patrimoine sans impôt
 intention: informationnelle
 auteur: Rémi de Truchis de Varennes
-source_video: https://www.youtube.com/watch?v=V8qZaCLBKX0
+source_video:
+  - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 800 mots
 ordre_publication: 10
 date_mise_a_jour: 2026-10-20
@@ -34,12 +35,6 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 2120, label: "Le cas pratique : 36 ans, trois enfants, 1,8 M€"}
-      - {t: 2234, label: "Étape 1 : la nue-propriété des parts de SCI"}
-      - {t: 2294, label: "Étape 2 : l'assurance-vie"}
-      - {t: 2359, label: "Donation avant cession"}
-      - {t: 2392, label: "Donation temporaire d'usufruit"}
 faq:
   - q: "Comment réduire légalement ses droits de succession ?"
     r: "En anticipant : donations tous les 15 ans, démembrement de propriété, assurance-vie avant 70 ans, donation-partage, et pour les entrepreneurs donation avant cession ou pacte Dutreil."
@@ -69,7 +64,7 @@ Les principes de la transmission sont souvent présentés de façon abstraite. R
 - Dans les SCI : **800 000 € d'immobilier, financé par 800 000 € de crédit**.
 - Une forte appétence pour l'immobilier et le rachat d'entreprises.
 
-Son objectif : que ses enfants paient le moins de droits de succession possible. Ce cas a été soumis à Christophe Faglin [à 35:20 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2120s) ; les montants ci-dessous sont calculés au barème exact.
+Son objectif : que ses enfants paient le moins de droits de succession possible. Les montants ci-dessous sont calculés au barème exact.
 
 ## Étape 0 : la photographie
 
@@ -93,7 +88,7 @@ Notre entrepreneur donne aujourd'hui la nue-propriété de ses parts de SCI à s
 - à son décès, l'usufruit rejoindra la nue-propriété sans droits ;
 - l'assurance emprunteur aura soldé les crédits, ou les loyers les auront remboursés.
 
-Résultat : **800 000 € sortent de la succession taxable**. Ces 800 000 € auraient été taxés à 20 %. L'économie est d'environ **160 000 €** [(à 37:14 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2234s).
+Résultat : **800 000 € sortent de la succession taxable**. Ces 800 000 € auraient été taxés à 20 %. L'économie est d'environ **160 000 €**.
 
 Conditions : c'est une stratégie de long terme, sur des biens que l'on compte conserver, et les statuts de la SCI doivent permettre au père de garder le contrôle. Voir notre guide du [démembrement de propriété](/journal/demembrement-propriete-donation-nue-propriete).
 
@@ -101,7 +96,7 @@ Conditions : c'est une stratégie de long terme, sur des biens que l'on compte c
 
 Supposons qu'il dispose de liquidités. Chaque euro versé en assurance-vie avant 70 ans, dans la limite de **152 500 € par bénéficiaire**, sort du champ des droits de succession. Avec trois enfants, cela représente jusqu'à **457 500 €**.
 
-S'il y place environ 450 000 €, ces sommes échappent elles aussi à la tranche à 20 %. Économie : environ **90 000 €** [(à 38:14 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2294s).
+S'il y place environ 450 000 €, ces sommes échappent elles aussi à la tranche à 20 %. Économie : environ **90 000 €**.
 
 Voir [assurance-vie et succession](/journal/assurance-vie-succession-clause-beneficiaire).
 
@@ -114,6 +109,10 @@ Voir [assurance-vie et succession](/journal/assurance-vie-succession-clause-bene
 | Après assurance-vie | **environ 45 000 €** | **2,5 %** |
 
 Deux décisions, quelques heures de travail avec un conseiller et un notaire, et la facture est divisée par plus de six.
+
+Ce cas a été soumis à Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, lors d'un entretien sur la chaîne Parlons Long Terme consacré aux droits de succession : [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0). Vous y trouverez le raisonnement étape par étape.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 À noter : sans crédit dans les SCI, la logique fonctionnerait aussi. À 36 ans, la nue-propriété ne vaut que 30 % de la valeur des parts, et l'abattement de 100 000 € par enfant couvrirait une grande partie de la donation.
 
@@ -145,20 +144,6 @@ Sans préparation, environ 98 000 € chacun, soit près de 295 000 € au total
 ### Peut-on transmettre des parts de SCI sans droits ?
 
 Si la SCI est financée à crédit, ses parts valent ce qu'elle possède moins ce qu'elle doit, parfois zéro. Leur nue-propriété peut alors être donnée sans consommer d'abattement.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 sur la chaîne Parlons Long Terme (48 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [35:20](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2120s) Le cas pratique : 36 ans, trois enfants, 1,8 M€
-- [37:14](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2234s) Étape 1 : la nue-propriété des parts de SCI
-- [38:14](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2294s) Étape 2 : l'assurance-vie
-- [39:19](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2359s) Donation avant cession
-- [39:52](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2392s) Donation temporaire d'usufruit
 
 ## Sources
 

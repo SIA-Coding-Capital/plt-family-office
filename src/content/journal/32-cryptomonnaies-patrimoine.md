@@ -16,7 +16,6 @@ auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
-  - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1250 mots
 ordre_publication: 40
 date_mise_a_jour: 2026-10-20
@@ -35,30 +34,11 @@ videos:
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 829, label: "2022 : le bitcoin à -60 %"}
-      - {t: 870, label: "5 % de crypto dans l'allocation de Christophe Faglin"}
-      - {t: 2262, label: "Quelle place pour les cryptomonnaies ?"}
-      - {t: 2290, label: "Moins de 1 % en gestion de fortune"}
-      - {t: 2308, label: "3 à 5 % au maximum"}
-      - {t: 2347, label: "Investir progressivement"}
   - id: 3yIsaGb3ywM
     titre: "Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts"
     url: https://www.youtube.com/watch?v=3yIsaGb3ywM
     date_publication: 2025-09-05
     duree: PT31M52S
-    passages:
-      - {t: 526, label: "Un ETF crypto dans un contrat luxembourgeois"}
-      - {t: 570, label: "40 % de financement sur le bitcoin"}
-      - {t: 625, label: "Des clés USB au contrat d'assurance"}
-  - id: V8qZaCLBKX0
-    titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
-    url: https://www.youtube.com/watch?v=V8qZaCLBKX0
-    date_publication: 2026-03-18
-    duree: PT47M41S
-    passages:
-      - {t: 1559, label: "Des ETF crypto dans l'assurance-vie luxembourgeoise"}
-      - {t: 2087, label: "Les cryptomonnaies changent-elles la donne successorale ?"}
 faq:
   - q: "Quelle part de cryptomonnaies dans un patrimoine ?"
     r: "Pour un investisseur convaincu, 3 à 5 % du patrimoine financier constitue un maximum raisonnable, investi progressivement. Dans les patrimoines suivis en gestion de fortune, la part moyenne est souvent inférieure à 1 %."
@@ -91,14 +71,18 @@ Les cryptomonnaies divisent. Certains y voient l'or numérique, d'autres une bul
 
 Une allocation en cryptomonnaies est la part du patrimoine financier exposée à des actifs numériques comme le bitcoin ou l'ether. Deux repères encadrent la réponse.
 
-- **En gestion de fortune, moins de 1 % en moyenne.** Les clients y sont souvent plus âgés et moins familiers de cette classe d'actifs, même si la part progresse, observe Christophe Faglin [à 38:10 dans la vidéo sur l'allocation 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2290s).
-- **Pour un investisseur convaincu, 3 à 5 % au maximum.** Au-delà, la position devient lourde pour un actif qui ne génère aucun rendement : ni dividende, ni coupon, ni loyer [(à 38:28 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2308s). Christophe Faglin en détient lui-même 5 %, exclusivement en bitcoin [(à 14:30)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=870s).
+- **En gestion de fortune, moins de 1 % en moyenne.** Les clients y sont souvent plus âgés et moins familiers de cette classe d'actifs, même si la part progresse.
+- **Pour un investisseur convaincu, 3 à 5 % au maximum.** Au-delà, la position devient lourde pour un actif qui ne génère aucun rendement : ni dividende, ni coupon, ni loyer. Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, en détient lui-même 5 %, exclusivement en bitcoin.
 
 Cette poche se raisonne à l'intérieur d'une [allocation globale](/journal/allocation-patrimoine-grandes-fortunes), aux côtés des actions, du private equity, des obligations et de l'or, et non comme un pari isolé.
 
+Ces deux repères, et la place des cryptomonnaies à côté des autres classes d'actifs, sont discutés par Rémi de Truchis de Varennes et Christophe Faglin dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
+
 ## Pourquoi une position limitée suffit
 
-Le dimensionnement compte plus que le choix du jeton. En 2022, le bitcoin a perdu environ 60 %, quand les obligations reculaient d'environ 10 % et les actions de 15 à 20 % [(à 13:49 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=829s). Voici l'effet d'une telle chute sur un portefeuille de 1 000 000 € :
+Le dimensionnement compte plus que le choix du jeton. En 2022, le bitcoin a perdu environ 60 %, quand les obligations reculaient d'environ 10 % et les actions de 15 à 20 %. Voici l'effet d'une telle chute sur un portefeuille de 1 000 000 € :
 
 | Part en cryptomonnaies | Montant investi | Perte si -60 % | Impact sur le portefeuille |
 |---|---|---|---|
@@ -113,7 +97,7 @@ Attention aussi à la **fausse diversification** : le bitcoin évolue souvent da
 
 ## Comment investir : en une fois ou progressivement ?
 
-Sur un marché aussi volatil, Christophe Faglin recommande d'**investir progressivement** (DCA, pour *dollar cost averaging*) : des achats réguliers, mensuels par exemple, jusqu'à atteindre la part cible, puis des ajustements pour la maintenir [(à 39:07 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2347s). On évite ainsi de concentrer tout son achat sur un point haut. Cette discipline vaut aussi pour la sortie : alléger quand la poche dépasse nettement sa cible.
+Sur un marché aussi volatil, mieux vaut **investir progressivement** (DCA, pour *dollar cost averaging*) : des achats réguliers, mensuels par exemple, jusqu'à atteindre la part cible, puis des ajustements pour la maintenir. On évite ainsi de concentrer tout son achat sur un point haut. Cette discipline vaut aussi pour la sortie : alléger quand la poche dépasse nettement sa cible.
 
 ## Comment détenir des cryptomonnaies ?
 
@@ -126,9 +110,9 @@ C'est là que se jouent la sécurité, la fiscalité et la transmission. Trois g
 | Produits cotés (ETP, ETN) sur un compte-titres | Un dépositaire | Régime des valeurs mobilières (PFU de 31,4 %) | Non éligibles au PEA ; frais du produit |
 | Produits cotés dans un contrat d'assurance-vie, notamment luxembourgeois | L'assureur et sa banque dépositaire | Fiscalité de l'assurance-vie | Offre variable selon les contrats |
 
-**L'auto-conservation** séduit les puristes, mais elle concentre les risques sur une personne : une clé perdue est un capital perdu, et une clé connue de tous expose son détenteur. Comme le dit Christophe Faglin, un fonds logé dans un contrat permet de « garder tous ses doigts » [(à 25:59 dans la vidéo Héritage en France)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1559s).
+**L'auto-conservation** séduit les puristes, mais elle concentre les risques sur une personne : une clé perdue est un capital perdu, et une clé connue de tous expose son détenteur. Comme le dit Christophe Faglin, un fonds logé dans un contrat permet de « garder tous ses doigts ».
 
-**Le contrat d'assurance-vie luxembourgeois** est souvent la solution la plus propre pour un patrimoine important. On y loge un produit coté sur le bitcoin, la conservation est assurée par le dépositaire, et les gains bénéficient du cadre de l'assurance-vie : pas d'impôt tant que rien n'est retiré, abattements au décès. Rémi de Truchis de Varennes, peu enthousiaste sur les cryptos, le reconnaît : pour ceux qui gardent des quantités importantes « sur des clés USB », c'est une piste sérieuse [(à 10:25 dans la vidéo sur le crédit lombard)](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=625s). Voir notre [guide de l'assurance-vie luxembourgeoise](/journal/assurance-vie-luxembourgeoise).
+**Le contrat d'assurance-vie luxembourgeois** est souvent la solution la plus propre pour un patrimoine important. On y loge un produit coté sur le bitcoin, la conservation est assurée par le dépositaire, et les gains bénéficient du cadre de l'assurance-vie : pas d'impôt tant que rien n'est retiré, abattements au décès. Rémi de Truchis de Varennes, peu enthousiaste sur les cryptos, le reconnaît : pour ceux qui gardent des quantités importantes « sur des clés USB », c'est une piste sérieuse. Le sujet est abordé dans [Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM), sur la chaîne Parlons Long Terme. Voir notre [guide de l'assurance-vie luxembourgeoise](/journal/assurance-vie-luxembourgeoise).
 
 **Les plateformes** doivent désormais être agréées au titre du règlement européen MiCA. Vérifiez leur statut sur les listes publiées par l'AMF avant d'y déposer des fonds.
 
@@ -145,11 +129,11 @@ Pour un particulier qui détient des cryptomonnaies en direct, les plus-values r
 
 ## Peut-on emprunter sur ses cryptomonnaies ?
 
-Oui, avec un [crédit lombard](/journal/credit-lombard). Certaines banques prêtent environ 40 % de la valeur d'une position en bitcoin [(à 9:30 dans la vidéo sur le crédit lombard)](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=570s), contre 70 à 90 % sur des obligations. D'où une stratégie plus efficace : nantir une poche prudente pour obtenir un ratio élevé, et investir une petite partie du crédit en cryptomonnaies, plutôt que nantir directement l'actif le plus volatil.
+Oui, avec un [crédit lombard](/journal/credit-lombard). Certaines banques prêtent environ 40 % de la valeur d'une position en bitcoin, contre 70 à 90 % sur des obligations. D'où une stratégie plus efficace : nantir une poche prudente pour obtenir un ratio élevé, et investir une petite partie du crédit en cryptomonnaies, plutôt que nantir directement l'actif le plus volatil.
 
 ## Et pour la transmission ?
 
-Sur le plan fiscal, rien ne change : en France, les cryptomonnaies entrent dans la succession comme n'importe quel actif [(à 34:47 dans la vidéo Héritage en France)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2087s). Certains pays ne taxent pas ces gains, ce qui peut motiver une expatriation, avec les limites que nous détaillons dans [quitter la France pour sa succession](/journal/quitter-la-france-succession-exit-tax).
+Sur le plan fiscal, rien ne change : en France, les cryptomonnaies entrent dans la succession comme n'importe quel actif. Certains pays ne taxent pas ces gains, ce qui peut motiver une expatriation, avec les limites que nous détaillons dans [quitter la France pour sa succession](/journal/quitter-la-france-succession-exit-tax).
 
 La vraie difficulté est pratique. Des avoirs en auto-conservation dont personne ne connaît l'existence ni l'accès sont perdus pour les héritiers. Tenez un inventaire à jour et organisez avec votre notaire la façon dont vos proches pourront y accéder. Détenus via un contrat d'assurance-vie, ces actifs suivent simplement la clause bénéficiaire. Et si vous détenez aussi des titres, relisez [ce qui se passe au décès pour un compte-titres ou un PEA](/journal/compte-titres-pea-succession).
 
@@ -184,44 +168,6 @@ Oui. Tout compte d'actifs numériques ouvert auprès d'une plateforme établie �
 ### Les cryptomonnaies changent-elles la fiscalité de la succession ?
 
 Non. En France, elles entrent dans la succession comme les autres actifs, au barème habituel. La vraie difficulté est pratique : sans inventaire et sans procédure d'accès, des avoirs détenus en direct peuvent être perdus pour les héritiers.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Allocation 2026
-
-**[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 (40 min).
-
-<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
-
-Les passages clés :
-
-- [13:49](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=829s) 2022 : le bitcoin à -60 %
-- [14:30](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=870s) 5 % de crypto dans l'allocation de Christophe Faglin
-- [37:42](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2262s) Quelle place pour les cryptomonnaies ?
-- [38:10](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2290s) Moins de 1 % en gestion de fortune
-- [38:28](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2308s) 3 à 5 % au maximum
-- [39:07](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2347s) Investir progressivement
-
-### Crédit lombard
-
-**[Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM)**, publiée le 5 septembre 2025 (32 min).
-
-Les passages clés :
-
-- [8:46](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=526s) Un ETF crypto dans un contrat luxembourgeois
-- [9:30](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=570s) 40 % de financement sur le bitcoin
-- [10:25](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=625s) Des clés USB au contrat d'assurance
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [25:59](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1559s) Des ETF crypto dans l'assurance-vie luxembourgeoise
-- [34:47](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2087s) Les cryptomonnaies changent-elles la donne successorale ?
 
 ## Sources
 

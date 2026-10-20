@@ -33,20 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=3yIsaGb3ywM
     date_publication: 2025-09-05
     duree: PT31M52S
-    passages:
-      - {t: 1440, label: "Non-résident, jeune dirigeant : quand la banque dit non"}
-      - {t: 1675, label: "Un crédit lombard via une holding"}
-      - {t: 1682, label: "Un usage économique justifié"}
-      - {t: 1713, label: "Vérifier les statuts de la société"}
-      - {t: 1834, label: "Le non-résident sans accès au crédit"}
-      - {t: 1852, label: "L'argent dans la société, le besoin à titre personnel"}
   - id: z-pAIMtxv1w
     titre: "Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient"
     url: https://www.youtube.com/watch?v=z-pAIMtxv1w
     date_publication: 2025-08-30
     duree: PT38M49S
-    passages:
-      - {t: 1003, label: "Un contrat accessible depuis Singapour, les Émirats ou Maurice"}
 faq:
   - q: "Un dirigeant peut-il emprunter au lieu de se verser des dividendes ?"
     r: "Oui. Un crédit lombard adossé à un portefeuille personnel ou à un contrat d'assurance-vie permet d'obtenir des liquidités sans déclencher le prélèvement de 31,4 % sur un dividende. L'impôt n'est que différé : le prêt devra être remboursé, souvent à terme grâce à des distributions."
@@ -69,13 +60,15 @@ sources:
 
 > **L'essentiel.** Le crédit lombard, prêt garanti par un portefeuille, répond à deux situations où le crédit classique bloque : le dirigeant qui a de la trésorerie dans sa société mais pas à titre personnel, et le non-résident à qui les banques françaises refusent un prêt immobilier. Pour obtenir 300 000 € nets, un dividende coûte environ 137 000 € d'impôt ; un crédit lombard à 3,5 % coûte 10 500 € d'intérêts par an. L'impôt n'est que différé, et le risque d'appel de marge demeure.
 
-Le crédit immobilier français repose sur un critère central : votre taux d'endettement. Ce modèle laisse de côté deux profils pourtant solides. Le chef d'entreprise dont la richesse est dans sa société, et l'expatrié dont les revenus sont à l'étranger. Christophe Faglin cite précisément ces cas [à 24:00 dans la vidéo sur le crédit lombard](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1440s) : la banque refuse parce que vous êtes non-résident, ou jeune dirigeant sans assez de bilans, alors que vous avez des liquidités.
+Le crédit immobilier français repose sur un critère central : votre taux d'endettement. Ce modèle laisse de côté deux profils pourtant solides. Le chef d'entreprise dont la richesse est dans sa société, et l'expatrié dont les revenus sont à l'étranger. Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, résume ces situations : la banque refuse parce que vous êtes non-résident, ou jeune dirigeant sans assez de bilans, alors que vous avez des liquidités.
 
-Le fonctionnement général du crédit lombard (ratios, taux, appel de marge) est détaillé dans notre [article complet sur le crédit lombard](/journal/credit-lombard). Ici, nous nous concentrons sur ces deux usages.
+Le fonctionnement général du crédit lombard (ratios, taux, appel de marge) est détaillé dans notre [article complet sur le crédit lombard](/journal/credit-lombard). Ici, nous nous concentrons sur ces deux usages. Rémi de Truchis de Varennes et Christophe Faglin les abordent aussi dans [Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM), un entretien de la chaîne Parlons Long Terme consacré à ce financement.
+
+<!-- Lecteur YouTube à intégrer ici : 3yIsaGb3ywM -->
 
 ## Pourquoi un dirigeant emprunterait-il plutôt que de se verser un dividende ?
 
-Parce que sortir de l'argent d'une société crée un frottement fiscal, et lever de la dette n'en crée pas. Christophe Faglin décrit le cas d'un client qui avait beaucoup d'argent dans sa société et besoin de liquidités pour son train de vie [(à 30:52 dans la vidéo)](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1852s).
+Parce que sortir de l'argent d'une société crée un frottement fiscal, et lever de la dette n'en crée pas. Christophe Faglin décrit le cas d'un client qui avait beaucoup d'argent dans sa société et besoin de liquidités pour son train de vie.
 
 Exemple : vous avez besoin de 300 000 € à titre personnel pour un apport immobilier.
 
@@ -90,10 +83,10 @@ La garantie peut être un compte-titres personnel ou un contrat d'assurance-vie,
 
 ## Peut-on souscrire un crédit lombard via une holding ?
 
-Oui. Une [holding](/journal/holding-patrimoniale-quand-la-creer) peut nantir son propre portefeuille pour financer une filiale, une acquisition ou un investissement. Christophe Faglin rappelle les deux conditions principales [à 28:02 dans la vidéo](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1682s) :
+Oui. Une [holding](/journal/holding-patrimoniale-quand-la-creer) peut nantir son propre portefeuille pour financer une filiale, une acquisition ou un investissement. Deux conditions principales s'appliquent :
 
 1. **un usage économique** pour la société : le crédit doit servir son intérêt, pas celui de l'associé ;
-2. **des statuts qui le permettent** : objet social et pouvoirs du dirigeant à vérifier [(à 28:33)](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1713s).
+2. **des statuts qui le permettent** : objet social et pouvoirs du dirigeant à vérifier.
 
 Faire emprunter la holding pour financer les dépenses personnelles du dirigeant expose à la requalification (abus de biens sociaux, distribution déguisée). Les intérêts payés par la société sont en principe déductibles de son résultat, dans les limites générales de déductibilité des charges financières.
 
@@ -103,9 +96,9 @@ Une stratégie fréquente consiste à placer la [trésorerie excédentaire](/jou
 
 Un expatrié qui veut acheter en France se heurte souvent à un refus : revenus en devises, fiche de paie étrangère, absence d'historique bancaire local, pays de résidence jugé à risque par la conformité. Le crédit lombard contourne une partie de ces obstacles, puisque la banque regarde d'abord **la valeur et le risque des actifs nantis**.
 
-Le cas est cité [à 30:34 dans la vidéo](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1834s) : celui qui n'a plus accès au crédit parce qu'il a atteint son maximum d'endettement ou parce qu'il est non-résident se rajoute une poche de crédit.
+Le profil type : celui qui n'a plus accès au crédit, parce qu'il a atteint son maximum d'endettement ou parce qu'il est non-résident, se rajoute une poche de crédit.
 
-Le contrat d'assurance-vie luxembourgeois joue ici un double rôle : il peut être souscrit depuis de nombreux pays, y compris hors d'Europe (Singapour, Émirats arabes unis, Maurice, cités [à 16:43 dans la vidéo sur l'assurance-vie luxembourgeoise](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1003s)), et il sert de support au nantissement.
+Le contrat d'assurance-vie luxembourgeois joue ici un double rôle : il peut être souscrit depuis de nombreux pays, y compris hors d'Europe (Singapour, Émirats arabes unis ou Maurice, par exemple), et il sert de support au nantissement. Ses atouts pour un investisseur mobile sont présentés dans [Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w).
 
 ## Exemple : un expatrié qui achète un appartement à Paris
 
@@ -157,33 +150,6 @@ Oui, à condition que l'opération ait un intérêt économique pour la sociét�
 ### Quels sont les risques d'un crédit lombard pour un expatrié ?
 
 Les mêmes que pour tout crédit lombard, l'appel de marge en tête, auxquels s'ajoute le risque de change si l'emprunt et les revenus ne sont pas dans la même devise. Un changement de résidence fiscale peut aussi modifier la déductibilité des intérêts ou la fiscalité des actifs nantis.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Crédit lombard
-
-**[Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM)**, publiée le 5 septembre 2025 (32 min).
-
-<!-- Lecteur YouTube à intégrer ici : 3yIsaGb3ywM -->
-
-Les passages clés :
-
-- [24:00](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1440s) Non-résident, jeune dirigeant : quand la banque dit non
-- [27:55](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1675s) Un crédit lombard via une holding
-- [28:02](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1682s) Un usage économique justifié
-- [28:33](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1713s) Vérifier les statuts de la société
-- [30:34](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1834s) Le non-résident sans accès au crédit
-- [30:52](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1852s) L'argent dans la société, le besoin à titre personnel
-
-### Assurance-vie luxembourgeoise
-
-**[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min).
-
-Les passages clés :
-
-- [16:43](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1003s) Un contrat accessible depuis Singapour, les Émirats ou Maurice
 
 ## Sources
 

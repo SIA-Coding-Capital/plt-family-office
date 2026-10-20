@@ -13,7 +13,6 @@ mots_cles_secondaires:
 intention: informationnelle
 auteur: Rémi de Truchis de Varennes
 source_video:
-  - https://www.youtube.com/watch?v=kRNe9rGqKyA
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
 longueur: environ 1000 mots
@@ -30,28 +29,16 @@ liens_internes:
   - /journal/private-equity-particulier
   - /journal/allocation-patrimoine-grandes-fortunes
 videos:
-  - id: kRNe9rGqKyA
-    titre: "Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)"
-    url: https://www.youtube.com/watch?v=kRNe9rGqKyA
-    date_publication: 2025-05-01
-    duree: PT25M0S
-    passages:
-      - {t: 770, label: "La trésorerie stable accumulée dans l'entreprise"}
   - id: V8qZaCLBKX0
     titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 1780, label: "Deux associés, deux profils de risque"}
-      - {t: 1809, label: "La trésorerie face à l'acheteur"}
   - id: 3yIsaGb3ywM
     titre: "Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts"
     url: https://www.youtube.com/watch?v=3yIsaGb3ywM
     date_publication: 2025-09-05
     duree: PT31M52S
-    passages:
-      - {t: 1852, label: "De l'argent dans la société, un besoin personnel"}
 faq:
   - q: "Combien de trésorerie une entreprise doit-elle garder ?"
     r: "Il n'existe pas de règle unique, mais un repère courant consiste à garder disponibles trois à six mois de charges fixes, plus le besoin en fonds de roulement lié à la saisonnalité. Le reste peut être placé selon l'horizon des projets de l'entreprise."
@@ -75,7 +62,7 @@ sources:
 
 > **L'essentiel.** Une trésorerie d'entreprise se place en trois poches : l'exploitation (quelques mois de charges, disponibles à vue), la précaution (comptes à terme, fonds monétaires) et l'excédent durable, qui peut viser plus de rendement via obligations, contrats de capitalisation ou private equity. À l'impôt sur les sociétés, les gains sont taxés à 15 % ou 25 %, parfois chaque année même sans vente. Un excédent mal géré peut aussi peser sur une cession ou un pacte Dutreil.
 
-Beaucoup de dirigeants de PME rentables ont le même angle mort : des centaines de milliers d'euros, parfois davantage, qui dorment sur le compte courant de la société. L'argent est en sécurité, mais il perd de la valeur avec l'inflation et il pèse parfois sur la stratégie patrimoniale du dirigeant. Christophe Faglin cite cette trésorerie stable accumulée comme l'un des sujets récurrents des chefs d'entreprise qu'il accompagne [(à 12:50 dans la vidéo sur la gestion des grandes fortunes)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=770s).
+Beaucoup de dirigeants de PME rentables ont le même angle mort : des centaines de milliers d'euros, parfois davantage, qui dorment sur le compte courant de la société. L'argent est en sécurité, mais il perd de la valeur avec l'inflation et il pèse parfois sur la stratégie patrimoniale du dirigeant. Christophe Faglin cite cette trésorerie stable accumulée comme l'un des sujets récurrents des chefs d'entreprise qu'il accompagne.
 
 ## Qu'est-ce qu'une trésorerie excédentaire ?
 
@@ -112,7 +99,7 @@ Ces règles techniques se vérifient avec l'expert-comptable avant toute souscri
 
 Oui, de trois façons.
 
-**1. À la cession.** Un acheteur paie pour une activité, pas pour des liquidités. Une société chargée de trésorerie complique la valorisation et la négociation. Il est souvent utile de fixer avec l'acheteur le niveau nécessaire au fonds de roulement, avec une marge, et de traiter le reste en amont, comme l'explique Christophe Faglin [à 30:09 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1809s). C'est l'un des chantiers de la [préparation d'une cession](/journal/preparer-cession-entreprise).
+**1. À la cession.** Un acheteur paie pour une activité, pas pour des liquidités. Une société chargée de trésorerie complique la valorisation et la négociation. Il est souvent utile de fixer avec l'acheteur le niveau nécessaire au fonds de roulement, avec une marge, et de traiter le reste en amont. C'est l'un des chantiers de la [préparation d'une cession](/journal/preparer-cession-entreprise).
 
 **2. À la transmission.** Le [pacte Dutreil](/journal/pacte-dutreil-transmission-entreprise) exonère 75 % de la valeur des titres transmis. Une société qui détient trop d'actifs sans lien avec son activité risque de voir ce régime contesté ou réduit.
 
@@ -124,11 +111,13 @@ Oui, de trois façons.
 
 Sortir la trésorerie sous forme de dividende déclenche immédiatement 31,4 % de fiscalité. Pour 500 000 € distribués, il reste 343 000 € à investir à titre personnel. Laissés dans la sphère professionnelle, les 500 000 € travaillent en totalité.
 
-La [holding](/journal/holding-patrimoniale-quand-la-creer) offre une voie intermédiaire : les dividendes remontés de la société d'exploitation sont quasiment exonérés grâce au régime mère-fille, et la holding place ensuite cet argent sans alourdir la société opérationnelle. C'est aussi une solution quand des associés n'ont pas la même tolérance au risque : Christophe Faglin cite deux associés qui avaient accumulé plus de 650 000 € de trésorerie, l'un prudent, l'autre non, et pour qui une holding chacun a été la bonne réponse [(à 29:40 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1780s).
+La [holding](/journal/holding-patrimoniale-quand-la-creer) offre une voie intermédiaire : les dividendes remontés de la société d'exploitation sont quasiment exonérés grâce au régime mère-fille, et la holding place ensuite cet argent sans alourdir la société opérationnelle. C'est aussi une solution quand des associés n'ont pas la même tolérance au risque : Christophe Faglin cite deux associés qui avaient accumulé plus de 650 000 € de trésorerie, l'un prudent, l'autre non, et pour qui une holding chacun a été la bonne réponse. Rémi de Truchis de Varennes et Christophe Faglin reviennent sur ces arbitrages, de la trésorerie face à l'acheteur au choix d'une holding par associé, dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 L'arbitrage entre salaire, dividendes et holding est traité en détail dans notre article sur la [rémunération du dirigeant](/journal/remuneration-dirigeant-salaire-dividendes).
 
-Enfin, quand le dirigeant a besoin de liquidités personnelles alors que l'argent est dans la société, un crédit adossé à un portefeuille peut éviter un dividende immédiatement taxé (le cas est évoqué [à 30:52 dans la vidéo sur le crédit lombard](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1852s)). Le prêt devra être remboursé, l'impôt n'est que différé : voir [crédit lombard pour dirigeants](/journal/credit-lombard-dirigeants-non-residents).
+Enfin, quand le dirigeant a besoin de liquidités personnelles alors que l'argent est dans la société, un crédit adossé à un portefeuille peut éviter un dividende immédiatement taxé. Le prêt devra être remboursé, l'impôt n'est que différé : voir [crédit lombard pour dirigeants](/journal/credit-lombard-dirigeants-non-residents). Pour le fonctionnement détaillé de ce financement, [Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM) en reprend chaque étape.
 
 ## Les règles de gouvernance à fixer
 
@@ -166,37 +155,6 @@ Elle peut compliquer la négociation, car l'acheteur cherche une activité, pas 
 ### Vaut-il mieux placer la trésorerie dans la société ou se la verser ?
 
 La verser déclenche immédiatement 31,4 % de fiscalité sur un dividende. La placer dans la société ou dans une holding permet de réinvestir un montant brut plus élevé, à condition d'accepter que l'argent reste dans la sphère professionnelle.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Les vrais riches et les banques privées
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1er mai 2025 (25 min).
-
-<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
-
-Les passages clés :
-
-- [12:50](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=770s) La trésorerie stable accumulée dans l'entreprise
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [29:40](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1780s) Deux associés, deux profils de risque
-- [30:09](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1809s) La trésorerie face à l'acheteur
-
-### Crédit lombard
-
-**[Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM)**, publiée le 5 septembre 2025 (32 min).
-
-Les passages clés :
-
-- [30:52](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=1852s) De l'argent dans la société, un besoin personnel
 
 ## Sources
 

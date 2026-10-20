@@ -35,21 +35,11 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 281, label: "La règle des 15 ans"}
-      - {t: 409, label: "Usufruit et nue-propriété"}
-      - {t: 427, label: "Exemple : un bien d'un million d'euros à 39 ans"}
-      - {t: 612, label: "Cumuler démembrement et SCI"}
-      - {t: 743, label: "La SCI à crédit qui vaut zéro"}
   - id: dJ9yXONnr5M
     titre: "Comment Éviter 400 000 € de Frais de Succession en Toute Légalité"
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 1370, label: "Le démembrement expliqué"}
-      - {t: 1515, label: "Exemple : un couple de 52 ans"}
-      - {t: 1726, label: "L'effet SCI avec emprunt"}
 faq:
   - q: "Qu'est-ce que le démembrement de propriété ?"
     r: "C'est la séparation de la pleine propriété en deux droits : l'usufruit (utiliser le bien ou en percevoir les revenus) et la nue-propriété (en disposer). En donnant la nue-propriété et en gardant l'usufruit, on transmet un bien de son vivant pour une fraction de sa valeur."
@@ -110,7 +100,7 @@ Vous avez 39 ans, trois enfants, et une résidence secondaire de 1 000 000 €.
 - Divisée entre trois enfants : **100 000 € chacun**.
 - Chaque parent peut donner 100 000 € à chaque enfant tous les 15 ans sans droits (voir notre article sur [l'abattement de 100 000 €](/journal/abattement-donation-15-ans)).
 
-Résultat : le bien est transmis **sans aucun droit de donation**. Et l'avantage ne s'arrête pas là. Christophe Faglin déroule ce calcul [à 7:07 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=427s).
+Résultat : le bien est transmis **sans aucun droit de donation**. Et l'avantage ne s'arrête pas là.
 
 ## Les trois effets cachés du démembrement
 
@@ -126,15 +116,19 @@ Le même raisonnement vaut pour un [compte-titres](/journal/compte-titres-pea-su
 
 Un couple de 52 ans possède à parts égales un bien de 400 000 € et a un enfant. Chacun détient 200 000 €. À 52 ans, la nue-propriété vaut 50 % : chaque parent donne donc une nue-propriété de 100 000 €, entièrement couverte par son abattement.
 
-Un bien de 400 000 € est transmis sans droits, et toute sa valorisation future aussi. L'exemple est détaillé [à 25:15 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1515s).
+Un bien de 400 000 € est transmis sans droits, et toute sa valorisation future aussi. Christophe Faglin reprend ce cas pas à pas dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M).
 
 ## L'effet SCI : quand la dette fait baisser la valeur
 
 Le démembrement devient encore plus efficace quand le bien est détenu par une [SCI](/journal/sci-familiale-transmission) financée à crédit.
 
-La valeur des parts d'une société, c'est ce qu'elle possède **moins ce qu'elle doit**. Une SCI qui vient d'acheter un appartement de 400 000 € avec un emprunt de 400 000 € vaut zéro. Si vous donnez la nue-propriété de ses parts à ce moment-là, vous ne consommez même pas vos abattements (explication [à 12:23 dans la vidéo](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=743s)).
+La valeur des parts d'une société, c'est ce qu'elle possède **moins ce qu'elle doit**. Une SCI qui vient d'acheter un appartement de 400 000 € avec un emprunt de 400 000 € vaut zéro. Si vous donnez la nue-propriété de ses parts à ce moment-là, vous ne consommez même pas vos abattements.
 
 Si la moitié du prêt est déjà remboursée, la valeur des parts n'est que la moitié de la valeur du bien, et la décote liée à l'âge s'applique en plus.
+
+Ce cumul entre démembrement et SCI à crédit fait partie des montages que Rémi de Truchis de Varennes et Christophe Faglin passent en revue dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), un entretien publié sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 Point d'attention : les statuts de la SCI doivent être rédigés pour vous permettre de **garder le contrôle** (gérance, droits de vote, règles de majorité). Ce travail se fait avec un avocat ou un notaire.
 
@@ -142,7 +136,7 @@ Point d'attention : les statuts de la SCI doivent être rédigés pour vous perm
 
 Le démembrement est un outil formidable, mais il a une contrepartie : vous ne pouvez plus vendre seul.
 
-Imaginez que vous ayez démembré votre résidence principale. À 82 ans, vous souhaitez la vendre, pour financer une fin de vie ou après une séparation. Si vos enfants, nus-propriétaires, ne sont pas d'accord pour réinvestir dans un nouveau bien démembré, le prix est partagé selon le barème. À 82 ans, l'usufruit ne vaut plus que 20 %. Vous vous retrouvez « plus nu que propriétaire », selon l'expression de Christophe Faglin [(à 6:49 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=409s).
+Imaginez que vous ayez démembré votre résidence principale. À 82 ans, vous souhaitez la vendre, pour financer une fin de vie ou après une séparation. Si vos enfants, nus-propriétaires, ne sont pas d'accord pour réinvestir dans un nouveau bien démembré, le prix est partagé selon le barème. À 82 ans, l'usufruit ne vaut plus que 20 %. Vous vous retrouvez « plus nu que propriétaire », selon l'expression de Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé.
 
 D'où trois règles :
 
@@ -185,34 +179,6 @@ L'usufruit s'éteint et rejoint la nue-propriété. Les nus-propriétaires devie
 ### Peut-on démembrer sa résidence principale ?
 
 C'est possible mais rarement conseillé : en cas de vente, sans accord des enfants pour réinvestir, le prix est partagé selon le barème, et à un âge avancé l'usufruitier ne récupère qu'une faible part.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [4:41](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=281s) La règle des 15 ans
-- [6:49](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=409s) Usufruit et nue-propriété
-- [7:07](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=427s) Exemple : un bien d'un million d'euros à 39 ans
-- [10:12](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=612s) Cumuler démembrement et SCI
-- [12:23](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=743s) La SCI à crédit qui vaut zéro
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-Les passages clés :
-
-- [22:50](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1370s) Le démembrement expliqué
-- [25:15](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1515s) Exemple : un couple de 52 ans
-- [28:46](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1726s) L'effet SCI avec emprunt
 
 ## Sources
 

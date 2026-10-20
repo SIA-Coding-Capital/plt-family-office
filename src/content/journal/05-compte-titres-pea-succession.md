@@ -14,7 +14,6 @@ intention: informationnelle
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
-  - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
 longueur: environ 1000 mots
 ordre_publication: 8
@@ -33,25 +32,11 @@ videos:
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 381, label: "La fiscalité du PEA et du compte-titres au décès"}
-      - {t: 489, label: "Le prix de revient majoré des droits"}
-      - {t: 617, label: "Assurance-vie ou compte-titres ?"}
-  - id: V8qZaCLBKX0
-    titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
-    url: https://www.youtube.com/watch?v=V8qZaCLBKX0
-    date_publication: 2026-03-18
-    duree: PT47M41S
-    passages:
-      - {t: 1194, label: "Donner ses titres plutôt que ses livrets"}
   - id: A1gOvHMmxBk
     titre: "1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026"
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 1375, label: "PEA ou compte-titres : le match"}
-      - {t: 1584, label: "Un compte-titres en société ?"}
 faq:
   - q: "Que devient un PEA au décès de son titulaire ?"
     r: "Il est clôturé. Les prélèvements sociaux sont prélevés sur les gains, puis la valeur du PEA entre dans la succession et supporte les droits selon le lien de parenté."
@@ -80,11 +65,11 @@ Sur un **PEA**, tant que vous ne retirez rien, vous ne payez aucun impôt : ni s
 
 Sur un **compte-titres**, chaque vente avec plus-value et chaque dividende passent par la case impôt, au prélèvement forfaitaire unique (31,4 % depuis 2026).
 
-Mais le PEA a deux limites : un plafond de versement de 150 000 €, et un univers restreint aux actions européennes en direct (ou à des ETF éligibles). Impossible d'y loger une [small cap](/journal/small-caps-investissement) américaine ou asiatique en direct, ce qui pèse dans une [allocation diversifiée](/journal/allocation-patrimoine-grandes-fortunes). Le match est arbitré [à 22:55 dans la vidéo sur l'allocation 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1375s).
+Mais le PEA a deux limites : un plafond de versement de 150 000 €, et un univers restreint aux actions européennes en direct (ou à des ETF éligibles). Impossible d'y loger une [small cap](/journal/small-caps-investissement) américaine ou asiatique en direct, ce qui pèse dans une [allocation diversifiée](/journal/allocation-patrimoine-grandes-fortunes). Rémi de Truchis de Varennes et Christophe Faglin arbitrent ce match, et se demandent s'il est utile d'ouvrir un compte-titres en société, dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk).
 
 ## Au décès : ce qui arrive à un PEA
 
-Au décès du titulaire, le PEA est **clôturé** (explication [à 6:21 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=381s)). Deux étapes s'enchaînent :
+Au décès du titulaire, le PEA est **clôturé**. Deux étapes s'enchaînent :
 
 1. Les **prélèvements sociaux** sont prélevés sur l'ensemble des gains réalisés depuis l'ouverture (18,6 % depuis 2026).
 2. La valeur du PEA entre dans la succession et supporte les **droits de succession** selon le lien de parenté.
@@ -107,7 +92,9 @@ Reprenons l'exemple : 50 000 € investis en actions, devenus 100 000 €. L'hé
 - Le prix de revient de l'héritier n'est pas de 100 000 €, mais de **130 000 €**.
 - Il pourra donc réaliser 30 000 € de plus-value future sans payer d'impôt.
 
-Christophe Faglin détaille cet avantage, « très souvent ignoré, y compris de beaucoup de gens qui font le métier », [à 8:09 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=489s).
+Comme le rappelle Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, cet avantage est « très souvent ignoré, y compris de beaucoup de gens qui font le métier ». Il le développe avec Rémi de Truchis de Varennes dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), sur la chaîne Parlons Long Terme, en le comparant à l'assurance-vie.
+
+<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
 
 Ce mécanisme rend le compte-titres très intéressant pour une stratégie d'achat et de conservation de long terme (« buy and hold »), sur des titres qui distribuent peu de dividendes ou des fonds qui capitalisent. Pour celui qui fait beaucoup d'allers-retours, en revanche, l'impôt payé à chaque vente réduit l'intérêt.
 
@@ -120,7 +107,7 @@ Prenons un parent qui a 100 000 € sur des livrets, et 50 000 € investis en a
 C'est l'inverse qu'il faut faire :
 
 - **S'il donne les livrets** et qu'il a plus tard besoin de liquidités, il vendra ses titres et paiera l'impôt sur 50 000 € de plus-value.
-- **S'il donne les titres**, la plus-value disparaît. L'enfant reçoit des titres avec un prix de revient de 100 000 €. Le parent réinvestit ses 100 000 € de livrets en titres, avec un prix de revient neuf. **Personne ne paiera jamais l'impôt sur les 50 000 € de gain.** (exemple expliqué [à 19:54 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1194s))
+- **S'il donne les titres**, la plus-value disparaît. L'enfant reçoit des titres avec un prix de revient de 100 000 €. Le parent réinvestit ses 100 000 € de livrets en titres, avec un prix de revient neuf. **Personne ne paiera jamais l'impôt sur les 50 000 € de gain.**
 
 Et avec l'abattement de 100 000 € par parent et par enfant, la donation elle-même ne coûte rien. Voir [la règle des 15 ans](/journal/abattement-donation-15-ans).
 
@@ -172,39 +159,6 @@ Non. Pour transmettre un PEA de son vivant, il faut le clôturer et donner les l
 ### Vaut-il mieux donner des titres ou des liquidités ?
 
 Souvent des titres en plus-value : la donation efface la plus-value latente, et le donateur peut réinvestir ses liquidités avec un prix de revient neuf.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
-
-Les passages clés :
-
-- [6:21](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=381s) La fiscalité du PEA et du compte-titres au décès
-- [8:09](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=489s) Le prix de revient majoré des droits
-- [10:17](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=617s) Assurance-vie ou compte-titres ?
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [19:54](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1194s) Donner ses titres plutôt que ses livrets
-
-### Allocation 2026
-
-**[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 (40 min).
-
-Les passages clés :
-
-- [22:55](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1375s) PEA ou compte-titres : le match
-- [26:24](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1584s) Un compte-titres en société ?
 
 ## Sources
 

@@ -40,23 +40,6 @@ videos:
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 107, label: "Investir n'a jamais été simple"}
-      - {t: 136, label: "Commencer par ses objectifs"}
-      - {t: 205, label: "La fausse diversification"}
-      - {t: 245, label: "L'étude UBS sur les grandes fortunes"}
-      - {t: 348, label: "Vérifier ses fonds"}
-      - {t: 661, label: "Private equity"}
-      - {t: 677, label: "Le retour des obligations"}
-      - {t: 754, label: "La gestion alternative"}
-      - {t: 866, label: "L'allocation personnelle de Christophe Faglin"}
-      - {t: 1032, label: "Dédollarisation et Asie"}
-      - {t: 1181, label: "Combien garder en liquidités"}
-      - {t: 1375, label: "PEA ou compte-titres"}
-      - {t: 1705, label: "Le risque des actions américaines"}
-      - {t: 1983, label: "Les erreurs patrimoniales"}
-      - {t: 2114, label: "Les devises"}
-      - {t: 2273, label: "Les cryptomonnaies"}
 faq:
   - q: "Comment investissent les grandes fortunes ?"
     r: "Schématiquement : environ 30 % d'actions cotées, 25 % de private equity et dette privée, 15 à 20 % d'obligations, de la gestion alternative, environ 5 % d'or et de matières premières, et une part d'immobilier qui baisse quand la fortune augmente."
@@ -80,7 +63,7 @@ sources:
 
 Indices boursiers très concentrés, endettement des États, dévalorisation des devises, instabilité géopolitique : la question « comment répartir mon capital aujourd'hui ? » n'a jamais semblé aussi difficile.
 
-Elle ne l'a pourtant jamais été moins. En 2008, on craignait l'effondrement du système bancaire. De 2012 à 2014, l'éclatement de la zone euro. Puis sont venus le Brexit, le Covid, la guerre en Ukraine et l'inflation. Investir n'a jamais été simple. C'est précisément parce qu'il y a du risque qu'il y a du rendement, rappelle Christophe Faglin [à 1:47 dans la vidéo](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=107s).
+Elle ne l'a pourtant jamais été moins. En 2008, on craignait l'effondrement du système bancaire. De 2012 à 2014, l'éclatement de la zone euro. Puis sont venus le Brexit, le Covid, la guerre en Ukraine et l'inflation. Investir n'a jamais été simple. C'est précisément parce qu'il y a du risque qu'il y a du rendement, rappelle Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé.
 
 ## Étape 1 : se comprendre soi-même
 
@@ -92,7 +75,7 @@ De l'objectif découlent l'**horizon** de placement et le **risque** que vous ê
 
 Un sportif qui veut atteindre le haut niveau calque son entraînement sur celui des meilleurs. Un investisseur qui veut bâtir un patrimoine important a tout intérêt à regarder comment font ceux qui y sont parvenus. D'autant que les grandes fortunes sont généralement conseillées par deux ou trois maisons de gestion à la fois : leur allocation concentre beaucoup d'expérience.
 
-Cette information est publique. UBS, par exemple, publie chaque année une étude détaillée sur la façon dont investissent les détenteurs de plus de 5 millions de dollars, et sur les classes d'actifs qu'ils comptent renforcer. C'est une mine d'or pour comparer son portefeuille [(à 4:05 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=245s). C'est aussi la démarche d'un [multi family office](/journal/multi-family-office-definition).
+Cette information est publique. UBS, par exemple, publie chaque année une étude détaillée sur la façon dont investissent les détenteurs de plus de 5 millions de dollars, et sur les classes d'actifs qu'ils comptent renforcer. C'est une mine d'or pour comparer son portefeuille. C'est aussi la démarche d'un [multi family office](/journal/multi-family-office-definition).
 
 ## L'allocation type d'une grande fortune
 
@@ -113,9 +96,13 @@ Trois enseignements sautent aux yeux.
 
 **Les [obligations](/journal/obligations-grandes-fortunes) sont revenues.** Délaissées quand les taux étaient à zéro, elles ont offert de 2023 à 2025 des rendements de l'ordre de 7 à 9 % sur des allocations bien construites. Les rendements s'érodent avec la baisse des taux, mais restent supérieurs à ceux du monétaire, du compte à terme ou du fonds en euros.
 
-**La [gestion alternative](/journal/gestion-alternative-hedge-funds) est quasiment absente chez les particuliers.** Ces fonds visent une performance stable, typiquement 4 à 7 % par an, quel que soit le contexte de marché. Pour en juger un, regardez ce qu'il a fait en 2022 : les obligations perdaient 10 %, les actions 15 à 20 %, le [bitcoin](/journal/cryptomonnaies-patrimoine) 60 %. Certains fonds alternatifs ont fini l'année entre +3 % et +7 % [(à 12:34 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=754s).
+**La [gestion alternative](/journal/gestion-alternative-hedge-funds) est quasiment absente chez les particuliers.** Ces fonds visent une performance stable, typiquement 4 à 7 % par an, quel que soit le contexte de marché. Pour en juger un, regardez ce qu'il a fait en 2022 : les obligations perdaient 10 %, les actions 15 à 20 %, le [bitcoin](/journal/cryptomonnaies-patrimoine) 60 %. Certains fonds alternatifs ont fini l'année entre +3 % et +7 %.
 
 Enfin, plus un patrimoine est important, plus la part de l'immobilier tend à baisser. Même déléguée, sa gestion reste plus lourde que celle des autres classes d'actifs.
+
+Pour voir comment ces grandes masses se traduisent dans un portefeuille de 1 à 10 M€, y compris l'allocation personnelle de Christophe Faglin, Rémi de Truchis de Varennes et lui ont consacré un entretien complet sur la chaîne Parlons Long Terme : [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk).
+
+<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
 
 ## Diversifier n'est pas collectionner
 
@@ -133,9 +120,9 @@ Deux exemples de fausse diversification :
 Les actions américaines ont porté les marchés pendant dix ans. Mais un portefeuille 100 % S&P 500 porte un double risque :
 
 - **la concentration** : une dizaine d'entreprises représentent près de la moitié de l'indice, et les valeurs technologiques au sens large (logiciels, semi-conducteurs, plateformes internet) près de la moitié ;
-- **la devise** : investir en S&P 500, c'est investir en dollars. Sur l'année écoulée au moment de l'enregistrement, le S&P 500 progressait d'environ 17 % en dollars, mais seulement d'environ 4 % une fois converti en euros. Nous détaillons comment [gérer ce risque de change](/journal/diversification-devises-risque-change).
+- **la devise** : investir en S&P 500, c'est investir en dollars. Sur une période récente de douze mois, le S&P 500 progressait d'environ 17 % en dollars, mais seulement d'environ 4 % une fois converti en euros. Nous détaillons comment [gérer ce risque de change](/journal/diversification-devises-risque-change).
 
-Les cycles existent : en 2014, le Nasdaq sortait de quinze ans pendant lesquels il était simplement revenu à son point de départ. Depuis 2025, on observe un mouvement de « dédollarisation » des portefeuilles, et les grandes fortunes prévoient de renforcer leur exposition à l'**Asie**, zone de forte croissance et d'innovation [(à 17:12 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1032s).
+Les cycles existent : en 2014, le Nasdaq sortait de quinze ans pendant lesquels il était simplement revenu à son point de départ. Depuis 2025, on observe un mouvement de « dédollarisation » des portefeuilles, et les grandes fortunes prévoient de renforcer leur exposition à l'**Asie**, zone de forte croissance et d'innovation.
 
 ## Étape 3 : choisir comment investir
 
@@ -155,7 +142,7 @@ Deux erreurs opposées reviennent sans cesse.
 
 **Vivre de ses actions sans coussin.** « Je fais 10 % par an en bourse, j'ai un million, je prélève 100 000 € par an. » Si une crise fait passer le portefeuille à 500 000 €, il devient impossible de continuer à prélever sans détruire le capital.
 
-La bonne pratique : garder **quatre à cinq années de besoins** sur des placements peu volatils mais rémunérateurs (obligations, gestion alternative), pour laisser aux placements de long terme le temps de traverser les crises [(à 19:41 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1181s).
+La bonne pratique : garder **quatre à cinq années de besoins** sur des placements peu volatils mais rémunérateurs (obligations, gestion alternative), pour laisser aux placements de long terme le temps de traverser les crises.
 
 Le facteur psychologique compte aussi. Une baisse de 20 % sur 500 000 €, c'est 100 000 € qui s'évaporent. Plus vous êtes accompagné et plus vous avez déjà traversé de crises, moins vous avez besoin de cash. Pour faire travailler davantage de capital sans vendre, certains investisseurs utilisent le [crédit lombard](/journal/credit-lombard), avec prudence.
 
@@ -166,8 +153,6 @@ Le facteur psychologique compte aussi. Une baisse de 20 % sur 500 000 €, c'est
 3. **Le biais domestique** : des PEA investis presque uniquement en actions françaises, alors que l'Europe regorge de [pépites](/journal/small-caps-investissement). Chez les plus jeunes, le biais inverse : tout sur le S&P 500.
 4. **Une fiscalité non optimisée** : on ne place jamais pour la fiscalité, mais on doit savoir comment ses gains seront imposés.
 5. **Une transmission non préparée**, souvent aussi coûteuse qu'un mauvais placement (voir notre [cas pratique](/journal/cas-pratique-reduire-droits-succession)).
-
-Christophe Faglin détaille ces erreurs [à 33:03 dans la vidéo](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1983s).
 
 ## Et les cryptomonnaies ?
 
@@ -202,31 +187,6 @@ Non : environ 70 % de l'indice MSCI World est constitué d'actions américaines.
 ### Quelle part de cryptomonnaies dans un patrimoine ?
 
 Pour un investisseur convaincu, 3 à 5 % au maximum, investis progressivement. En gestion de fortune, la part moyenne est souvent inférieure à 1 %.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 sur la chaîne Parlons Long Terme (40 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
-
-Les passages clés :
-
-- [1:47](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=107s) Investir n'a jamais été simple
-- [2:16](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=136s) Commencer par ses objectifs
-- [3:25](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=205s) La fausse diversification
-- [4:05](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=245s) L'étude UBS sur les grandes fortunes
-- [5:48](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=348s) Vérifier ses fonds
-- [11:01](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=661s) Private equity
-- [11:17](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=677s) Le retour des obligations
-- [12:34](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=754s) La gestion alternative
-- [14:26](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=866s) L'allocation personnelle de Christophe Faglin
-- [17:12](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1032s) Dédollarisation et Asie
-- [19:41](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1181s) Combien garder en liquidités
-- [22:55](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1375s) PEA ou compte-titres
-- [28:25](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1705s) Le risque des actions américaines
-- [33:03](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1983s) Les erreurs patrimoniales
-- [35:14](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2114s) Les devises
-- [37:53](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2273s) Les cryptomonnaies
 
 ## Sources
 

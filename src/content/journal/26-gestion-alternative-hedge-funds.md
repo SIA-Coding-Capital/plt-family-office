@@ -32,12 +32,6 @@ videos:
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 754, label: "La gestion alternative, absente chez les particuliers"}
-      - {t: 795, label: "Objectif : 4 à 7 % par an"}
-      - {t: 810, label: "Regarder les mauvaises années"}
-      - {t: 829, label: "2022 : bitcoin -60 %, or stable, certains fonds positifs"}
-      - {t: 1181, label: "Une poche pour traverser les crises"}
 faq:
   - q: "Qu'est-ce que la gestion alternative ?"
     r: "C'est un ensemble de stratégies de fonds, souvent appelés hedge funds, qui cherchent une performance régulière et peu corrélée aux marchés actions et obligataires. Ils utilisent des outils que la gestion classique n'emploie pas ou peu : vente à découvert, produits dérivés, arbitrage, effet de levier."
@@ -66,7 +60,7 @@ Le mot « hedge fund » évoque des gérants flamboyants, des paris spectaculair
 
 La gestion alternative désigne les stratégies de fonds qui cherchent une performance absolue, c'est-à-dire positive quel que soit le sens des marchés, plutôt qu'à battre un indice. Le terme anglais *hedge* signifie « couverture » : à l'origine, ces fonds achetaient des actions jugées sous-évaluées et vendaient à découvert des actions jugées surévaluées, pour neutraliser une partie du risque de marché.
 
-Un fonds actions classique gagne quand la bourse monte et perd quand elle baisse. Un fonds alternatif cherche à dépendre le moins possible de cette direction. Christophe Faglin le résume ainsi : générer « la performance la plus stable possible pour un niveau de risque limité » [(à 12:34 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=754s).
+Un fonds actions classique gagne quand la bourse monte et perd quand elle baisse. Un fonds alternatif cherche à dépendre le moins possible de cette direction. Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, le résume ainsi : générer « la performance la plus stable possible pour un niveau de risque limité ».
 
 ## Quelles sont les grandes stratégies ?
 
@@ -83,18 +77,22 @@ Chaque stratégie a ses bonnes et ses mauvaises périodes. Un global macro ou un
 
 ## Pourquoi les grandes fortunes la renforcent-elles ?
 
-Parce qu'elle répond à un problème que l'année 2022 a rendu visible : les actions et les obligations peuvent baisser en même temps. Cette année-là, les obligations ont perdu de l'ordre de 10 %, les actions de 15 à 20 % selon les marchés, le [bitcoin](/journal/cryptomonnaies-patrimoine) environ 60 %, et l'or est resté à peu près stable. Certains fonds alternatifs ont pourtant terminé l'année entre +3 % et +7 % [(à 13:49 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=829s).
+Parce qu'elle répond à un problème que l'année 2022 a rendu visible : les actions et les obligations peuvent baisser en même temps. Cette année-là, les obligations ont perdu de l'ordre de 10 %, les actions de 15 à 20 % selon les marchés, le [bitcoin](/journal/cryptomonnaies-patrimoine) environ 60 %, et l'or est resté à peu près stable. Certains fonds alternatifs ont pourtant terminé l'année entre +3 % et +7 %.
 
-Chez les particuliers français, cette classe d'actifs est quasiment absente. Dans les grands patrimoines, sa part varie mais progresse : la gestion alternative fait partie des trois classes d'actifs que les clients de gestion de fortune comptaient le plus renforcer en 2026, selon les études citées dans la vidéo. Vous retrouverez sa place dans l'ensemble du portefeuille dans notre article sur [l'allocation des grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes).
+Chez les particuliers français, cette classe d'actifs est quasiment absente. Dans les grands patrimoines, sa part varie mais progresse : la gestion alternative fait partie des trois classes d'actifs que les clients de gestion de fortune comptaient le plus renforcer en 2026, selon les études publiées sur les investisseurs fortunés. Vous retrouverez sa place dans l'ensemble du portefeuille dans notre article sur [l'allocation des grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes).
+
+Pour voir comment cette poche s'articule avec les actions, les obligations et le private equity dans un patrimoine de 1 à 10 millions d'euros, vous pouvez écouter Rémi de Truchis de Varennes et Christophe Faglin dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
 
 Elle remplit concrètement deux fonctions :
 
 - **amortir les crises**, en apportant une performance peu corrélée au reste du portefeuille ;
-- **financer les besoins sans vendre au pire moment**. Avec les [obligations](/journal/obligations-grandes-fortunes), elle constitue la poche de quatre à cinq ans de besoins qui permet aux actions et au private equity de traverser les baisses [(à 19:41 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1181s).
+- **financer les besoins sans vendre au pire moment**. Avec les [obligations](/journal/obligations-grandes-fortunes), elle constitue la poche de quatre à cinq ans de besoins qui permet aux actions et au private equity de traverser les baisses.
 
 ## Combien peut-on en attendre ?
 
-Les fonds alternatifs prudents visent généralement **4 à 7 % par an** [(à 13:15 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=795s). C'est moins que les actions sur longue période, et c'est normal : on ne leur demande pas de faire la course en tête mais de rester debout quand le reste tombe.
+Les fonds alternatifs prudents visent généralement **4 à 7 % par an**. C'est moins que les actions sur longue période, et c'est normal : on ne leur demande pas de faire la course en tête mais de rester debout quand le reste tombe.
 
 Un exemple illustre l'intérêt. Un investisseur détient 1 million d'euros, dont 300 000 € en poche prudente, et prélève 80 000 € par an. Si les actions baissent de 20 % et que cette poche reste stable, elle couvre près de quatre ans de dépenses (300 000 ÷ 80 000 = 3,75) sans vendre une seule action à prix bradé. Si cette même poche avait été placée en actions, il aurait dû vendre en pleine baisse.
 
@@ -119,7 +117,7 @@ Un contrat d'[assurance-vie luxembourgeois](/journal/assurance-vie-luxembourgeoi
 
 ## Comment juger un fonds alternatif ?
 
-Le conseil de Christophe Faglin tient en une phrase : « regardez les mauvaises années ». Si l'on vous propose un fonds alternatif, demandez ce qu'il a fait en 2022 [(à 13:30 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=810s). Complétez ensuite par cinq questions :
+Le conseil de Christophe Faglin tient en une phrase : « regardez les mauvaises années ». Si l'on vous propose un fonds alternatif, demandez ce qu'il a fait en 2022. Complétez ensuite par cinq questions :
 
 1. Quelle est la stratégie, en une phrase compréhensible ?
 2. Quel a été le pire repli historique du fonds, et combien de temps a-t-il fallu pour le rattraper ?
@@ -154,20 +152,6 @@ Oui, par des fonds alternatifs au format OPCVM (UCITS), accessibles en assurance
 ### Comment juger un fonds de gestion alternative ?
 
 Regardez sa performance en 2022, son pire repli historique, sa corrélation avec les actions, ses frais (y compris la commission de surperformance) et sa liquidité. Un fonds qui a perdu autant que les actions pendant une crise ne remplit pas son rôle.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 sur la chaîne Parlons Long Terme (40 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
-
-Les passages clés :
-
-- [12:34](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=754s) La gestion alternative, absente chez les particuliers
-- [13:15](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=795s) Objectif : 4 à 7 % par an
-- [13:30](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=810s) Regarder les mauvaises années
-- [13:49](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=829s) 2022 : bitcoin -60 %, or stable, certains fonds positifs
-- [19:41](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1181s) Une poche pour traverser les crises
 
 ## Sources
 

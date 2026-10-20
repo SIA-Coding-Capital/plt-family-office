@@ -11,7 +11,8 @@ mots_cles_secondaires:
   - gestion de fortune indépendante
 intention: informationnelle / commerciale
 auteur: Rémi de Truchis de Varennes
-source_video: https://www.youtube.com/watch?v=0-_Yi9J2eXM
+source_video:
+  - https://www.youtube.com/watch?v=0-_Yi9J2eXM
 longueur: environ 1300 mots
 ordre_publication: 6
 date_mise_a_jour: 2026-10-20
@@ -33,15 +34,6 @@ videos:
     url: https://www.youtube.com/watch?v=0-_Yi9J2eXM
     date_publication: 2026-03-26
     duree: PT10M28S
-    passages:
-      - {t: 66, label: "Le « no man's land » entre 1 et 30 M€"}
-      - {t: 128, label: "Des Médicis à Rockefeller"}
-      - {t: 233, label: "10 000 family offices et l'étude UBS"}
-      - {t: 283, label: "Ce que coûte un single family office"}
-      - {t: 367, label: "Le principe de mutualisation"}
-      - {t: 497, label: "Raisonner en système plutôt qu'en produits"}
-      - {t: 590, label: "Contrats luxembourgeois et crédit lombard négociés"}
-      - {t: 607, label: "Transparence sur la rémunération"}
 faq:
   - q: "Qu'est-ce qu'un multi family office ?"
     r: "C'est une structure indépendante qui accompagne plusieurs familles sur l'ensemble de leur patrimoine : investissements, fiscalité, structuration juridique, transmission et coordination des notaires, avocats et banquiers. Les familles partagent le coût de l'équipe d'experts."
@@ -70,7 +62,7 @@ Le multi family office est la réponse à ce décalage. Pour comprendre son rôl
 
 Confier la gestion d'un patrimoine familial à une structure dédiée n'a rien de nouveau. Les grandes familles aristocratiques européennes s'entouraient déjà d'intendants chargés de superviser leurs terres, leurs revenus et leurs alliances. Au XVe siècle, les Médicis administraient leurs affaires à travers un réseau d'hommes de confiance, de comptables et de conseillers, comme on piloterait aujourd'hui un conglomérat.
 
-Le family office prend sa forme moderne au XIXe siècle, avec les fortunes industrielles de l'acier, du pétrole et des chemins de fer. Leur ampleur pose une question inédite : comment protéger, structurer et transmettre une richesse considérable sur plusieurs générations ? John D. Rockefeller fonde en 1882 ce que l'on considère comme le [premier single family office moderne](/journal/histoire-family-office). Son idée : ne plus dépendre de conseillers extérieurs aux intérêts parfois divergents, mais disposer d'une équipe entièrement dédiée à la famille. Cette structure existe toujours, plus de 140 ans plus tard, sous le nom de Rockefeller Capital Management. Rémi de Truchis de Varennes retrace cette histoire [dans la vidéo, à partir de 2:08](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=128s).
+Le family office prend sa forme moderne au XIXe siècle, avec les fortunes industrielles de l'acier, du pétrole et des chemins de fer. Leur ampleur pose une question inédite : comment protéger, structurer et transmettre une richesse considérable sur plusieurs générations ? John D. Rockefeller fonde en 1882 ce que l'on considère comme le [premier single family office moderne](/journal/histoire-family-office). Son idée : ne plus dépendre de conseillers extérieurs aux intérêts parfois divergents, mais disposer d'une équipe entièrement dédiée à la famille. Cette structure existe toujours, plus de 140 ans plus tard, sous le nom de Rockefeller Capital Management.
 
 D'autres dynasties ont suivi, aux États-Unis comme en Europe : Rothschild, Agnelli (avec la holding Exor), et plus récemment Arnault.
 
@@ -92,7 +84,7 @@ Un single family office est entièrement dédié à une seule famille. Il faut d
 - un directeur financier ou comptable, pour le reporting, la consolidation et la trésorerie ;
 - souvent des analystes pour sourcer les opportunités, et parfois des stratèges pour accompagner la cession ou la transmission de l'entreprise familiale.
 
-S'y ajoutent les locaux, les outils de reporting, les bases de données financières, les assurances professionnelles et la conformité réglementaire. Au total, un single family office coûte **entre 500 000 et 800 000 € par an** (le détail des postes est expliqué [à 4:43 dans la vidéo](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=283s)).
+S'y ajoutent les locaux, les outils de reporting, les bases de données financières, les assurances professionnelles et la conformité réglementaire. Au total, un single family office coûte **entre 500 000 et 800 000 € par an**.
 
 D'où le consensus de la profession : le seuil de pertinence se situe autour de **30 millions d'euros d'actifs**. En dessous, les frais fixes peuvent représenter 2 à 3 % du patrimoine chaque année, ce qui efface une grande partie de la valeur ajoutée.
 
@@ -103,6 +95,10 @@ En dessous d'un million d'euros, les conseils classiques de finances personnelle
 Au-delà de 30 millions, une famille peut s'offrir son propre family office.
 
 Entre les deux, beaucoup de patrimoines se retrouvent dans une zone grise : trop importants pour l'offre grand public, trop petits pour un family office dédié. On leur propose des investissements alternatifs et des montages fiscaux, mais personne ne leur donne de cadre pour évaluer l'ensemble de façon cohérente. Les conseillers traditionnels proposent leurs produits phares sans tenir compte d'une réalité qui mêle souvent finance, fiscalité, transmission, entreprise et parfois projet d'expatriation.
+
+Rémi de Truchis de Varennes et Christophe Faglin ont consacré un épisode de la chaîne Parlons Long Terme à cette zone grise : [Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM) reprend le coût d'un family office dédié, le principe de mutualisation et la question de la rémunération.
+
+<!-- Lecteur YouTube à intégrer ici : 0-_Yi9J2eXM -->
 
 ## Le principe du multi family office : mutualiser l'expertise
 
@@ -128,7 +124,7 @@ La différence la plus profonde tient à la méthode. La plupart des investisseu
 
 Ce n'est qu'ensuite que l'on assemble les briques, chacune avec un rôle précis : une poche de rendement pour la croissance à long terme, une poche de protection contre les chocs, une poche d'optionalité pour saisir une opportunité asymétrique quand elle se présente. L'ingénierie fiscale et le choix des véhicules de détention viennent encadrer l'ensemble, en fonction de la situation actuelle et future de la famille, et non de ce que le conseiller a l'habitude de vendre.
 
-Au lieu d'empiler des placements, on construit une architecture cohérente. Au lieu de dépendre d'un interlocuteur unique à la vision partielle, on coordonne des experts autour d'un cadre clair. C'est la démarche que décrit Rémi [à 8:17 dans la vidéo](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=497s), et celle qui guide [l'allocation des grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes).
+Au lieu d'empiler des placements, on construit une architecture cohérente. Au lieu de dépendre d'un interlocuteur unique à la vision partielle, on coordonne des experts autour d'un cadre clair. C'est aussi la démarche qui guide [l'allocation des grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes).
 
 ## L'effet volume : des conditions que l'on n'obtient pas seul
 
@@ -166,23 +162,6 @@ Entre 500 000 et 800 000 € par an. C'est pourquoi la profession situe son seui
 ### Quelle différence entre family office et multi family office ?
 
 Un single family office est dédié à une seule famille, qui en supporte seule le coût. Un multi family office offre le même niveau d'expertise à plusieurs familles et répartit les coûts entre elles.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM)**, publiée le 26 mars 2026 sur la chaîne Parlons Long Terme (10 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : 0-_Yi9J2eXM -->
-
-Les passages clés :
-
-- [1:06](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=66s) Le « no man's land » entre 1 et 30 M€
-- [2:08](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=128s) Des Médicis à Rockefeller
-- [3:53](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=233s) 10 000 family offices et l'étude UBS
-- [4:43](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=283s) Ce que coûte un single family office
-- [6:07](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=367s) Le principe de mutualisation
-- [8:17](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=497s) Raisonner en système plutôt qu'en produits
-- [9:50](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=590s) Contrats luxembourgeois et crédit lombard négociés
-- [10:07](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=607s) Transparence sur la rémunération
 
 ## Sources
 

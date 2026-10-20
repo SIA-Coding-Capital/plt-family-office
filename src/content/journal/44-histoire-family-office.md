@@ -32,12 +32,6 @@ videos:
     url: https://www.youtube.com/watch?v=0-_Yi9J2eXM
     date_publication: 2026-03-26
     duree: PT10M28S
-    passages:
-      - {t: 128, label: "Les Médicis et leur système de gestion privée"}
-      - {t: 142, label: "La révolution industrielle et les nouvelles fortunes"}
-      - {t: 169, label: "Rockefeller et le premier single family office moderne"}
-      - {t: 195, label: "Les autres dynasties"}
-      - {t: 214, label: "Les Agnelli et Exor"}
 faq:
   - q: "Quel est le premier family office de l'histoire ?"
     r: "Le bureau créé par John D. Rockefeller en 1882 est généralement considéré comme le premier family office moderne : une équipe dédiée à la gestion des affaires et des investissements d'une seule famille. Il existe toujours, sous le nom de Rockefeller Capital Management depuis 2018."
@@ -75,7 +69,7 @@ Un family office est une organisation dont le seul objet est de gérer les affai
 
 La banque des Médicis est fondée à Florence en **1397** par Giovanni di Bicci de' Medici et prospère sous son fils Cosme. Elle compte à son apogée des succursales dans plusieurs grandes places européennes, dont Rome, Venise, Genève, Bruges et Londres. Elle disparaît en **1494**, l'année où les Médicis sont chassés de Florence. L'historien Raymond de Roover a reconstitué son fonctionnement à partir de ses archives comptables.
 
-Ce n'est pas un family office : la banque sert des clients, finance le commerce et la papauté, et se confond avec le pouvoir politique de la famille. Mais elle illustre déjà l'idée d'un réseau d'hommes de confiance, de comptables et d'associés qui administrent les affaires d'une dynastie, comme le rappelle la vidéo consacrée au multi family office [(à 2:08)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=128s).
+Ce n'est pas un family office : la banque sert des clients, finance le commerce et la papauté, et se confond avec le pouvoir politique de la famille. Mais elle illustre déjà l'idée d'un réseau d'hommes de confiance, de comptables et d'associés qui administrent les affaires d'une dynastie.
 
 ## Les Fugger : la fortune organisée pour durer
 
@@ -95,7 +89,7 @@ On lit souvent que la famille Morgan aurait créé un family office dès 1838. C
 
 ## Rockefeller, 1882 : la naissance du family office moderne
 
-Au XIXe siècle, la révolution industrielle crée des fortunes d'une ampleur inédite, dans le pétrole, l'acier et les chemins de fer [(à 2:22 dans la vidéo)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=142s). En **1882**, John D. Rockefeller organise un bureau consacré à la gestion de ses affaires personnelles et de ses investissements, généralement considéré comme le premier family office moderne [(à 2:49)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=169s). L'idée : ne plus dépendre de conseillers extérieurs aux intérêts parfois divergents, mais disposer d'une équipe entièrement dédiée à la famille.
+Au XIXe siècle, la révolution industrielle crée des fortunes d'une ampleur inédite, dans le pétrole, l'acier et les chemins de fer. En **1882**, John D. Rockefeller organise un bureau consacré à la gestion de ses affaires personnelles et de ses investissements, généralement considéré comme le premier family office moderne. L'idée : ne plus dépendre de conseillers extérieurs aux intérêts parfois divergents, mais disposer d'une équipe entièrement dédiée à la famille.
 
 En 1891, Rockefeller s'adjoint Frederick T. Gates, qui structure à la fois ses investissements et sa philanthropie. Ce double rôle, gérer et donner, reste une caractéristique des grands family offices.
 
@@ -105,7 +99,9 @@ La structure a traversé les générations. Elle est devenue **Rockefeller Capit
 
 L'étape suivante vient d'un associé d'Andrew Carnegie. En **1907**, Henry Phipps fonde Bessemer Trust pour gérer la fortune tirée de l'acier, du nom du procédé de fabrication qui a fait la réussite de Carnegie Steel. Pendant des décennies, c'est le family office d'une seule famille.
 
-En **1974**, la famille Phipps ouvre Bessemer Trust à d'autres familles fortunées. Le passage du single family office au multi family office est l'un des premiers exemples documentés : les mêmes experts servent désormais plusieurs familles, qui en partagent le coût. C'est exactement le principe de mutualisation que nous décrivons dans [notre définition du multi family office](/journal/multi-family-office-definition), et qui permet aujourd'hui d'ouvrir une [gestion de fortune dès 300 000 €](/journal/gestion-de-fortune-300000-euros).
+En **1974**, la famille Phipps ouvre Bessemer Trust à d'autres familles fortunées. Le passage du single family office au multi family office est l'un des premiers exemples documentés : les mêmes experts servent désormais plusieurs familles, qui en partagent le coût. C'est exactement le principe de mutualisation que nous décrivons dans [notre définition du multi family office](/journal/multi-family-office-definition), et qui permet aujourd'hui d'ouvrir une [gestion de fortune dès 300 000 €](/journal/gestion-de-fortune-300000-euros). Cette filiation, de Rockefeller aux multi family offices actuels, ouvre [Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM), un entretien de la chaîne Parlons Long Terme qui s'interroge ensuite sur l'intérêt du modèle pour les patrimoines plus modestes.
+
+<!-- Lecteur YouTube à intégrer ici : 0-_Yi9J2eXM -->
 
 ## Le XXIe siècle : un objet reconnu, réglementé et étudié
 
@@ -117,7 +113,7 @@ Trois jalons marquent la reconnaissance du family office comme catégorie à par
 | 2014 | Publication du premier *Global Family Office Report* d'UBS et Campden Wealth | L'allocation des family offices devient mesurée et comparée |
 | Aujourd'hui | Les grandes dynasties européennes s'organisent en holdings familiales | Exor, holding cotée de la famille Agnelli, actionnaire notamment de Ferrari et de Stellantis |
 
-La vidéo évoque aussi d'autres familles qui ont suivi la voie ouverte par Rockefeller, aux États-Unis comme en Europe [(à 3:15)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=195s), dont les Agnelli avec Exor [(à 3:34)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=214s). La logique de holding familiale est détaillée dans notre article sur la [holding patrimoniale](/journal/holding-patrimoniale-quand-la-creer).
+D'autres familles ont suivi la voie ouverte par Rockefeller, aux États-Unis comme en Europe, dont les Agnelli avec Exor. La logique de holding familiale est détaillée dans notre article sur la [holding patrimoniale](/journal/holding-patrimoniale-quand-la-creer).
 
 En France, en revanche, le family office ne correspond à **aucun statut juridique**. Une structure qui s'en réclame exerce sous les statuts réglementés de ses activités, ce que nous expliquons dans [CGP, banque privée, multi family office : qui fait quoi](/journal/cgp-banque-privee-multi-family-office).
 
@@ -154,20 +150,6 @@ Pas au sens moderne. La banque des Médicis, fondée à Florence en 1397, était
 ### Le family office est-il réglementé en France ?
 
 Non. Le terme ne correspond à aucun statut juridique en France. Une structure qui se présente comme family office doit détenir les statuts réglementés correspondant à ses activités, comme celui de conseiller en investissements financiers ou de courtier en assurance.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM)**, publiée le 26 mars 2026 sur la chaîne Parlons Long Terme (10 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : 0-_Yi9J2eXM -->
-
-Les passages clés :
-
-- [2:08](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=128s) Les Médicis et leur système de gestion privée
-- [2:22](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=142s) La révolution industrielle et les nouvelles fortunes
-- [2:49](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=169s) Rockefeller et le premier single family office moderne
-- [3:15](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=195s) Les autres dynasties
-- [3:34](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=214s) Les Agnelli et Exor
 
 ## Sources
 

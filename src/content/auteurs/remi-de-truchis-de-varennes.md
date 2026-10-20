@@ -116,7 +116,7 @@ Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/remi-de-truchis-de
 
 ## Ses vidéos
 
-Les articles du journal s'appuient sur les vidéos de la chaîne [Parlons Long Terme](https://www.youtube.com/@parlons-long-terme), chacune citée et horodatée dans l'article correspondant.
+Rémi publie régulièrement des entretiens sur l'investissement et la transmission sur la chaîne [Parlons Long Terme](https://www.youtube.com/@parlons-long-terme).
 
 ---
 

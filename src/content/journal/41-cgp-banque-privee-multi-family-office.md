@@ -36,20 +36,11 @@ videos:
     url: https://www.youtube.com/watch?v=kRNe9rGqKyA
     date_publication: 2025-05-01
     duree: PT25M0S
-    passages:
-      - {t: 94, label: "La segmentation des clients en banque"}
-      - {t: 616, label: "Les fintechs et le besoin d'un architecte"}
-      - {t: 754, label: "Le dirigeant, l'expert-comptable et le conseiller"}
-      - {t: 789, label: "Ouvrir son réseau pour une cession ou une acquisition"}
   - id: 0-_Yi9J2eXM
     titre: "Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?"
     url: https://www.youtube.com/watch?v=0-_Yi9J2eXM
     date_publication: 2026-03-26
     duree: PT10M28S
-    passages:
-      - {t: 394, label: "Coordonner banquiers, notaires, avocats, experts-comptables"}
-      - {t: 402, label: "Au-delà d'un cabinet de gestion de fortune"}
-      - {t: 557, label: "En finir avec l'interlocuteur unique à vision partielle"}
 faq:
   - q: "Quelle est la différence entre un CGP et une banque privée ?"
     r: "La banque privée est un établissement de crédit : elle tient les comptes, conserve les titres, prête et propose surtout ses propres produits. Le CGP est un conseiller qui n'encaisse pas les fonds : il recommande et place des solutions chez des assureurs, des banques ou des sociétés de gestion partenaires."
@@ -95,7 +86,7 @@ Les trois premiers statuts imposent une immatriculation au registre de l'**ORIAS
 
 ## Qu'est-ce qu'une banque privée, du point de vue réglementaire ?
 
-La banque privée est un département ou une filiale d'un **établissement de crédit** agréé par l'ACPR. Elle seule, dans cette liste, peut tenir votre compte, conserver vos titres et vous prêter de l'argent, par exemple sous forme de [crédit lombard](/journal/credit-lombard). Elle segmente ses clients selon leurs avoirs, de la banque de détail à la gestion de fortune [(à 1:34 dans la vidéo sur les banques privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=94s).
+La banque privée est un département ou une filiale d'un **établissement de crédit** agréé par l'ACPR. Elle seule, dans cette liste, peut tenir votre compte, conserver vos titres et vous prêter de l'argent, par exemple sous forme de [crédit lombard](/journal/credit-lombard). Elle segmente ses clients selon leurs avoirs, de la banque de détail à la gestion de fortune.
 
 Ce statut est une force, le guichet unique, et une limite : la banque distribue d'abord ses propres solutions, et son conseiller représente l'établissement.
 
@@ -107,7 +98,9 @@ Une société de gestion de portefeuille est agréée par l'AMF. Elle crée et g
 
 Non. En France, le terme « family office » ne correspond à **aucun statut réglementé**. Une association professionnelle, l'Association française du family office, en promeut les pratiques, mais n'importe quelle structure peut se dire family office. Pour exercer, elle doit détenir les statuts correspondant à ce qu'elle fait réellement : CIF pour conseiller en placements, courtier pour distribuer de l'assurance-vie, agrément de société de gestion pour gérer sous mandat.
 
-Ce qui distingue un multi family office n'est donc pas son statut, mais son **rôle** : il coordonne l'ensemble des intervenants extérieurs, banquiers, notaires, avocats, experts-comptables, pour que tout fonctionne de façon cohérente [(à 6:34 dans la vidéo sur le multi family office)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=394s). Contrairement à un simple cabinet de gestion de fortune, il ne se limite pas au financier : expatriation, cession, gouvernance familiale [(à 6:42)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=402s). Son principe économique est expliqué dans [notre définition du multi family office](/journal/multi-family-office-definition).
+Ce qui distingue un multi family office n'est donc pas son statut, mais son **rôle** : il coordonne l'ensemble des intervenants extérieurs, banquiers, notaires, avocats, experts-comptables, pour que tout fonctionne de façon cohérente. Contrairement à un simple cabinet de gestion de fortune, il ne se limite pas au financier : expatriation, cession, gouvernance familiale. Son principe économique est expliqué dans [notre définition du multi family office](/journal/multi-family-office-definition). La question de savoir à partir de quel niveau de patrimoine ce modèle devient pertinent est débattue dans [Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : 0-_Yi9J2eXM -->
 
 ## Notaire, avocat, expert-comptable : quel rôle ?
 
@@ -115,7 +108,7 @@ Ces trois professions réglementées interviennent sur des actes que ni la banqu
 
 - **Le notaire** est un officier public. Les donations doivent, sauf exceptions comme le don manuel, être passées devant lui, de même que les ventes immobilières et le règlement des successions. Il formalise la stratégie, de la [donation-partage](/journal/donation-partage-ou-donation-simple) au contrat de mariage.
 - **L'avocat fiscaliste** sécurise les montages complexes, rédige les statuts d'une holding ou d'une SCI, et défend le contribuable en cas de contrôle.
-- **L'expert-comptable** tient la comptabilité des sociétés et intervient sur la forme sociale et la [rémunération du dirigeant](/journal/remuneration-dirigeant-salaire-dividendes), main dans la main avec le conseiller patrimonial [(à 12:34 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=754s).
+- **L'expert-comptable** tient la comptabilité des sociétés et intervient sur la forme sociale et la [rémunération du dirigeant](/journal/remuneration-dirigeant-salaire-dividendes), main dans la main avec le conseiller patrimonial.
 
 ## Qui fait quoi : la carte complète
 
@@ -139,7 +132,7 @@ Prenons un dirigeant de 55 ans qui envisage de vendre son entreprise dans trois 
 4. **La banque** finance, conserve, et peut proposer un crédit adossé au prix.
 5. **Le conseiller patrimonial** construit la stratégie de réinvestissement et de transmission.
 
-Sans coordination, chacun optimise son morceau. Avec un chef d'orchestre, l'ordre des opérations est fixé dès le départ : une donation réalisée après la cession, au lieu d'avant, peut coûter des centaines de milliers d'euros. Voir [préparer la cession de son entreprise](/journal/preparer-cession-entreprise). Le réseau compte aussi : un multi family office peut mettre en relation avec des acheteurs ou des cibles [(à 13:09 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=789s).
+Sans coordination, chacun optimise son morceau. Avec un chef d'orchestre, l'ordre des opérations est fixé dès le départ : une donation réalisée après la cession, au lieu d'avant, peut coûter des centaines de milliers d'euros. Voir [préparer la cession de son entreprise](/journal/preparer-cession-entreprise). Le réseau compte aussi : un multi family office peut mettre en relation avec des acheteurs ou des cibles.
 
 ## Comment vérifier un conseiller ?
 
@@ -152,7 +145,7 @@ Avant de confier quoi que ce soit, quatre vérifications prennent dix minutes :
 
 ## Qui choisir, et quand ?
 
-Le bon interlocuteur dépend de la complexité de votre situation, pas seulement de son montant. Pour une épargne simple, un bon conseiller ou une gestion autonome suffit. Dès que fiscalité, entreprise et transmission se croisent, il faut quelqu'un qui voie l'ensemble : les outils et les fintechs ne remplacent pas un architecte qui coordonne le tout [(à 10:16 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=616s). Les seuils d'accès sont détaillés dans [gestion de fortune dès 300 000 €](/journal/gestion-de-fortune-300000-euros), et le point de départ de tout accompagnement dans [l'audit patrimonial](/journal/audit-patrimonial).
+Le bon interlocuteur dépend de la complexité de votre situation, pas seulement de son montant. Pour une épargne simple, un bon conseiller ou une gestion autonome suffit. Dès que fiscalité, entreprise et transmission se croisent, il faut quelqu'un qui voie l'ensemble : les outils et les fintechs ne remplacent pas un architecte qui coordonne le tout. Ce rôle d'architecte, face au modèle des banques privées, est au cœur de [Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA). Les seuils d'accès sont détaillés dans [gestion de fortune dès 300 000 €](/journal/gestion-de-fortune-300000-euros), et le point de départ de tout accompagnement dans [l'audit patrimonial](/journal/audit-patrimonial).
 
 ## En résumé
 
@@ -178,33 +171,6 @@ Demandez son numéro d'immatriculation et vérifiez-le sur le registre de l'ORIA
 ### Qui rédige une donation ou un testament ?
 
 Une donation doit être passée devant notaire, sauf exceptions comme le don manuel. Un testament peut être rédigé seul, mais le notaire en assure la conservation et la sécurité juridique. Le conseiller patrimonial prépare la stratégie, le notaire la formalise.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Family office et banque privée
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1 mai 2025 (25 min).
-
-<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
-
-Les passages clés :
-
-- [1:34](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=94s) La segmentation des clients en banque
-- [10:16](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=616s) Les fintechs et le besoin d'un architecte
-- [12:34](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=754s) Le dirigeant, l'expert-comptable et le conseiller
-- [13:09](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=789s) Ouvrir son réseau pour une cession ou une acquisition
-
-### Multi family office
-
-**[Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM)**, publiée le 26 mars 2026 (10 min).
-
-Les passages clés :
-
-- [6:34](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=394s) Coordonner banquiers, notaires, avocats, experts-comptables
-- [6:42](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=402s) Au-delà d'un cabinet de gestion de fortune
-- [9:17](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=557s) En finir avec l'interlocuteur unique à vision partielle
 
 ## Sources
 

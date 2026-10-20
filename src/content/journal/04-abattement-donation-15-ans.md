@@ -36,18 +36,11 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 281, label: "La règle des 15 ans et les montants"}
-      - {t: 1194, label: "Donner ses titres plutôt que ses livrets"}
-      - {t: 2359, label: "La donation avant cession"}
   - id: dJ9yXONnr5M
     titre: "Comment Éviter 400 000 € de Frais de Succession en Toute Légalité"
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 102, label: "Ce que coûte une succession non préparée"}
-      - {t: 2021, label: "Donner avant de vendre son entreprise"}
 faq:
   - q: "Combien peut-on donner à un enfant sans payer de droits ?"
     r: "Chaque parent peut donner 100 000 € par enfant tous les 15 ans, sur tout type de bien. S'y ajoutent 31 865 € de don familial de sommes d'argent si le parent a moins de 80 ans et l'enfant est majeur."
@@ -92,9 +85,13 @@ Concrètement, un couple avec deux enfants peut leur transmettre **526 920 €**
 
 ## Pourquoi « tous les 15 ans » change tout
 
-C'est ce qu'on appelle le rappel fiscal. Toute donation de moins de 15 ans est prise en compte lors de la donation suivante ou de la succession. Au-delà de 15 ans, le compteur est remis à zéro. Christophe Faglin explique pourquoi cette règle est centrale [à 4:41 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=281s).
+C'est ce qu'on appelle le rappel fiscal. Toute donation de moins de 15 ans est prise en compte lors de la donation suivante ou de la succession. Au-delà de 15 ans, le compteur est remis à zéro.
 
 Conséquence directe : **plus vous donnez tôt, plus vous pourrez donner souvent**. Un parent qui fait une première donation à 45 ans peut raisonnablement en faire une deuxième à 60 ans, et laisser un abattement neuf à ses enfants pour la succession. Et si vous ne refaites pas de donation, les 100 000 premiers euros de la succession seront de nouveau exonérés au bout de 15 ans.
+
+Pour voir comment cette règle s'articule avec les autres leviers de transmission, Rémi de Truchis de Varennes et Christophe Faglin y consacrent une large part de leur entretien [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 ## Ce qui se passe au-delà des abattements
 
@@ -118,13 +115,13 @@ Hors ligne directe, la facture grimpe très vite (voir [qui hérite si rien n'es
 - **neveu ou nièce** : 55 % (abattement de 7 967 €) ;
 - **au-delà du 4e degré ou sans lien de parenté** : 60 %.
 
-Pour donner un ordre de grandeur : une personne célibataire avec un enfant et un patrimoine d'un million d'euros laisse plus de **200 000 €** de droits. Sans enfant, avec son frère pour héritier, ce montant dépasse **400 000 €** (ordres de grandeur donnés [à 1:42 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=102s)).
+Pour donner un ordre de grandeur : une personne célibataire avec un enfant et un patrimoine d'un million d'euros laisse plus de **200 000 €** de droits. Sans enfant, avec son frère pour héritier, ce montant dépasse **400 000 €**. Ces cas sont chiffrés en détail dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), un autre épisode de Parlons Long Terme.
 
 ## Quatre façons de démultiplier l'abattement
 
 **1. Le combiner au démembrement.** L'abattement s'applique à la valeur fiscale de ce que vous donnez. En donnant une nue-propriété qui ne vaut que 30 % ou 50 % du bien, 100 000 € d'abattement couvrent un bien de 200 000 à 330 000 €. Voir notre guide du [démembrement de propriété](/journal/demembrement-propriete-donation-nue-propriete).
 
-**2. Donner ses titres plutôt que ses liquidités.** Beaucoup de parents donnent leurs livrets, qui ne rapportent rien, et gardent leurs actions. C'est souvent l'inverse qu'il faut faire. Une donation de titres efface la plus-value latente : personne ne paiera jamais l'impôt sur ce gain. Le parent peut ensuite réinvestir ses liquidités avec un prix de revient neuf. Nous détaillons ce mécanisme dans l'article [compte-titres, PEA et succession](/journal/compte-titres-pea-succession), et Christophe Faglin l'illustre [à 19:54 dans la vidéo](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1194s).
+**2. Donner ses titres plutôt que ses liquidités.** Beaucoup de parents donnent leurs livrets, qui ne rapportent rien, et gardent leurs actions. C'est souvent l'inverse qu'il faut faire. Une donation de titres efface la plus-value latente : personne ne paiera jamais l'impôt sur ce gain. Le parent peut ensuite réinvestir ses liquidités avec un prix de revient neuf. Nous détaillons ce mécanisme dans l'article [compte-titres, PEA et succession](/journal/compte-titres-pea-succession).
 
 **3. Donner avant de vendre son entreprise.** La [donation avant cession](/journal/donation-avant-cession) fonctionne sur le même principe : les titres donnés juste avant la vente sont évalués au prix de cession, ce qui purge la plus-value. Un entrepreneur qui vend une société créée à partir de zéro peut ainsi transmettre 100 000 € par enfant sans droits de donation et sans impôt sur la plus-value correspondante. L'opération doit être soigneusement organisée avec un avocat fiscaliste ou un notaire. Notre [cas pratique](/journal/cas-pratique-reduire-droits-succession) montre comment elle s'intègre dans une stratégie complète.
 
@@ -166,31 +163,6 @@ Chaque grand-parent peut donner 31 865 € à chaque petit-enfant tous les 15 an
 ### Quels droits au-delà des abattements ?
 
 En ligne directe, un barème progressif de 5 % à 45 % s'applique ; la tranche à 20 % couvre la plupart des transmissions. Entre frères et sœurs, le taux atteint 45 %, 55 % pour les neveux et nièces.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [4:41](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=281s) La règle des 15 ans et les montants
-- [19:54](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1194s) Donner ses titres plutôt que ses livrets
-- [39:19](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2359s) La donation avant cession
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-Les passages clés :
-
-- [1:42](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=102s) Ce que coûte une succession non préparée
-- [33:41](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=2021s) Donner avant de vendre son entreprise
 
 ## Sources
 

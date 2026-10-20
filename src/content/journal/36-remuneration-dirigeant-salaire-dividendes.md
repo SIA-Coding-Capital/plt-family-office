@@ -15,7 +15,6 @@ auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
-  - https://www.youtube.com/watch?v=A1gOvHMmxBk
 longueur: environ 1050 mots
 ordre_publication: 36
 date_mise_a_jour: 2026-10-20
@@ -32,22 +31,11 @@ videos:
     url: https://www.youtube.com/watch?v=kRNe9rGqKyA
     date_publication: 2025-05-01
     duree: PT25M0S
-    passages:
-      - {t: 754, label: "SARL ou SAS : optimiser la rémunération du dirigeant"}
   - id: V8qZaCLBKX0
     titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 1690, label: "La holding : être maître de sa fiscalité"}
-  - id: A1gOvHMmxBk
-    titre: "1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026"
-    url: https://www.youtube.com/watch?v=A1gOvHMmxBk
-    date_publication: 2026-03-05
-    duree: PT40M26S
-    passages:
-      - {t: 1587, label: "Un compte-titres en société pour son épargne personnelle ?"}
 faq:
   - q: "Vaut-il mieux se verser un salaire ou des dividendes ?"
     r: "Aucune des deux options ne gagne dans tous les cas. Le salaire coûte plus cher en charges mais finance la retraite et la prévoyance et réduit l'impôt sur les sociétés ; le dividende coûte moins en prélèvements mais ne crée presque aucun droit social. La plupart des dirigeants ont intérêt à combiner un salaire suffisant et des dividendes."
@@ -72,7 +60,7 @@ sources:
 
 > **L'essentiel.** Le salaire coûte plus cher en charges sociales mais ouvre des droits à la retraite et se déduit du résultat ; le dividende supporte l'impôt sur les sociétés (15 % puis 25 %) puis 31,4 % de prélèvement forfaitaire unique. Pour 150 000 € de bénéfice distribué en dividendes, le dirigeant perçoit environ 80 000 € nets. Une holding permet de remonter les dividendes quasiment sans impôt et de ne se verser que ce dont on a besoin. Le bon choix est presque toujours un dosage.
 
-Chaque année, au moment d'arrêter les comptes, le dirigeant d'une société à l'IS se pose la même question : combien me verser, et sous quelle forme ? La réponse dépend moins d'un taux miracle que de trois éléments : de quoi vous avez besoin pour vivre, quelle protection sociale vous voulez, et ce que vous comptez faire du reste. Comme le rappelle Christophe Faglin, l'objectif est que votre rémunération vous coûte le moins cher possible, en lien avec l'expert-comptable [(à 12:34 dans la vidéo sur la gestion des grandes fortunes)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=754s).
+Chaque année, au moment d'arrêter les comptes, le dirigeant d'une société à l'IS se pose la même question : combien me verser, et sous quelle forme ? La réponse dépend moins d'un taux miracle que de trois éléments : de quoi vous avez besoin pour vivre, quelle protection sociale vous voulez, et ce que vous comptez faire du reste. Comme le rappelle Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, l'objectif est que votre rémunération vous coûte le moins cher possible, en lien avec l'expert-comptable. Cette logique d'optimisation globale, propre aux chefs d'entreprise et aux grandes fortunes, est développée dans [Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA).
 
 ## Salaire ou dividendes : quelle différence ?
 
@@ -119,12 +107,14 @@ La bonne approche est en général un dosage : un salaire qui couvre votre train
 
 Une [holding](/journal/holding-patrimoniale-quand-la-creer) qui détient au moins 5 % de la société d'exploitation depuis deux ans bénéficie du régime mère-fille : les dividendes qu'elle reçoit sont exonérés d'IS, à l'exception d'une quote-part de frais de 5 %. À 25 % d'IS, le coût est d'environ **1,25 %** du dividende.
 
-Reprenons l'exemple : sur 116 750 € remontés dans la holding, l'impôt est d'environ 1 459 €. La holding dispose de plus de 115 000 € à réinvestir, contre 80 090 € si le dirigeant s'était tout versé. Christophe Faglin le résume : la holding permet d'être maître de sa fiscalité, en décidant quand se verser un revenu [(à 28:10 dans la vidéo Héritage en France)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1690s).
+Reprenons l'exemple : sur 116 750 € remontés dans la holding, l'impôt est d'environ 1 459 €. La holding dispose de plus de 115 000 € à réinvestir, contre 80 090 € si le dirigeant s'était tout versé. Christophe Faglin le résume : la holding permet d'être maître de sa fiscalité, en décidant quand se verser un revenu. Le rôle de la holding dans la stratégie patrimoniale du dirigeant, jusqu'à la transmission, est discuté plus longuement dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), avec Rémi de Truchis de Varennes et Christophe Faglin.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 Deux réserves :
 
 - l'argent qui reste dans la holding n'est pas à votre disposition personnelle : le jour où vous le sortez, le PFU s'applique ;
-- la holding a un coût (comptabilité, banque, juridique) et n'a pas de sens pour loger une épargne personnelle. Ouvrir un compte-titres en société avec de l'argent déjà détenu à titre privé n'apporte rien, comme le rappelle Christophe Faglin [à 26:27 dans la vidéo sur l'allocation 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1587s).
+- la holding a un coût (comptabilité, banque, juridique) et n'a pas de sens pour loger une épargne personnelle. Ouvrir un compte-titres en société avec de l'argent déjà détenu à titre privé n'apporte rien.
 
 Ce que la holding fait de cette trésorerie relève de la même méthode que pour une société d'exploitation : voir [comment placer la trésorerie excédentaire](/journal/placer-tresorerie-entreprise).
 
@@ -165,36 +155,6 @@ Oui pour la part qui dépasse 10 % du capital social, des primes d'émission et 
 ### À quoi sert une holding pour la rémunération du dirigeant ?
 
 Elle reçoit les dividendes de la société d'exploitation presque sans impôt grâce au régime mère-fille, puis le dirigeant ne se verse personnellement que ce dont il a besoin. Le reste est réinvesti à partir d'un montant brut plus élevé.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Les vrais riches et les banques privées
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1er mai 2025 (25 min).
-
-<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
-
-Les passages clés :
-
-- [12:34](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=754s) SARL ou SAS : optimiser la rémunération du dirigeant
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [28:10](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1690s) La holding : être maître de sa fiscalité
-
-### Allocation 2026
-
-**[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 (40 min).
-
-Les passages clés :
-
-- [26:27](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1587s) Un compte-titres en société pour son épargne personnelle ?
 
 ## Sources
 

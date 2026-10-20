@@ -33,17 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 1910, label: "La donation avant cession"}
-      - {t: 1921, label: "Donner purge la plus-value"}
-      - {t: 1938, label: "Exemple : une société créée de zéro, vendue un million"}
   - id: V8qZaCLBKX0
     titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 2359, label: "Donner avant de vendre, au prix de vente"}
 faq:
   - q: "Qu'est-ce qu'une donation avant cession ?"
     r: "C'est le fait de donner des titres d'une société à ses proches avant que la société ne soit vendue. Les bénéficiaires reçoivent les titres à leur valeur du jour, puis les vendent à ce prix : la plus-value accumulée sur la part donnée n'est imposée ni chez le donateur, ni chez eux."
@@ -77,7 +71,7 @@ La donation avant cession est une **donation de titres consentie avant la vente 
 
 Le mécanisme est simple. Les titres reçus par donation ont pour prix d'acquisition, chez le bénéficiaire, la valeur retenue dans l'acte de donation. Si cette valeur est égale au prix de cession, la plus-value du bénéficiaire est nulle. Quant au donateur, une donation n'est pas une vente : il ne réalise aucune plus-value. Le gain accumulé sur les titres donnés n'est donc imposé chez personne.
 
-C'est la même logique que pour un [compte-titres transmis par donation](/journal/compte-titres-pea-succession), appliquée à une entreprise. Christophe Faglin la résume ainsi : « Tu donnes avant de vendre et tu donnes au prix de vente » [(à 39:19 dans la vidéo Héritage en France)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2359s).
+C'est la même logique que pour un [compte-titres transmis par donation](/journal/compte-titres-pea-succession), appliquée à une entreprise. Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, la résume ainsi : « Tu donnes avant de vendre et tu donnes au prix de vente ». Il la replace parmi les grands leviers de transmission dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0).
 
 ## Combien peut-on économiser ? Un exemple chiffré
 
@@ -90,7 +84,9 @@ Un couple marié sous le régime de la communauté a créé une société il y a
 | Droits de donation (400 000 € couverts par 4 abattements) | 0 € | 0 € |
 | **Coût de la transmission** | **124 972 €** | **0 €, hors frais d'acte** |
 
-Les enfants encaissent 400 000 € au lieu de 275 028 € une fois l'impôt payé. Ce calcul ne tient pas compte de la contribution exceptionnelle sur les hauts revenus, qui alourdit encore l'imposition des grosses cessions, ni des abattements spécifiques dont certains dirigeants partant à la retraite peuvent bénéficier : votre situation exacte doit être chiffrée. L'exemple d'une société créée de zéro et vendue un million d'euros est développé [à 32:18 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1938s).
+Les enfants encaissent 400 000 € au lieu de 275 028 € une fois l'impôt payé. Ce calcul ne tient pas compte de la contribution exceptionnelle sur les hauts revenus, qui alourdit encore l'imposition des grosses cessions, ni des abattements spécifiques dont certains dirigeants partant à la retraite peuvent bénéficier : votre situation exacte doit être chiffrée. Un cas voisin, celui d'une société créée de zéro et vendue un million d'euros, est déroulé par Rémi de Truchis de Varennes et Christophe Faglin dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
 
 ## Faut-il donner au-delà des abattements ?
 
@@ -107,7 +103,7 @@ La donation avant cession est parfaitement légale. Elle est aussi surveillée d
 3. **Une valeur cohérente.** La valeur des titres dans l'acte de donation doit correspondre au prix de cession. Si le prix final est supérieur, la différence est une plus-value imposable chez les enfants.
 4. **Un acte notarié.** Il donne date certaine à la donation et permet de prévoir des clauses utiles : retour des biens au donateur en cas de prédécès de l'enfant, emploi ou remploi du prix, interdiction temporaire de disposer des fonds.
 
-Christophe Faglin insiste sur ce point [à 31:50 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1910s) : l'opération doit être organisée avec un avocat fiscaliste ou un notaire, en amont de la négociation.
+Christophe Faglin insiste sur ce point : l'opération doit être organisée avec un avocat fiscaliste ou un notaire, en amont de la négociation.
 
 ## Peut-on donner seulement la nue-propriété des titres ?
 
@@ -152,30 +148,6 @@ Aucun délai n'est fixé par la loi. Ce qui compte est que la donation soit sign
 ### Le donateur peut-il récupérer le prix de vente des titres donnés ?
 
 Non. Si le prix revient au donateur, par un prêt, un compte qu'il contrôle ou une autre voie, l'administration peut considérer que la donation était fictive et invoquer l'abus de droit, avec une majoration pouvant atteindre 80 % des droits éludés.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
-
-Les passages clés :
-
-- [31:50](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1910s) La donation avant cession
-- [32:01](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1921s) Donner purge la plus-value
-- [32:18](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1938s) Exemple : une société créée de zéro, vendue un million
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [39:19](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2359s) Donner avant de vendre, au prix de vente
 
 ## Sources
 

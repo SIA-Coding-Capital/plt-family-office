@@ -33,19 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 690, label: "Cumuler démembrement et SCI familiale"}
-      - {t: 747, label: "La valeur d'une société : actif moins dettes"}
-      - {t: 783, label: "Travailler les statuts pour garder le contrôle"}
-      - {t: 814, label: "Réendetter la SCI"}
   - id: dJ9yXONnr5M
     titre: "Comment Éviter 400 000 € de Frais de Succession en Toute Légalité"
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 1726, label: "L'avantage supplémentaire de la SCI"}
-      - {t: 1759, label: "Un patrimoine de 2 M€ avec la moitié de l'emprunt restant"}
 faq:
   - q: "Qu'est-ce qu'une SCI familiale ?"
     r: "C'est une société civile immobilière dont les associés sont membres d'une même famille, créée pour détenir et gérer un ou plusieurs biens immobiliers. Les associés détiennent des parts sociales plutôt que les biens eux-mêmes, ce qui facilite la gestion et la transmission."
@@ -86,9 +78,13 @@ Il faut au moins deux associés. La société est propriétaire des biens ; les 
 
 **Éviter l'indivision.** Au décès, des héritiers propriétaires en direct sont en indivision, et chacun peut en demander la sortie à tout moment. Dans une SCI, les règles de décision sont fixées par les statuts et le bien n'est pas bloqué par un désaccord.
 
-**Garder le contrôle.** Les parents peuvent donner la majorité, voire la totalité des parts en nue-propriété, tout en restant gérants. Christophe Faglin insiste sur ce travail des statuts [à 13:03 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=783s).
+**Garder le contrôle.** Les parents peuvent donner la majorité, voire la totalité des parts en nue-propriété, tout en restant gérants. Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, insiste sur ce travail des statuts.
 
-**Transmettre une valeur nette.** Les parts valent ce que la SCI possède moins ce qu'elle doit. C'est l'effet expliqué [à 12:27 dans la même vidéo](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=747s), et chiffré dans notre article sur le [démembrement de propriété](/journal/demembrement-propriete-donation-nue-propriete) et dans notre [cas pratique](/journal/cas-pratique-reduire-droits-succession). Une décote supplémentaire pour défaut de liquidité des parts peut parfois être retenue, à condition d'être justifiée.
+**Transmettre une valeur nette.** Les parts valent ce que la SCI possède moins ce qu'elle doit. Cet effet est chiffré dans notre article sur le [démembrement de propriété](/journal/demembrement-propriete-donation-nue-propriete) et dans notre [cas pratique](/journal/cas-pratique-reduire-droits-succession). Une décote supplémentaire pour défaut de liquidité des parts peut parfois être retenue, à condition d'être justifiée.
+
+La combinaison d'une SCI familiale et du démembrement des parts est l'un des leviers présentés par Rémi de Truchis de Varennes et Christophe Faglin dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 ## Le piège du compte courant d'associé
 
@@ -100,7 +96,7 @@ L'effet de la dette ne fonctionne que si la dette est due à un tiers. Prenons u
 | 50 000 € de capital et 450 000 € avancés par les parents en compte courant | 50 000 € | 450 000 € | 500 000 € |
 | 50 000 € de capital et un emprunt bancaire de 450 000 € | 50 000 € | 0 € | 50 000 € |
 
-Dans le deuxième cas, les parts ne valent presque rien, mais la créance de 450 000 € fait partie du patrimoine des parents et sera taxée à leur décès. Rien n'est gagné. Seul l'emprunt bancaire, remboursé ensuite par les loyers, transfère réellement la valeur aux détenteurs des parts. Si les parents ont déjà donné la nue-propriété des parts, c'est à leurs enfants que profite chaque remboursement. Pour un patrimoine immobilier de 2 M€ dont la moitié de l'emprunt reste due, Christophe Faglin chiffre l'effet [à 29:19 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1759s).
+Dans le deuxième cas, les parts ne valent presque rien, mais la créance de 450 000 € fait partie du patrimoine des parents et sera taxée à leur décès. Rien n'est gagné. Seul l'emprunt bancaire, remboursé ensuite par les loyers, transfère réellement la valeur aux détenteurs des parts. Si les parents ont déjà donné la nue-propriété des parts, c'est à leurs enfants que profite chaque remboursement. Dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), Christophe Faglin chiffre cet effet pour un patrimoine immobilier de 2 M€ dont la moitié de l'emprunt reste due.
 
 Un compte courant n'est pas pour autant inutile : il peut être remboursé progressivement par la SCI, ou faire lui-même l'objet de donations.
 
@@ -170,32 +166,6 @@ Quand des parents financent la SCI par des avances en compte courant, la sociét
 ### Combien coûte une SCI familiale ?
 
 La création demande la rédaction de statuts, une annonce légale et une immatriculation. Ensuite, il faut tenir une comptabilité, réunir les associés au moins une fois par an et déposer une déclaration de résultats. Ces frais récurrents se justifient par un enjeu de gestion ou de transmission significatif.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [11:30](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=690s) Cumuler démembrement et SCI familiale
-- [12:27](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=747s) La valeur d'une société : actif moins dettes
-- [13:03](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=783s) Travailler les statuts pour garder le contrôle
-- [13:34](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=814s) Réendetter la SCI
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-Les passages clés :
-
-- [28:46](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1726s) L'avantage supplémentaire de la SCI
-- [29:19](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1759s) Un patrimoine de 2 M€ avec la moitié de l'emprunt restant
 
 ## Sources
 

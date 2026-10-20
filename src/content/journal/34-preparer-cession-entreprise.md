@@ -35,20 +35,11 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 1724, label: "Vendre en direct ou via une holding"}
-      - {t: 1780, label: "Des associés qui n'investissent pas de la même façon"}
-      - {t: 1809, label: "La trésorerie excédentaire face à l'acheteur"}
-      - {t: 1896, label: "Le pacte Dutreil"}
-      - {t: 2359, label: "La donation avant cession"}
   - id: kRNe9rGqKyA
     titre: "Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)"
     url: https://www.youtube.com/watch?v=kRNe9rGqKyA
     date_publication: 2025-05-01
     duree: PT25M0S
-    passages:
-      - {t: 780, label: "Accompagner la cession d'entreprise"}
-      - {t: 971, label: "Se préparer avant d'avoir le prix de cession entre les mains"}
 faq:
   - q: "Combien d'impôt paie-t-on en vendant son entreprise ?"
     r: "La plus-value de cession de titres détenus en direct est soumise au prélèvement forfaitaire unique de 31,4 % (12,8 % d'impôt et 18,6 % de prélèvements sociaux), auxquels s'ajoute la contribution exceptionnelle sur les hauts revenus de 3 à 4 % sur les gros montants. L'option pour le barème avec abattements reste possible pour des titres acquis avant 2018."
@@ -86,7 +77,7 @@ Exemple : un dirigeant célibataire, sans autres revenus, réalise une plus-valu
 | Contribution sur les hauts revenus (3 % de 250 000 €, 4 % de 4 500 000 €) | 187 500 € |
 | **Total** | **1 757 500 €, soit 35,2 %** |
 
-C'est la fourchette de 26 à 37 % qu'évoque Christophe Faglin [à 28:44 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1724s). Pour des titres acquis avant 2018, l'option pour le barème progressif avec abattements pour durée de détention peut être comparée. Un dirigeant de PME qui part à la retraite peut aussi bénéficier d'un abattement fixe de 500 000 € sous conditions (article 150-0 D ter du CGI).
+C'est la fourchette de 26 à 37 % qu'évoque Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, pour une cession réalisée sans préparation. Pour des titres acquis avant 2018, l'option pour le barème progressif avec abattements pour durée de détention peut être comparée. Un dirigeant de PME qui part à la retraite peut aussi bénéficier d'un abattement fixe de 500 000 € sous conditions (article 150-0 D ter du CGI).
 
 ## Levier n° 1 : l'apport à une holding, si vous n'avez pas besoin de tout le prix
 
@@ -104,23 +95,25 @@ Le calendrier est essentiel : l'apport doit précéder toute négociation avanc�
 
 La [donation avant cession](/journal/donation-avant-cession) est l'un des outils les plus puissants pour un dirigeant qui veut aussi transmettre. En donnant des titres avant la vente, vous transmettez à leur valeur de marché : le donataire reprend cette valeur comme prix de revient, et la plus-value accumulée sur ces titres n'est jamais imposée.
 
-Avec deux enfants et un abattement de 100 000 € par parent et par enfant, un couple peut transmettre 400 000 € de titres sans droits ni impôt de plus-value. Si les titres ont été créés pour presque rien, l'économie d'impôt de plus-value atteint 125 600 € (31,4 % de 400 000 €). En donnant la nue-propriété plutôt que la pleine propriété, avec le [démembrement](/journal/demembrement-propriete-donation-nue-propriete), la valeur transmise dans les abattements augmente encore. Christophe Faglin présente l'outil [à 39:19 dans la vidéo](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2359s).
+Avec deux enfants et un abattement de 100 000 € par parent et par enfant, un couple peut transmettre 400 000 € de titres sans droits ni impôt de plus-value. Si les titres ont été créés pour presque rien, l'économie d'impôt de plus-value atteint 125 600 € (31,4 % de 400 000 €). En donnant la nue-propriété plutôt que la pleine propriété, avec le [démembrement](/journal/demembrement-propriete-donation-nue-propriete), la valeur transmise dans les abattements augmente encore.
 
 Deux conditions de sécurité : la donation doit intervenir **avant tout accord ferme** sur la vente, et le prix doit revenir réellement au donataire. Sinon, l'administration peut invoquer l'abus de droit. La rédaction se fait avec un notaire ou un avocat fiscaliste.
 
-Si vous souhaitez transmettre l'entreprise plutôt que la vendre, l'outil est différent : c'est le [pacte Dutreil](/journal/pacte-dutreil-transmission-entreprise), dont les conditions ont elles aussi été durcies en 2026.
+Si vous souhaitez transmettre l'entreprise plutôt que la vendre, l'outil est différent : c'est le [pacte Dutreil](/journal/pacte-dutreil-transmission-entreprise), dont les conditions ont elles aussi été durcies en 2026. Rémi de Truchis de Varennes et Christophe Faglin comparent ces options, de la vente via une holding à la donation avant cession, dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 ## Levier n° 3 : la trésorerie et le régime matrimonial
 
-**La trésorerie excédentaire.** Un acheteur cherche une activité, pas du cash. Une société qui a accumulé beaucoup de liquidités peut compliquer la négociation et la valorisation. Il est souvent utile de fixer, avec l'acheteur, le niveau de trésorerie nécessaire au fonds de roulement, et de traiter le surplus en amont (explication [à 30:09 dans la vidéo](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1809s)). Les options sont détaillées dans notre article sur la [trésorerie excédentaire en société](/journal/placer-tresorerie-entreprise).
+**La trésorerie excédentaire.** Un acheteur cherche une activité, pas du cash. Une société qui a accumulé beaucoup de liquidités peut compliquer la négociation et la valorisation. Il est souvent utile de fixer, avec l'acheteur, le niveau de trésorerie nécessaire au fonds de roulement, et de traiter le surplus en amont. Les options sont détaillées dans notre article sur la [trésorerie excédentaire en société](/journal/placer-tresorerie-entreprise).
 
-**Les associés.** Quand plusieurs associés vendent, leurs projets diffèrent. Christophe Faglin cite deux associés ayant accumulé plus de 650 000 € de trésorerie, l'un prudent, l'autre non : une holding chacun leur a rendu leur liberté [(à 29:40 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1780s).
+**Les associés.** Quand plusieurs associés vendent, leurs projets diffèrent. Christophe Faglin cite deux associés ayant accumulé plus de 650 000 € de trésorerie, l'un prudent, l'autre non : une holding chacun leur a rendu leur liberté.
 
 **Le régime matrimonial.** Marié sous la communauté, le prix de cession est commun. Séparation de biens, société d'acquêts, clause de préciput : un changement de régime se prépare devant notaire et mérite d'être étudié avant que le prix n'entre dans le patrimoine.
 
 ## Le jour d'après : que faire du prix ?
 
-Le dirigeant qui vend passe d'un actif unique qu'il connaît parfaitement à un portefeuille de plusieurs millions qu'il doit apprendre à gérer. Rémi de Truchis de Varennes insiste sur ce point : mieux vaut s'éduquer et choisir ses partenaires avant d'avoir le prix de cession entre les mains, plutôt que le lendemain [(à 16:11 dans la vidéo sur la gestion des grandes fortunes)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=971s).
+Le dirigeant qui vend passe d'un actif unique qu'il connaît parfaitement à un portefeuille de plusieurs millions qu'il doit apprendre à gérer. Rémi de Truchis de Varennes insiste sur ce point : mieux vaut s'éduquer et choisir ses partenaires avant d'avoir le prix de cession entre les mains, plutôt que le lendemain. Il développe cette idée dans [Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA), consacrée à la façon dont les grandes fortunes organisent la gestion de leur patrimoine.
 
 Les principes de l'[allocation des grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes) s'appliquent : diversification réelle, poche de [private equity](/journal/private-equity-particulier) pour réinvestir dans l'économie (et, dans une holding d'apport-cession, pour respecter le quota de remploi), liquidités calibrées sur vos projets. Notre article [Investir 1 million d'euros](/journal/investir-1-million-euros) détaille par où commencer.
 
@@ -158,33 +151,6 @@ Idéalement trois ans. Ce délai permet de créer et faire vivre une holding, d'
 ### La donation avant cession permet-elle d'éviter l'impôt sur la plus-value ?
 
 Oui, sur les titres donnés : le donataire les reçoit à leur valeur au jour de la donation, qui devient son prix de revient, et la plus-value antérieure disparaît. La donation doit être réelle, faite avant tout engagement ferme de vente, et le donataire doit pouvoir disposer du prix.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [28:44](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1724s) Vendre en direct ou via une holding
-- [29:40](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1780s) Des associés qui n'investissent pas de la même façon
-- [30:09](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1809s) La trésorerie excédentaire face à l'acheteur
-- [31:36](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1896s) Le pacte Dutreil
-- [39:19](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2359s) La donation avant cession
-
-### Les vrais riches et les banques privées
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1er mai 2025 (25 min).
-
-Les passages clés :
-
-- [13:00](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=780s) Accompagner la cession d'entreprise
-- [16:11](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=971s) Se préparer avant d'avoir le prix de cession entre les mains
 
 ## Sources
 

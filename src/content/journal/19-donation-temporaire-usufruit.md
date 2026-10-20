@@ -30,9 +30,6 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 359, label: "L'usufruit : l'usage et les fruits"}
-      - {t: 2390, label: "Les donations d'usufruit temporaire"}
 faq:
   - q: "Qu'est-ce qu'une donation temporaire d'usufruit ?"
     r: "C'est une donation, faite devant notaire, par laquelle le propriétaire d'un bien en transmet l'usufruit, c'est-à-dire l'usage ou les revenus, pour une durée déterminée. Au terme, il retrouve la pleine propriété sans formalité ni droits."
@@ -58,13 +55,13 @@ sources:
 
 > **L'essentiel.** La donation temporaire d'usufruit consiste à donner, pour une durée fixe, le droit d'utiliser un bien ou d'en percevoir les revenus, puis à en retrouver automatiquement la pleine propriété au terme, sans droits. L'usufruit temporaire est évalué à 23 % de la valeur du bien par période de dix ans. Elle sert surtout à transférer des loyers à un enfant moins imposé, ou à une fondation, et à sortir le bien de l'IFI du donateur pendant la durée de la donation.
 
-Certains patrimoines produisent des revenus dont leur propriétaire n'a pas besoin, et sur lesquels il paie l'impôt au taux le plus élevé. Au même moment, un enfant fait des études ou démarre dans la vie active, avec des revenus faibles. La donation temporaire d'usufruit permet de déplacer ces revenus pendant quelques années, sans se dessaisir du bien. Christophe Faglin la cite parmi les outils complémentaires de transmission [à 39:50 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2390s).
+Certains patrimoines produisent des revenus dont leur propriétaire n'a pas besoin, et sur lesquels il paie l'impôt au taux le plus élevé. Au même moment, un enfant fait des études ou démarre dans la vie active, avec des revenus faibles. La donation temporaire d'usufruit permet de déplacer ces revenus pendant quelques années, sans se dessaisir du bien.
 
 ## Qu'est-ce que la donation temporaire d'usufruit ?
 
 La donation temporaire d'usufruit est un **acte notarié par lequel le propriétaire d'un bien en donne l'usufruit pour une durée déterminée**, à l'issue de laquelle il retrouve la pleine propriété.
 
-Rappelons que l'usufruit est le droit d'utiliser un bien ou d'en percevoir les fruits, comme les loyers ou les dividendes (définition reprise [à 5:59 dans la vidéo](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=359s)). Dans le [démembrement classique](/journal/demembrement-propriete-donation-nue-propriete), on donne la nue-propriété et l'on garde l'usufruit jusqu'à son décès. Ici, c'est l'inverse, et pour un temps seulement : le donateur garde la nue-propriété, et l'usufruit lui revient au terme convenu.
+Rappelons que l'usufruit est le droit d'utiliser un bien ou d'en percevoir les fruits, comme les loyers ou les dividendes. Dans le [démembrement classique](/journal/demembrement-propriete-donation-nue-propriete), on donne la nue-propriété et l'on garde l'usufruit jusqu'à son décès. Ici, c'est l'inverse, et pour un temps seulement : le donateur garde la nue-propriété, et l'usufruit lui revient au terme convenu.
 
 Deux règles civiles à connaître : l'usufruit d'une personne physique s'éteint de toute façon à son décès, même avant le terme prévu ; et l'usufruit consenti à une personne morale ne peut dépasser trente ans.
 
@@ -118,7 +115,11 @@ L'outil fonctionne aussi vers la génération précédente. Plutôt que de verse
 3. **Le dépouillement doit être réel.** Si les loyers reviennent aux parents, sous quelque forme que ce soit, l'avantage fiscal est menacé.
 4. **Les biens détenus en société.** On peut donner l'usufruit temporaire de parts de [SCI familiale](/journal/sci-familiale-transmission) ; les statuts doivent alors organiser les droits de vote entre usufruitier et nu-propriétaire.
 
-La donation temporaire d'usufruit est rarement la première brique d'une stratégie. Elle intervient en complément, quand des revenus excédentaires et un enfant ou un petit-enfant aux besoins réels coexistent. Pour les petits-enfants, voir notre article [transmettre à ses petits-enfants](/journal/transmettre-petits-enfants).
+La donation temporaire d'usufruit est rarement la première brique d'une stratégie. Elle intervient en complément, quand des revenus excédentaires et un enfant ou un petit-enfant aux besoins réels coexistent. C'est d'ailleurs parmi les outils complémentaires de transmission que la range Christophe Faglin, cofondateur de PLT Family Office, dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
+
+Pour les petits-enfants, voir notre article [transmettre à ses petits-enfants](/journal/transmettre-petits-enfants).
 
 ## En résumé
 
@@ -144,17 +145,6 @@ En règle générale, l'IFI est dû par l'usufruitier sur la pleine valeur du bi
 ### Quels sont les risques d'une donation temporaire d'usufruit à un enfant ?
 
 L'administration peut invoquer l'abus de droit si la donation n'a pas de réalité, par exemple si les loyers reviennent aux parents. La donation consomme aussi une partie de l'abattement de 100 000 € pendant 15 ans, ce qui peut limiter d'autres donations.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 sur la chaîne Parlons Long Terme (48 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [5:59](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=359s) L'usufruit : l'usage et les fruits
-- [39:50](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2390s) Les donations d'usufruit temporaire
 
 ## Sources
 

@@ -34,21 +34,11 @@ videos:
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 482, label: "Small caps diversifiées géographiquement et sectoriellement"}
-      - {t: 912, label: "Un portefeuille à plus de 80 % en small caps"}
-      - {t: 944, label: "Les classes d'actifs les plus rentables historiquement"}
-      - {t: 1402, label: "PEA ou compte-titres pour les small caps"}
-      - {t: 1426, label: "31,4 % à chaque vente sur un compte-titres"}
-      - {t: 1451, label: "Pas de small caps asiatiques dans un PEA"}
-      - {t: 2049, label: "Des pépites en Europe, au-delà du biais français"}
   - id: z-pAIMtxv1w
     titre: "Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient"
     url: https://www.youtube.com/watch?v=z-pAIMtxv1w
     date_publication: 2025-08-30
     duree: PT38M49S
-    passages:
-      - {t: 1181, label: "Des small caps en contrat luxembourgeois, sans fiscalité sur les arbitrages"}
 faq:
   - q: "Qu'est-ce qu'une small cap ?"
     r: "C'est une entreprise cotée en bourse dont la capitalisation, c'est-à-dire la valeur totale de ses actions, est faible par rapport aux grandes valeurs de son marché. Il n'existe pas de seuil officiel unique ; en Europe, on parle souvent de sociétés valant moins de 1 à 2 milliards d'euros."
@@ -90,7 +80,7 @@ On distingue souvent les **small caps value**, des entreprises rentables qui se 
 
 **4. Elles sont des cibles.** Une petite entreprise bien gérée et peu chère attire les acquéreurs industriels et les fonds de private equity, qui paient généralement une prime pour en prendre le contrôle.
 
-Christophe Faglin le résume en commentant mon patrimoine, composé de small caps cotées et de participations dans des sociétés non cotées : ce sont historiquement les deux classes d'actifs les plus rentables, dans un portefeuille « dynamique », ce qui fonctionne le mieux sur le long terme [(à 15:44 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=944s).
+Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, le résume en commentant mon patrimoine, composé de small caps cotées et de participations dans des sociétés non cotées : ce sont historiquement les deux classes d'actifs les plus rentables, dans un portefeuille « dynamique », ce qui fonctionne le mieux sur le long terme.
 
 ## Quels sont les risques ?
 
@@ -102,19 +92,21 @@ Christophe Faglin le résume en commentant mon patrimoine, composé de small cap
 | Information | Moins de couverture, communication financière parfois plus succincte |
 | Devise | Les meilleures occasions sont souvent hors zone euro |
 
-Ces risques imposent trois règles : **diversifier** entre plusieurs dizaines de sociétés, plusieurs pays et plusieurs secteurs, comme je le défends dans mon livre consacré aux small caps [(à 8:02 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=482s) ; **garder un horizon long**, d'au moins cinq à dix ans ; et **dimensionner la poche** selon votre tolérance aux baisses. Pour le risque de change, voir notre article sur [la diversification en devises](/journal/diversification-devises-risque-change).
+Ces risques imposent trois règles : **diversifier** entre plusieurs dizaines de sociétés, plusieurs pays et plusieurs secteurs, comme je le défends dans mon livre consacré aux small caps ; **garder un horizon long**, d'au moins cinq à dix ans ; et **dimensionner la poche** selon votre tolérance aux baisses. Pour le risque de change, voir notre article sur [la diversification en devises](/journal/diversification-devises-risque-change).
 
 ## Quelle part leur donner ?
 
-Il n'existe pas de bonne réponse universelle. Mon propre portefeuille liquide est investi à plus de 80 % en small caps, dont une part importante en Asie [(à 15:12 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=912s). C'est un choix assumé d'investisseur de long terme, qui accepte de fortes variations ; ce n'est pas un modèle à copier.
+Il n'existe pas de bonne réponse universelle. Mon propre portefeuille liquide est investi à plus de 80 % en small caps, dont une part importante en Asie. C'est un choix assumé d'investisseur de long terme, qui accepte de fortes variations ; ce n'est pas un modèle à copier. J'en détaille les raisons, et la manière dont il s'inscrit dans une allocation complète, dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk), un échange avec Christophe Faglin sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
 
 Pour la plupart des patrimoines, les small caps trouvent leur place comme un satellite de la poche actions, aux côtés d'un cœur plus large. Leur poids dépend de votre horizon, de vos besoins de revenus et de la place des autres classes d'actifs, que nous détaillons dans [comment investissent les grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes).
 
-Un piège fréquent est le **biais domestique** : des PEA remplis d'actions françaises, alors que l'Europe regorge de pépites méconnues [(à 34:09 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2049s).
+Un piège fréquent est le **biais domestique** : des PEA remplis d'actions françaises, alors que l'Europe regorge de pépites méconnues.
 
 ## Comment les détenir ?
 
-Le choix de l'enveloppe détermine une grande partie du rendement net [(à 23:22 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1402s).
+Le choix de l'enveloppe détermine une grande partie du rendement net.
 
 | Enveloppe | Small caps accessibles | Fiscalité des gains | Plafond |
 |---|---|---|---|
@@ -123,11 +115,11 @@ Le choix de l'enveloppe détermine une grande partie du rendement net [(à 23:22
 | Compte-titres | Toutes, y compris Asie et États-Unis | 31,4 % à chaque plus-value et chaque dividende | Aucun |
 | Contrat luxembourgeois | Toutes, en titres vifs | Aucune sur les arbitrages ; fiscalité de l'assurance-vie aux retraits | Aucun |
 
-**Le PEA gagne le match fiscal** pour les small caps européennes : pas d'impôt sur les arbitrages ni sur les dividendes tant que l'on ne retire rien. Sur un compte-titres, l'État prélève 31,4 % à chaque vente gagnante et chaque dividende [(à 23:46 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1426s). Exemple : une plus-value de 10 000 € coûte 3 140 € sur un compte-titres, contre 1 860 € de prélèvements sociaux lors d'un retrait d'un PEA de plus de cinq ans.
+**Le PEA gagne le match fiscal** pour les small caps européennes : pas d'impôt sur les arbitrages ni sur les dividendes tant que l'on ne retire rien. Sur un compte-titres, l'État prélève 31,4 % à chaque vente gagnante et chaque dividende. Exemple : une plus-value de 10 000 € coûte 3 140 € sur un compte-titres, contre 1 860 € de prélèvements sociaux lors d'un retrait d'un PEA de plus de cinq ans.
 
-**Mais le PEA s'arrête aux frontières européennes.** Une small cap asiatique ou américaine ne peut pas y entrer [(à 24:11 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1451s). Pour ces marchés, le compte-titres reste possible, avec ses avantages en matière de succession que rappelle notre article sur [le compte-titres et le PEA au décès](/journal/compte-titres-pea-succession).
+**Mais le PEA s'arrête aux frontières européennes.** Une small cap asiatique ou américaine ne peut pas y entrer. Pour ces marchés, le compte-titres reste possible, avec ses avantages en matière de succession que rappelle notre article sur [le compte-titres et le PEA au décès](/journal/compte-titres-pea-succession).
 
-**Le contrat luxembourgeois** accepte les titres en direct, y compris des small caps du monde entier, et les arbitrages n'y sont pas imposés [(à 19:41 dans la vidéo sur l'assurance-vie luxembourgeoise)](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1181s). Le portefeuille peut en outre servir de garantie à un [crédit lombard](/journal/credit-lombard). Voir notre article sur [l'assurance-vie luxembourgeoise](/journal/assurance-vie-luxembourgeoise).
+**Le contrat luxembourgeois** accepte les titres en direct, y compris des small caps du monde entier, et les arbitrages n'y sont pas imposés, un atout présenté dans [Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w). Le portefeuille peut en outre servir de garantie à un [crédit lombard](/journal/credit-lombard). Voir notre article sur [l'assurance-vie luxembourgeoise](/journal/assurance-vie-luxembourgeoise).
 
 ## Fonds, ETF ou titres en direct ?
 
@@ -158,24 +150,6 @@ Oui, à condition qu'elles aient leur siège dans l'Union européenne ou l'Espac
 ### Comment investir dans des small caps asiatiques ou américaines ?
 
 Elles ne sont pas éligibles au PEA. On les détient sur un compte-titres, où chaque plus-value et chaque dividende sont imposés à 31,4 % en 2026, ou dans un contrat d'assurance-vie luxembourgeois qui accepte les titres en direct, sans fiscalité sur les arbitrages tant que l'on ne retire rien.
-
-## La vidéo de référence
-
-Cet article s'appuie principalement sur la vidéo **[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 sur la chaîne Parlons Long Terme (40 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
-
-Les passages clés :
-
-- [8:02](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=482s) Small caps diversifiées géographiquement et sectoriellement
-- [15:12](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=912s) Un portefeuille à plus de 80 % en small caps
-- [15:44](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=944s) Les classes d'actifs les plus rentables historiquement
-- [23:22](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1402s) PEA ou compte-titres pour les small caps
-- [23:46](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1426s) 31,4 % à chaque vente sur un compte-titres
-- [24:11](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1451s) Pas de small caps asiatiques dans un PEA
-- [34:09](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2049s) Des pépites en Europe, au-delà du biais français
-
-Sur les small caps logées dans un contrat luxembourgeois : **[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min), passage [19:41](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1181s).
 
 ## Sources
 

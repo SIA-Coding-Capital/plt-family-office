@@ -34,19 +34,11 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 1847, label: "L'OBO, une autre façon de transmettre son entreprise"}
-      - {t: 1889, label: "Qu'est-ce que le pacte Dutreil ?"}
-      - {t: 1903, label: "Une décote de 75 % sous conditions"}
   - id: dJ9yXONnr5M
     titre: "Comment Éviter 400 000 € de Frais de Succession en Toute Légalité"
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 1898, label: "Quand un enfant reprend l'entreprise"}
-      - {t: 1991, label: "Pacte Dutreil et holding familiale"}
-      - {t: 2004, label: "Les trois blocs : personnel, immobilier, entreprise"}
 faq:
   - q: "Qu'est-ce que le pacte Dutreil ?"
     r: "C'est un régime fiscal qui exonère de droits 75 % de la valeur des titres d'une société opérationnelle, ou d'une entreprise individuelle, transmis par donation ou succession. En contrepartie, les titres doivent être conservés pendant plusieurs années et l'un des signataires ou des bénéficiaires doit diriger l'entreprise."
@@ -71,7 +63,9 @@ sources:
 
 > **L'essentiel.** Le pacte Dutreil exonère de droits de donation ou de succession 75 % de la valeur des titres d'une entreprise opérationnelle transmise, à condition d'un engagement collectif de conservation de 2 ans, d'un engagement individuel des héritiers ou donataires (6 ans depuis le 21 février 2026) et de l'exercice d'une fonction de direction. Depuis 2026, les actifs de confort détenus par la société (logements, yachts, objets d'art) sont exclus de l'avantage.
 
-Pour un chef d'entreprise, la société est souvent l'essentiel du patrimoine. C'est aussi un actif illiquide : si les enfants doivent payer 45 % de droits sur sa valeur, ils n'ont parfois pas d'autre choix que de la vendre. Le pacte Dutreil a été créé précisément pour éviter cela. Christophe Faglin le qualifie d'outil « incontournable » [à 31:29 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1889s).
+Pour un chef d'entreprise, la société est souvent l'essentiel du patrimoine. C'est aussi un actif illiquide : si les enfants doivent payer 45 % de droits sur sa valeur, ils n'ont parfois pas d'autre choix que de la vendre. Le pacte Dutreil a été créé précisément pour éviter cela. Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, le qualifie d'outil « incontournable ». Il le replace parmi les autres leviers de transmission dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), un entretien avec Rémi de Truchis de Varennes sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 ## Qu'est-ce que le pacte Dutreil ?
 
@@ -85,7 +79,7 @@ Le pacte vise les sociétés qui exercent une activité **industrielle, commerci
 
 Sont exclues les sociétés dont l'activité principale est patrimoniale : location nue d'immeubles, gestion d'un portefeuille de valeurs mobilières. Une [SCI](/journal/sci-familiale-transmission) qui loue des bureaux n'est pas éligible, même si elle appartient à un chef d'entreprise.
 
-Le cas des holdings est le plus délicat. Christophe Faglin le souligne [à 33:11 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1991s) : c'est un dossier qui s'étudie au cas par cas. Une holding qui se contente de détenir des participations n'ouvre droit à l'avantage que sur une partie de sa valeur, dans des conditions strictes. Notre article sur la [holding patrimoniale](/journal/holding-patrimoniale-quand-la-creer) détaille les autres usages de ces structures.
+Le cas des holdings est le plus délicat : c'est un dossier qui s'étudie au cas par cas. Une holding qui se contente de détenir des participations n'ouvre droit à l'avantage que sur une partie de sa valeur, dans des conditions strictes. Notre article sur la [holding patrimoniale](/journal/holding-patrimoniale-quand-la-creer) détaille les autres usages de ces structures.
 
 ## Quelles sont les conditions à respecter ?
 
@@ -137,7 +131,7 @@ Certaines opérations restent possibles sans rompre le pacte : une transmission 
 
 Le pacte Dutreil sert à **transmettre une entreprise qui reste dans la famille**. Il est incompatible avec une vente à court terme : avec au moins huit ans de conservation, une cession rapide ferait perdre tout l'avantage.
 
-Si votre projet est de vendre, d'autres outils prennent le relais. La [donation avant cession](/journal/donation-avant-cession) permet de purger la plus-value sur les titres donnés, et la [préparation patrimoniale d'une cession](/journal/preparer-cession-entreprise) se pense idéalement trois ans à l'avance. Christophe Faglin résume ces réflexes en trois blocs (personnel, immobilier, entreprise) [à 33:24 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=2004s).
+Si votre projet est de vendre, d'autres outils prennent le relais. La [donation avant cession](/journal/donation-avant-cession) permet de purger la plus-value sur les titres donnés, et la [préparation patrimoniale d'une cession](/journal/preparer-cession-entreprise) se pense idéalement trois ans à l'avance. Christophe Faglin passe en revue ces réflexes, organisés en trois blocs (personnel, immobilier, entreprise), dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M).
 
 ## En résumé
 
@@ -164,32 +158,6 @@ Oui pour une holding animatrice, qui participe activement à la conduite de ses 
 ### Que se passe-t-il si l'on ne respecte pas l'engagement de conservation ?
 
 L'exonération est remise en cause : les droits économisés deviennent exigibles, avec des intérêts de retard. Certaines opérations, comme la transmission à un autre signataire de l'engagement ou l'apport à une holding sous conditions, ne rompent pas le pacte.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [30:47](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1847s) L'OBO, une autre façon de transmettre son entreprise
-- [31:29](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1889s) Qu'est-ce que le pacte Dutreil ?
-- [31:43](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1903s) Une décote de 75 % sous conditions
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-Les passages clés :
-
-- [31:38](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1898s) Quand un enfant reprend l'entreprise
-- [33:11](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1991s) Pacte Dutreil et holding familiale
-- [33:24](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=2004s) Les trois blocs : personnel, immobilier, entreprise
 
 ## Sources
 

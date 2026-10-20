@@ -14,7 +14,6 @@ intention: informationnelle
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
-  - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 800 mots
 ordre_publication: 14
 date_mise_a_jour: 2026-10-20
@@ -31,18 +30,6 @@ videos:
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 102, label: "Le coût d'une succession non préparée"}
-      - {t: 152, label: "Couple pacsé : le partenaire n'hérite pas"}
-      - {t: 251, label: "Couple marié sans enfant : la part des beaux-parents"}
-      - {t: 859, label: "Frères, sœurs et neveux : jusqu'à 55 %"}
-  - id: V8qZaCLBKX0
-    titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
-    url: https://www.youtube.com/watch?v=V8qZaCLBKX0
-    date_publication: 2026-03-18
-    duree: PT47M41S
-    passages:
-      - {t: 201, label: "La dévolution légale"}
 faq:
   - q: "Un partenaire de Pacs hérite-t-il sans testament ?"
     r: "Non. Le Pacs ne fait pas du partenaire un héritier. Seul un testament lui permet de recevoir, et il est alors exonéré de droits de succession."
@@ -72,7 +59,7 @@ On parle beaucoup du coût d'une succession. On parle beaucoup moins d'une quest
 
 Mathieu et Delphine sont pacsés. Ils ont acheté ensemble un appartement locatif et constitué un portefeuille d'actions. Mathieu décède.
 
-Sans testament, **Delphine n'hérite de rien** de la part de Mathieu. Le Pacs ne fait pas du partenaire un héritier. La part de Mathieu revient à ses enfants s'il en a, sinon à ses parents, ses frères et sœurs, ou à défaut à des parents plus éloignés. L'exemple est détaillé [à 2:32 dans la vidéo](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=152s).
+Sans testament, **Delphine n'hérite de rien** de la part de Mathieu. Le Pacs ne fait pas du partenaire un héritier. La part de Mathieu revient à ses enfants s'il en a, sinon à ses parents, ses frères et sœurs, ou à défaut à des parents plus éloignés.
 
 La solution est pourtant simple : **un testament**. Le partenaire de Pacs institué légataire est, comme l'époux, exonéré de droits de succession.
 
@@ -80,11 +67,15 @@ La solution est pourtant simple : **un testament**. Le partenaire de Pacs instit
 
 Changeons le scénario. Mathieu et Delphine sont mariés, sans enfant. Mathieu a encore ses deux parents, un frère et une sœur. Il décède.
 
-Intuitivement, on pense que tout revient à Delphine. Ce n'est pas le cas. Quand le défunt n'a pas d'enfant, **chacun de ses parents reçoit un quart** de la succession. Delphine ne reçoit que ce qui reste : la moitié [(à 4:11 dans la vidéo)](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=251s).
+Intuitivement, on pense que tout revient à Delphine. Ce n'est pas le cas. Quand le défunt n'a pas d'enfant, **chacun de ses parents reçoit un quart** de la succession. Delphine ne reçoit que ce qui reste : la moitié.
 
 Beaucoup de couples se disent « nous avons acheté notre résidence principale, nous avons de l'épargne, l'autre sera protégé ». Si une partie du patrimoine part aux beaux-parents, le conjoint survivant peut se retrouver en indivision avec eux, sur sa propre maison ou sur les parts d'une société créée à deux.
 
 Là encore, un testament ou une donation entre époux permet de corriger la situation. Sans enfant, la loi vous autorise à **protéger votre conjoint à 100 %**.
+
+Ces deux scénarios, le couple pacsé et le couple marié sans enfant, ouvrent l'entretien de Rémi de Truchis de Varennes et Christophe Faglin [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M), à retrouver sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
 
 ## Ce que la loi vous laisse libre de décider
 
@@ -108,7 +99,7 @@ Choisir ses héritiers, c'est aussi mesurer la facture. Entre époux ou partenai
 - **neveux et nièces** : abattement de 7 967 €, puis **55 %** ;
 - **au-delà du 4e degré ou sans lien de parenté** : **60 %**.
 
-Une personne sans enfant qui laisse un million d'euros à son frère lui fait payer plus de 400 000 € de droits [(chiffre cité à 1:51)](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=111s). L'assurance-vie, qui ignore le lien de parenté pour les versements avant 70 ans, change radicalement l'équation : voir notre article [assurance-vie et succession](/journal/assurance-vie-succession-clause-beneficiaire).
+Une personne sans enfant qui laisse un million d'euros à son frère lui fait payer plus de 400 000 € de droits. L'assurance-vie, qui ignore le lien de parenté pour les versements avant 70 ans, change radicalement l'équation : voir notre article [assurance-vie et succession](/journal/assurance-vie-succession-clause-beneficiaire).
 
 ## Les moments où il faut se poser la question
 
@@ -154,31 +145,6 @@ C'est la part du patrimoine dont on peut disposer librement : la moitié avec un
 ### Combien paie un neveu sur un héritage ?
 
 Après un abattement de 7 967 €, un neveu ou une nièce paie 55 % de droits de succession, hors assurance-vie.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-<!-- Lecteur YouTube à intégrer ici : dJ9yXONnr5M -->
-
-Les passages clés :
-
-- [1:42](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=102s) Le coût d'une succession non préparée
-- [2:32](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=152s) Couple pacsé : le partenaire n'hérite pas
-- [4:11](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=251s) Couple marié sans enfant : la part des beaux-parents
-- [14:19](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=859s) Frères, sœurs et neveux : jusqu'à 55 %
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [3:21](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=201s) La dévolution légale
 
 ## Sources
 

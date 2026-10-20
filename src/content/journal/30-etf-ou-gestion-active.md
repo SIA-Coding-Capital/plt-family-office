@@ -34,20 +34,11 @@ videos:
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 205, label: "MSCI World et S&P 500 : une fausse diversification"}
-      - {t: 1705, label: "Dix entreprises pour la moitié du S&P 500"}
-      - {t: 1780, label: "Les ETF ont la cote, mais pas seulement américains"}
-      - {t: 1802, label: "Plus d'ETF, plus d'anomalies pour la gestion active"}
   - id: kRNe9rGqKyA
     titre: "Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)"
     url: https://www.youtube.com/watch?v=kRNe9rGqKyA
     date_publication: 2025-05-01
     duree: PT25M00S
-    passages:
-      - {t: 423, label: "Pourquoi payer un fonds qui fait moins bien que son indice ?"}
-      - {t: 429, label: "Les études SPIVA"}
-      - {t: 440, label: "ETF et meilleurs fonds actifs"}
 faq:
   - q: "Quelle est la différence entre un ETF et un fonds actif ?"
     r: "Un ETF, ou fonds indiciel coté, reproduit mécaniquement un indice comme le MSCI World, pour des frais faibles. Un fonds actif est géré par une équipe qui sélectionne des titres pour tenter de battre son indice de référence, avec des frais plus élevés."
@@ -90,9 +81,9 @@ Un fonds en gestion active est géré par une équipe qui sélectionne des titre
 
 Les études SPIVA, publiées par S&P Dow Jones Indices, comparent chaque semestre les fonds actifs à leurs indices de référence. Leur conclusion est constante : sur longue période, la grande majorité des fonds actions actifs fait moins bien que son indice. Selon le rapport SPIVA Europe de fin 2025, environ 82 % des fonds actions actifs ont fait moins bien que leur indice sur un an, et 97 % sur dix ans.
 
-Christophe Faglin cite ces études : « 90 % des fonds font moins bien que les grands indices » quand ils cherchent à les battre [(à 7:09 dans la vidéo sur les banques privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=429s). D'où sa question : pour une poche d'actions internationales, pourquoi payer un fonds qui fait globalement moins bien que le MSCI World [(à 7:03)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=423s) ?
+Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, cite ces études : « 90 % des fonds font moins bien que les grands indices » quand ils cherchent à les battre. D'où sa question : pour une poche d'actions internationales, pourquoi payer un fonds qui fait globalement moins bien que le MSCI World ?
 
-Deux nuances s'imposent. D'abord, SPIVA est publié par un fournisseur d'indices, qui a intérêt à la gestion indicielle, comme Christophe Faglin le relève en souriant [(à 29:40 dans la vidéo sur l'allocation)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1780s). Ensuite, ces chiffres sont des moyennes : ils disent qu'il est difficile de choisir un bon fonds actif, pas que c'est impossible.
+Deux nuances s'imposent. D'abord, SPIVA est publié par un fournisseur d'indices, qui a intérêt à la gestion indicielle. Ensuite, ces chiffres sont des moyennes : ils disent qu'il est difficile de choisir un bon fonds actif, pas que c'est impossible.
 
 ## Pourquoi la plupart des fonds actifs échouent-ils ?
 
@@ -111,11 +102,15 @@ Les frais suffisent à creuser l'écart. Exemple : 200 000 € placés 20 ans su
 
 L'ETF n'élimine pas le risque : il achète l'indice tel qu'il est, avec ses déséquilibres.
 
-**La concentration.** Une dizaine d'entreprises pèsent près de la moitié du S&P 500, et la technologie environ la moitié de l'indice [(à 28:25 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1705s). Acheter l'indice, c'est acheter cette concentration.
+**La concentration.** Une dizaine d'entreprises pèsent près de la moitié du S&P 500, et la technologie environ la moitié de l'indice. Acheter l'indice, c'est acheter cette concentration.
 
-**La fausse diversification.** Environ 70 % du MSCI World est constitué d'actions américaines : détenir un ETF Monde et un ETF S&P 500, c'est détenir deux fois les mêmes entreprises [(à 3:25 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=205s). Et donc, largement, le dollar, sujet de notre article sur [le risque de change](/journal/diversification-devises-risque-change).
+**La fausse diversification.** Environ 70 % du MSCI World est constitué d'actions américaines : détenir un ETF Monde et un ETF S&P 500, c'est détenir deux fois les mêmes entreprises. Et donc, largement, le dollar, sujet de notre article sur [le risque de change](/journal/diversification-devises-risque-change).
 
-**L'effet de masse.** Christophe Faglin le résume : les ETF sont incontournables et permettent de réduire les coûts, mais plus les investisseurs s'y concentrent, plus il y a d'anomalies de marché, d'excès, et donc de place pour la gestion active [(à 30:02 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1802s).
+**L'effet de masse.** Christophe Faglin le résume : les ETF sont incontournables et permettent de réduire les coûts, mais plus les investisseurs s'y concentrent, plus il y a d'anomalies de marché, d'excès, et donc de place pour la gestion active.
+
+Ces limites des grands indices, et la place à donner aux ETF dans un patrimoine important, sont discutées par Rémi de Truchis de Varennes et Christophe Faglin dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
 
 ## Où la gestion active garde-t-elle un avantage ?
 
@@ -126,7 +121,7 @@ Là où l'information circule moins vite et où les indices sont mal construits 
 - **les obligations**, où la sélection des émetteurs et la gestion de la durée comptent ; SPIVA montre d'ailleurs que les fonds obligataires sous-performent moins souvent que les fonds actions ;
 - **les classes d'actifs sans indice investissable** : le [private equity](/journal/private-equity-particulier) et la [gestion alternative](/journal/gestion-alternative-hedge-funds), où la sélection du gérant est tout.
 
-Dans ces segments, l'écart entre les meilleurs et les moins bons est considérable. L'enjeu devient de sélectionner les quelque 10 % de fonds qui font mieux que leur marché [(à 7:20 dans la vidéo sur les banques privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=440s). La méthode pour les repérer est détaillée dans notre article [vérifier la qualité de ses fonds](/journal/verifier-qualite-fonds-quantalys-morningstar).
+Dans ces segments, l'écart entre les meilleurs et les moins bons est considérable. L'enjeu devient de sélectionner les quelque 10 % de fonds qui font mieux que leur marché, un point développé dans [Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA). La méthode pour les repérer est détaillée dans notre article [vérifier la qualité de ses fonds](/journal/verifier-qualite-fonds-quantalys-morningstar).
 
 ## Comment combiner les deux ?
 
@@ -162,29 +157,6 @@ Oui. De nombreux ETF sont éligibles au PEA, y compris sur des indices mondiaux 
 ### Faut-il être 100 % en ETF ?
 
 Pas nécessairement. Une approche répandue consiste à utiliser des ETF pour le cœur du portefeuille, sur les grands indices, et des fonds actifs sélectionnés ou des titres en direct pour les segments où la gestion active a fait ses preuves.
-
-## La vidéo de référence
-
-Cet article s'appuie sur deux vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Allocation 2026
-
-**[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 (40 min).
-
-<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
-
-- [3:25](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=205s) MSCI World et S&P 500 : une fausse diversification
-- [28:25](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1705s) Dix entreprises pour la moitié du S&P 500
-- [29:40](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1780s) Les ETF ont la cote, mais pas seulement américains
-- [30:02](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1802s) Plus d'ETF, plus d'anomalies pour la gestion active
-
-### Les vrais riches et les banques privées
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1er mai 2025 (25 min).
-
-- [7:03](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=423s) Pourquoi payer un fonds qui fait moins bien que son indice ?
-- [7:09](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=429s) Les études SPIVA
-- [7:20](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=440s) ETF et meilleurs fonds actifs
 
 ## Sources
 

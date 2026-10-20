@@ -33,16 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 315, label: "31 865 €, deux fois par grand-parent et par petit-enfant"}
-      - {t: 2762, label: "Des fonds indisponibles avant 25 ans"}
   - id: dJ9yXONnr5M
     titre: "Comment Éviter 400 000 € de Frais de Succession en Toute Légalité"
     url: https://www.youtube.com/watch?v=dJ9yXONnr5M
     date_publication: 2025-03-21
     duree: PT44M36S
-    passages:
-      - {t: 1091, label: "Le saut de génération en assurance-vie"}
 faq:
   - q: "Combien un grand-parent peut-il donner à un petit-enfant sans droits ?"
     r: "31 865 € tous les 15 ans, quel que soit le bien donné, plus 31 865 € en argent si le grand-parent a moins de 80 ans et que le petit-enfant est majeur. Un couple de grands-parents peut donc transmettre 127 460 € par petit-enfant tous les 15 ans."
@@ -86,7 +81,7 @@ L'intérêt est double. Fiscalement, chaque petit-enfant dispose de ses propres 
 | Don familial de sommes d'argent | 31 865 € tous les 15 ans | Grand-parent de moins de 80 ans, petit-enfant majeur |
 | Don pour un logement (temporaire) | 100 000 € | Logement neuf ou rénovation énergétique, dons jusqu'au 31 décembre 2026 |
 
-Christophe Faglin rappelle ces montants [à 5:15 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=315s). Concrètement, un couple de grands-parents ayant trois petits-enfants majeurs peut leur transmettre **382 380 €** sans droits (2 × 3 × 63 730 €), et recommencer 15 ans plus tard. Au-delà, le [barème en ligne directe](/journal/bareme-droits-succession-2026) s'applique, comme pour un enfant. Le détail de ces abattements et du rappel fiscal est présenté dans notre article sur [la règle des 15 ans](/journal/abattement-donation-15-ans).
+Concrètement, un couple de grands-parents ayant trois petits-enfants majeurs peut leur transmettre **382 380 €** sans droits (2 × 3 × 63 730 €), et recommencer 15 ans plus tard. Au-delà, le [barème en ligne directe](/journal/bareme-droits-succession-2026) s'applique, comme pour un enfant. Le détail de ces abattements et du rappel fiscal est présenté dans notre article sur [la règle des 15 ans](/journal/abattement-donation-15-ans).
 
 ## Le don pour un logement : une fenêtre qui se referme
 
@@ -111,7 +106,7 @@ Fiscalement, les droits sont calculés selon le lien entre le grand-parent et le
 
 L'assurance-vie ignore le lien de parenté : un petit-enfant bénéficiaire reçoit, comme un enfant, **152 500 € sans droits** pour les primes versées avant 70 ans ([le régime complet est détaillé ici](/journal/assurance-vie-succession-clause-beneficiaire)).
 
-Christophe Faglin chiffre cet effet de saut de génération [à 18:11 dans la vidéo sur les frais de succession](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1091s). Prenons un couple qui a deux enfants et deux petits-enfants. Si chaque conjoint désigne ses deux enfants et ses deux petits-enfants, chacun peut transmettre 4 × 152 500 € = 610 000 €, soit **1 220 000 € pour le couple**, sans droits.
+Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, chiffre cet effet de saut de génération dans [Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M). Prenons un couple qui a deux enfants et deux petits-enfants. Si chaque conjoint désigne ses deux enfants et ses deux petits-enfants, chacun peut transmettre 4 × 152 500 € = 610 000 €, soit **1 220 000 € pour le couple**, sans droits.
 
 La rédaction compte : en désignant « mes petits-enfants nés ou à naître », vous incluez ceux qui naîtront après la souscription. Nos [modèles de clauses bénéficiaires](/journal/clause-beneficiaire-assurance-vie-modeles) en donnent un exemple.
 
@@ -132,7 +127,9 @@ Donner à un petit-enfant de 18 ans une somme importante inquiète souvent les g
 - pour un mineur, la désignation d'un **tiers administrateur** des biens donnés, à la place des parents ;
 - une **clause de retour**, si le petit-enfant décède avant le donateur sans descendance.
 
-Christophe Faglin évoque ces clauses, qui rendent l'argent indisponible avant 25 ans ou avant l'achat d'une résidence principale, [à 46:02 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2762s).
+Ces clauses, qui peuvent rendre l'argent indisponible avant 25 ans ou avant l'achat d'une résidence principale, sont évoquées par Rémi de Truchis de Varennes et Christophe Faglin dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme, avec les abattements propres aux petits-enfants.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 ## En résumé
 
@@ -159,29 +156,6 @@ Oui. Pour les primes versées avant 70 ans, chaque petit-enfant bénéficiaire r
 ### Un enfant peut-il renoncer à une succession au profit de ses propres enfants ?
 
 Oui. Depuis 2007, les enfants d'un héritier qui renonce viennent à la succession à sa place, par représentation. Ils se partagent alors l'abattement de 100 000 € dont leur parent aurait bénéficié, diminué des donations reçues par lui depuis moins de 15 ans.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [5:15](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=315s) 31 865 €, deux fois par grand-parent et par petit-enfant
-- [46:02](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2762s) Des fonds indisponibles avant 25 ans
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-Les passages clés :
-
-- [18:11](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=1091s) Le saut de génération en assurance-vie
 
 ## Sources
 

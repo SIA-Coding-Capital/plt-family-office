@@ -14,7 +14,6 @@ intention: informationnelle / comparative
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
-  - https://www.youtube.com/watch?v=0-_Yi9J2eXM
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1200 mots
 ordre_publication: 39
@@ -34,25 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=kRNe9rGqKyA
     date_publication: 2025-05-01
     duree: PT25M0S
-    passages:
-      - {t: 1033, label: "Les deux grands modèles de rémunération"}
-      - {t: 1056, label: "L'honoraire et la TVA"}
-      - {t: 1082, label: "La rétrocession, modèle dominant en France"}
-      - {t: 1102, label: "Le contrat luxembourgeois sans rétrocession"}
-  - id: 0-_Yi9J2eXM
-    titre: "Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?"
-    url: https://www.youtube.com/watch?v=0-_Yi9J2eXM
-    date_publication: 2026-03-26
-    duree: PT10M28S
-    passages:
-      - {t: 607, label: "Transparence et choix du modèle"}
   - id: z-pAIMtxv1w
     titre: "Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient"
     url: https://www.youtube.com/watch?v=z-pAIMtxv1w
     date_publication: 2025-08-30
     duree: PT38M49S
-    passages:
-      - {t: 1668, label: "Les vrais frais comparés"}
 faq:
   - q: "Qu'est-ce qu'une rétrocession ?"
     r: "C'est la part des frais d'un fonds ou d'un contrat que la société de gestion ou l'assureur reverse au conseiller qui a placé le produit. Le client ne la paie pas à part : elle est incluse dans les frais courants du fonds et du contrat."
@@ -88,13 +73,15 @@ Une rétrocession est la part des frais d'un produit financier que la société 
 
 Concrètement, un fonds actions qui affiche 1,8 % de frais courants par an ne garde pas tout : une partie, parfois substantielle, revient au conseiller ou à la banque qui vous l'a vendu. Même logique pour les frais annuels d'un contrat d'assurance-vie, partagés entre l'assureur et le courtier.
 
-C'est le **modèle dominant en France**, rappelle Christophe Faglin [à 18:02 dans la vidéo sur les banques privées](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1082s). Il a un avantage réel : pas de TVA, pas de facture séparée. Et une limite structurelle : la rémunération du conseiller dépend des produits qu'il choisit.
+C'est le **modèle dominant en France**, rappelle Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé. Il a un avantage réel : pas de TVA, pas de facture séparée. Et une limite structurelle : la rémunération du conseiller dépend des produits qu'il choisit.
 
 ## Comment fonctionne l'honoraire ?
 
-L'honoraire est une rémunération convenue à l'avance, sous forme de forfait ou de pourcentage des actifs conseillés, payée directement par le client. Le conseiller est payé de la même façon quel que soit le support retenu, ce qui garantit l'alignement de ses recommandations avec votre intérêt [(à 17:13 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1033s).
+L'honoraire est une rémunération convenue à l'avance, sous forme de forfait ou de pourcentage des actifs conseillés, payée directement par le client. Le conseiller est payé de la même façon quel que soit le support retenu, ce qui garantit l'alignement de ses recommandations avec votre intérêt.
 
-La contrepartie : les honoraires de conseil sont soumis à la **TVA de 20 %**. À prestation égale, l'honoraire coûte donc environ 20 % de plus que la même rémunération perçue en rétrocessions [(à 17:36)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1056s).
+La contrepartie : les honoraires de conseil sont soumis à la **TVA de 20 %**. À prestation égale, l'honoraire coûte donc environ 20 % de plus que la même rémunération perçue en rétrocessions. Les deux modèles sont mis en regard, avec le fonctionnement des banques privées, dans [Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA), un échange entre Rémi de Truchis de Varennes et Christophe Faglin sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
 
 ## Ce que dit la réglementation
 
@@ -130,9 +117,9 @@ L'écart atteint environ **176 400 €**. Le calcul s'inverse si le conseiller r
 
 ## Existe-t-il une troisième voie ?
 
-Oui. Dans un [contrat d'assurance-vie luxembourgeois](/journal/assurance-vie-luxembourgeoise) en gestion dédiée, le conseiller ne perçoit pas de rétrocession sur les fonds actions ou obligataires sélectionnés : choisir un fonds plutôt qu'un autre ne change pas sa rémunération [(à 18:22 dans la vidéo)](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1102s). On combine ainsi l'alignement d'intérêts de l'honoraire et l'accès à des parts institutionnelles. Christophe Faglin compare les frais réels d'un contrat bancaire français et d'un contrat luxembourgeois bien négocié [à 27:48 dans la vidéo dédiée](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1668s).
+Oui. Dans un [contrat d'assurance-vie luxembourgeois](/journal/assurance-vie-luxembourgeoise) en gestion dédiée, le conseiller ne perçoit pas de rétrocession sur les fonds actions ou obligataires sélectionnés : choisir un fonds plutôt qu'un autre ne change pas sa rémunération. On combine ainsi l'alignement d'intérêts de l'honoraire et l'accès à des parts institutionnelles. Pour une comparaison des frais réels d'un contrat bancaire français et d'un contrat luxembourgeois bien négocié, voir [Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w).
 
-Chez PLT Family Office, le client choisit son modèle, honoraire fixe ou frais de gestion, sans frais cachés ni rétrocession opaque [(à 10:07 dans la vidéo sur le multi family office)](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=607s).
+Chez PLT Family Office, le client choisit son modèle, honoraire fixe ou frais de gestion, sans frais cachés ni rétrocession opaque.
 
 ## Comment savoir ce que vous payez aujourd'hui ?
 
@@ -185,39 +172,6 @@ Demandez par écrit le détail des frais à chaque niveau (contrat, mandat, supp
 ### Les rétrocessions sont-elles forcément un mauvais modèle ?
 
 Non. Elles permettent d'accéder au conseil sans payer de TVA ni de facture séparée. Le risque est un conflit d'intérêts : un conseiller rémunéré par les produits peut être tenté de privilégier les plus chargés. La transparence sur leur montant est la vraie garantie.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Family office et banque privée
-
-**[Comment les Vrais Riches Gèrent Leur Argent (Spoiler : Adieu les Banques Privées)](https://www.youtube.com/watch?v=kRNe9rGqKyA)**, publiée le 1 mai 2025 (25 min).
-
-<!-- Lecteur YouTube à intégrer ici : kRNe9rGqKyA -->
-
-Les passages clés :
-
-- [17:13](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1033s) Les deux grands modèles de rémunération
-- [17:36](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1056s) L'honoraire et la TVA
-- [18:02](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1082s) La rétrocession, modèle dominant en France
-- [18:22](https://www.youtube.com/watch?v=kRNe9rGqKyA&t=1102s) Le contrat luxembourgeois sans rétrocession
-
-### Multi family office
-
-**[Entre 1M€ et 30M€ le Multi Family Office fait-il sens ?](https://www.youtube.com/watch?v=0-_Yi9J2eXM)**, publiée le 26 mars 2026 (10 min).
-
-Les passages clés :
-
-- [10:07](https://www.youtube.com/watch?v=0-_Yi9J2eXM&t=607s) Transparence et choix du modèle
-
-### Assurance-vie luxembourgeoise
-
-**[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min).
-
-Les passages clés :
-
-- [27:48](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1668s) Les vrais frais comparés
 
 ## Sources
 

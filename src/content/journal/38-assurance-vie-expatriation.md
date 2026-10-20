@@ -14,7 +14,6 @@ intention: informationnelle
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
-  - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1000 mots
 ordre_publication: 28
 date_mise_a_jour: 2026-10-20
@@ -33,19 +32,6 @@ videos:
     url: https://www.youtube.com/watch?v=z-pAIMtxv1w
     date_publication: 2025-08-30
     duree: PT38M49S
-    passages:
-      - {t: 394, label: "Garder des cartes en main pour s'expatrier"}
-      - {t: 412, label: "Partir à Maurice ou à Dubaï avec un contrat neutre"}
-      - {t: 435, label: "Contrat français : ce que prévoit la convention fiscale"}
-      - {t: 1003, label: "Souscrire depuis Singapour, les Émirats ou Maurice"}
-      - {t: 2245, label: "L'incidence d'une expatriation sur le contrat"}
-  - id: V8qZaCLBKX0
-    titre: "Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine"
-    url: https://www.youtube.com/watch?v=V8qZaCLBKX0
-    date_publication: 2026-03-18
-    duree: PT47M41S
-    passages:
-      - {t: 1619, label: "Le contrat luxembourgeois en cas d'expatriation"}
 faq:
   - q: "Peut-on garder son assurance-vie française en partant à l'étranger ?"
     r: "Oui dans la plupart des cas : le contrat n'est pas clos par le départ et conserve son antériorité fiscale. Certains assureurs limitent toutefois les nouveaux versements ou les arbitrages pour les résidents de certains pays, ce qu'il faut vérifier avant de partir."
@@ -91,7 +77,7 @@ Le principe est simple à énoncer, plus délicat à appliquer : deux pays peuve
 | Prélèvements sociaux | 17,2 % | En principe non dus |
 | Pays de résidence | Non concerné | Peut imposer les gains selon sa propre loi |
 
-La convention fiscale signée entre la France et votre pays de résidence décide qui a le droit d'imposer, et comment la double imposition est évitée. Selon les cas, le prélèvement français est supprimé, réduit ou imputé sur l'impôt local. C'est ce que Christophe Faglin souligne [à 7:15 dans la vidéo sur l'assurance-vie luxembourgeoise](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=435s) : avec un contrat français, en fonction de la convention, vous pouvez continuer à payer de l'impôt en France alors que vous ne bénéficiez plus de ses services.
+La convention fiscale signée entre la France et votre pays de résidence décide qui a le droit d'imposer, et comment la double imposition est évitée. Selon les cas, le prélèvement français est supprimé, réduit ou imputé sur l'impôt local. Comme le souligne Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, avec un contrat français, en fonction de la convention, vous pouvez continuer à payer de l'impôt en France alors que vous ne bénéficiez plus de ses services.
 
 Exemple : un rachat de 50 000 € contenant 20 % de gains, soit 10 000 €, sur un contrat de plus de huit ans. Le prélèvement français est de 750 € (7,5 %), sans prélèvements sociaux. Votre pays de résidence peut ensuite taxer ces 10 000 € selon son barème, en accordant ou non un crédit pour les 750 € déjà payés.
 
@@ -110,7 +96,7 @@ Le droit local de votre pays de résidence peut aussi influer sur la validité d
 
 ## Contrat français ou contrat luxembourgeois pour un expatrié ?
 
-Le [contrat luxembourgeois](/journal/assurance-vie-luxembourgeoise) applique un principe de neutralité fiscale : le Luxembourg ne prélève rien sur les contrats des non-résidents, et seule la fiscalité du pays où vous vivez s'applique. Si vous partez à l'île Maurice ou à Dubaï, il n'y a plus de compte à rendre à la France dès lors que vous êtes bien non-résident, comme l'explique Christophe Faglin [à 6:52 dans la vidéo](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=412s).
+Le [contrat luxembourgeois](/journal/assurance-vie-luxembourgeoise) applique un principe de neutralité fiscale : le Luxembourg ne prélève rien sur les contrats des non-résidents, et seule la fiscalité du pays où vous vivez s'applique. Si vous partez à l'île Maurice ou à Dubaï, il n'y a plus de compte à rendre à la France dès lors que vous êtes bien non-résident.
 
 | Critère | Contrat français | Contrat luxembourgeois |
 |---|---|---|
@@ -119,7 +105,9 @@ Le [contrat luxembourgeois](/journal/assurance-vie-luxembourgeoise) applique un 
 | Devise | Euro | Euro, dollar, franc suisse… |
 | Crédit lombard | Avance sur contrat | Nantissement souple, utile aux non-résidents |
 
-Rémi de Truchis de Varennes, lui-même expatrié, pose la question de l'incidence d'une expatriation [à 37:25 dans la vidéo](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=2245s) ; la réponse de Christophe Faglin tient en un mot : aucune, côté luxembourgeois. Toute la question devient celle de la fiscalité du pays d'arrivée.
+Rémi de Truchis de Varennes, lui-même expatrié, a posé à Christophe Faglin la question de l'incidence d'une expatriation sur un contrat luxembourgeois dans [Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w), sur la chaîne Parlons Long Terme. La réponse tient en un mot : aucune, côté luxembourgeois. Toute la question devient celle de la fiscalité du pays d'arrivée.
+
+<!-- Lecteur YouTube à intégrer ici : z-pAIMtxv1w -->
 
 Deux nuances : un contrat français ne peut pas être transféré vers un contrat luxembourgeois, il faut racheter puis réinvestir, ce qui déclenche l'imposition des gains. Et pour un expatrié qui envisage aussi d'emprunter, le contrat luxembourgeois sert de support à un [crédit lombard pour non-résidents](/journal/credit-lombard-dirigeants-non-residents).
 
@@ -162,32 +150,6 @@ Le prélèvement de 20 % puis 31,25 % au-delà de 152 500 € par bénéficiaire
 ### Pourquoi le contrat luxembourgeois est-il recommandé aux expatriés ?
 
 Parce que le Luxembourg n'applique aucune fiscalité propre aux contrats de non-résidents : seule la fiscalité du pays où vous vivez s'applique. Le contrat suit vos déménagements sans lien fiscal résiduel avec la France, dès lors que vous n'y êtes plus résident.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Assurance-vie luxembourgeoise
-
-**[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min).
-
-<!-- Lecteur YouTube à intégrer ici : z-pAIMtxv1w -->
-
-Les passages clés :
-
-- [6:34](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=394s) Garder des cartes en main pour s'expatrier
-- [6:52](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=412s) Partir à Maurice ou à Dubaï avec un contrat neutre
-- [7:15](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=435s) Contrat français : ce que prévoit la convention fiscale
-- [16:43](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=1003s) Souscrire depuis Singapour, les Émirats ou Maurice
-- [37:25](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=2245s) L'incidence d'une expatriation sur le contrat
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-Les passages clés :
-
-- [26:59](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1619s) Le contrat luxembourgeois en cas d'expatriation
 
 ## Sources
 

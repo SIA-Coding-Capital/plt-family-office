@@ -14,6 +14,7 @@ intention: informationnelle
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
+  - https://www.youtube.com/watch?v=3yIsaGb3ywM
 longueur: environ 1200 mots
 ordre_publication: 22
 date_mise_a_jour: 2026-10-20
@@ -32,20 +33,11 @@ videos:
     url: https://www.youtube.com/watch?v=A1gOvHMmxBk
     date_publication: 2026-03-05
     duree: PT40M26S
-    passages:
-      - {t: 677, label: "Le retour des obligations"}
-      - {t: 736, label: "15 à 20 % chez les grandes fortunes"}
-      - {t: 743, label: "Mieux que le monétaire et le fonds en euros"}
-      - {t: 815, label: "2022 : quand tout baisse en même temps"}
-      - {t: 1181, label: "Quatre à cinq ans de besoins hors des actions"}
-      - {t: 2164, label: "Ne pas couvrir la devise d'un actif prudent"}
   - id: 3yIsaGb3ywM
     titre: "Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts"
     url: https://www.youtube.com/watch?v=3yIsaGb3ywM
     date_publication: 2025-09-05
     duree: PT31M52S
-    passages:
-      - {t: 774, label: "Jusqu'à 90 % de financement sur des obligations d'État"}
 faq:
   - q: "Pourquoi les grandes fortunes investissent-elles en obligations ?"
     r: "Pour un revenu prévisible et pour amortir les crises. Les obligations pèsent environ 15 à 20 % de leur patrimoine, et elles servent souvent de réserve de quatre à cinq ans de besoins, ce qui évite de vendre des actions quand les marchés chutent."
@@ -73,7 +65,7 @@ Pendant une décennie, détenir des obligations n'avait guère de sens : prêter
 
 ## Qu'est-ce qu'une obligation, concrètement ?
 
-Une obligation est un prêt que vous consentez à un État ou à une entreprise, en échange d'intérêts réguliers (le coupon) et du remboursement du capital à une date fixée (l'échéance). Comme le résume Christophe Faglin, avec une obligation, « c'est vous la banque » [(à 11:17 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=677s).
+Une obligation est un prêt que vous consentez à un État ou à une entreprise, en échange d'intérêts réguliers (le coupon) et du remboursement du capital à une date fixée (l'échéance). Comme le résume Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé, avec une obligation, « c'est vous la banque ».
 
 Trois paramètres déterminent ce que vous gagnez et ce que vous risquez :
 
@@ -85,9 +77,13 @@ Trois paramètres déterminent ce que vous gagnez et ce que vous risquez :
 
 Parce que les taux sont remontés. En 2020, le taux de l'OAT à 10 ans était proche de zéro, voire négatif par moments. En octobre 2022, les relevés de la Banque de France le situaient autour de 3 %. Le 23 mars 2026, il a touché 3,9 %, son plus haut niveau depuis 2009, selon une note de l'Institut de l'Entreprise.
 
-Pour celui qui emprunte, la hausse des taux est une mauvaise nouvelle. Pour celui qui prête, c'est l'inverse. Après une décennie d'oubli, l'obligataire offre de nouveau un rendement supérieur à celui du monétaire, du compte à terme ou du fonds en euros, souligne Christophe Faglin [à 12:23 dans la vidéo](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=743s).
+Pour celui qui emprunte, la hausse des taux est une mauvaise nouvelle. Pour celui qui prête, c'est l'inverse. Après une décennie d'oubli, l'obligataire offre de nouveau un rendement supérieur à celui du monétaire, du compte à terme ou du fonds en euros.
 
 C'est pourquoi les obligations pèsent aujourd'hui environ **15 à 20 % du patrimoine des grandes fortunes**, d'après les études publiées sur les investisseurs fortunés (UBS notamment). Vous retrouverez la répartition complète dans notre article sur [l'allocation des grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes).
+
+La place des obligations dans un patrimoine de 1 à 10 millions d'euros, à côté des actions, du private equity et de la gestion alternative, est également discutée par Rémi de Truchis de Varennes et Christophe Faglin dans [1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
 
 | Placement | Garantie du capital | Rendement | Disponibilité |
 |---|---|---|---|
@@ -100,7 +96,7 @@ C'est pourquoi les obligations pèsent aujourd'hui environ **15 à 20 % du patri
 
 Oui, et c'est le point le plus mal compris. Quand les taux montent, les obligations anciennes, qui paient un coupon plus faible, perdent de la valeur sur le marché. La **sensibilité** mesure cet effet : une obligation de sensibilité 7 perd environ 7 % si les taux montent d'un point, et en gagne environ autant s'ils baissent d'un point.
 
-C'est exactement ce qui s'est passé en 2022. Les obligations ont perdu de l'ordre de 10 %, en même temps que les actions reculaient de 15 à 20 % selon les marchés [(à 13:35 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=815s). L'année a montré que les deux classes d'actifs peuvent baisser ensemble, ce qui explique l'intérêt croissant pour la [gestion alternative](/journal/gestion-alternative-hedge-funds).
+C'est exactement ce qui s'est passé en 2022. Les obligations ont perdu de l'ordre de 10 %, en même temps que les actions reculaient de 15 à 20 % selon les marchés. L'année a montré que les deux classes d'actifs peuvent baisser ensemble, ce qui explique l'intérêt croissant pour la [gestion alternative](/journal/gestion-alternative-hedge-funds).
 
 Il faut toutefois distinguer deux situations :
 
@@ -115,9 +111,9 @@ Les grandes fortunes leur confient deux missions.
 
 **Produire un revenu prévisible.** Exemple : 100 000 € investis dans une obligation qui verse un coupon de 3,5 % rapportent 3 500 € par an. Sur un compte-titres, le prélèvement forfaitaire unique de 31,4 % prélève 1 099 € : il reste 2 401 € nets. Dans une assurance-vie, les coupons ne sont pas imposés tant que vous ne retirez rien.
 
-**Servir de coussin.** Christophe Faglin recommande de garder **quatre à cinq années de besoins** sur des placements peu volatils mais rémunérateurs, obligations ou gestion alternative, pour laisser aux actions et au private equity le temps de traverser les crises [(à 19:41 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1181s). Quelqu'un qui vit de son patrimoine à raison de 80 000 € par an conserverait ainsi 320 000 à 400 000 € dans cette poche.
+**Servir de coussin.** Christophe Faglin recommande de garder **quatre à cinq années de besoins** sur des placements peu volatils mais rémunérateurs, obligations ou gestion alternative, pour laisser aux actions et au private equity le temps de traverser les crises. Quelqu'un qui vit de son patrimoine à raison de 80 000 € par an conserverait ainsi 320 000 à 400 000 € dans cette poche.
 
-Les obligations offrent aussi un levier peu connu. Les banques acceptent de prêter jusqu'à 90 % de la valeur des obligations d'État nanties [(à 12:54 dans la vidéo sur le crédit lombard)](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=774s), bien plus que sur des actions. Une poche obligataire peut donc servir de garantie à un [crédit lombard](/journal/credit-lombard), à condition de ne jamais emprunter au maximum autorisé.
+Les obligations offrent aussi un levier peu connu. Les banques acceptent de prêter jusqu'à 90 % de la valeur des obligations d'État nanties, bien plus que sur des actions. Une poche obligataire peut donc servir de garantie à un [crédit lombard](/journal/credit-lombard), à condition de ne jamais emprunter au maximum autorisé. Ce mécanisme de financement est expliqué pas à pas dans [Crédit Lombard Explication : Comment les Riches Vivent Éternellement à Crédit sans payer d'impôts](https://www.youtube.com/watch?v=3yIsaGb3ywM).
 
 ## Comment investir en obligations ?
 
@@ -134,7 +130,7 @@ Pour un chef d'entreprise, la même logique vaut pour la trésorerie excédentai
 
 ## Les erreurs à éviter
 
-1. **Acheter des obligations dans une devise à laquelle on ne croit pas.** Couvrir le risque de change d'un actif prudent coûte souvent une grande partie du rendement : sur de la dette américaine, cela peut « couper par deux » le gain potentiel [(à 36:04 dans la vidéo)](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2164s).
+1. **Acheter des obligations dans une devise à laquelle on ne croit pas.** Couvrir le risque de change d'un actif prudent coûte souvent une grande partie du rendement : sur de la dette américaine, cela peut « couper par deux » le gain potentiel.
 2. **Courir après le rendement.** Un coupon élevé rémunère un risque de défaut élevé. Dans la poche coussin, la qualité de l'émetteur prime.
 3. **Choisir une durée sans rapport avec son horizon.** Un besoin dans trois ans ne se finance pas avec une obligation à quinze ans.
 4. **Oublier la fiscalité.** Sur un compte-titres, près d'un tiers du coupon part en impôts et prélèvements sociaux.
@@ -164,23 +160,6 @@ Sur un compte-titres, les coupons et les plus-values sont soumis au prélèvemen
 ### Obligations ou fonds en euros : que choisir ?
 
 Le fonds en euros garantit le capital mais son rendement est lissé et souvent inférieur à celui d'une poche obligataire bien construite. Les obligations n'offrent pas de garantie en capital, mais permettent de choisir la durée, la qualité de crédit et la devise.
-
-## La vidéo de référence
-
-Cet article s'appuie sur la vidéo **[1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026](https://www.youtube.com/watch?v=A1gOvHMmxBk)**, publiée le 5 mars 2026 sur la chaîne Parlons Long Terme (40 min), avec Rémi de Truchis de Varennes et Christophe Faglin.
-
-<!-- Lecteur YouTube à intégrer ici : A1gOvHMmxBk -->
-
-Les passages clés :
-
-- [11:17](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=677s) Le retour des obligations
-- [12:16](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=736s) 15 à 20 % chez les grandes fortunes
-- [12:23](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=743s) Mieux que le monétaire et le fonds en euros
-- [13:35](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=815s) 2022 : quand tout baisse en même temps
-- [19:41](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=1181s) Quatre à cinq ans de besoins hors des actions
-- [36:04](https://www.youtube.com/watch?v=A1gOvHMmxBk&t=2164s) Ne pas couvrir la devise d'un actif prudent
-
-Sur le financement adossé à des obligations : **[Crédit Lombard Explication](https://www.youtube.com/watch?v=3yIsaGb3ywM)**, publiée le 5 septembre 2025 (32 min), passage [12:54](https://www.youtube.com/watch?v=3yIsaGb3ywM&t=774s) Jusqu'à 90 % de financement sur des obligations d'État.
 
 ## Sources
 

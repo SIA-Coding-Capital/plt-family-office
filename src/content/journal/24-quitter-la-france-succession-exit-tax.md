@@ -14,7 +14,6 @@ intention: informationnelle
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
-  - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1100 mots
 ordre_publication: 27
 date_mise_a_jour: 2026-10-20
@@ -34,18 +33,6 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 1975, label: "Faut-il quitter la France pour sa succession ?"}
-      - {t: 1993, label: "D'abord, faire le bilan de sa fiscalité en France"}
-      - {t: 2045, label: "Un vrai projet de vie avant tout"}
-      - {t: 2068, label: "Exit tax et intérêts économiques réels"}
-  - id: z-pAIMtxv1w
-    titre: "Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient"
-    url: https://www.youtube.com/watch?v=z-pAIMtxv1w
-    date_publication: 2025-08-30
-    duree: PT38M49S
-    passages:
-      - {t: 435, label: "Contrat français et non-résident : la convention fiscale"}
 faq:
   - q: "Si je m'installe à l'étranger, mes enfants paieront-ils des droits de succession en France ?"
     r: "Oui pour vos biens situés en France, quelle que soit votre résidence. Pour vos biens situés à l'étranger, les droits français restent dus si l'enfant qui hérite est domicilié en France au moment du décès et l'a été au moins 6 des 10 années précédentes. Une convention fiscale peut modifier ce résultat."
@@ -70,7 +57,7 @@ sources:
 
 > **L'essentiel.** Quitter la France ne supprime pas automatiquement les droits de succession français : les biens situés en France restent taxables, et les biens situés à l'étranger le sont aussi dès que l'héritier vit en France depuis au moins 6 des 10 dernières années. Le départ peut en outre déclencher l'exit tax, au taux global de 31,4 %, sur les plus-values latentes au-delà de 800 000 € de titres. Il faut d'abord mesurer ce que l'on peut optimiser en restant.
 
-C'est une question qui revient de plus en plus souvent : avec des droits de succession qui atteignent 45 % en ligne directe, ne vaudrait-il pas mieux partir ? La réponse tient en une phrase de Christophe Faglin : avant de déménager, regardez à combien vous ressortez réellement en France [(à 33:13 dans la vidéo Héritage en France)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1993s). Car l'expatriation est loin d'être l'interrupteur fiscal que l'on imagine.
+C'est une question qui revient de plus en plus souvent : avec des droits de succession qui atteignent 45 % en ligne directe, ne vaudrait-il pas mieux partir ? La réponse tient en une phrase de Christophe Faglin, cofondateur de PLT Family Office et ancien banquier privé : avant de déménager, regardez à combien vous ressortez réellement en France. Car l'expatriation est loin d'être l'interrupteur fiscal que l'on imagine.
 
 ## Le fisc français suit-il vos biens après votre départ ?
 
@@ -98,7 +85,7 @@ Non. L'article 4 B du CGI vous considère comme domicilié en France si vous rem
 
 La règle des 183 jours, souvent citée, n'est qu'un indice parmi d'autres. Un dirigeant qui part seul pendant que sa famille reste en France, ou qui continue à diriger sa société depuis l'étranger, reste généralement résident français. En cas de double résidence, la convention fiscale entre les deux pays tranche.
 
-C'est ce que Christophe Faglin appelle « allumer les voyants » : il faut une substance réelle dans le pays de destination, sous peine de vivre avec une épée de Damoclès au-dessus de la tête [(à 34:28 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2068s).
+C'est ce que Christophe Faglin appelle « allumer les voyants » : il faut une substance réelle dans le pays de destination, sous peine de vivre avec une épée de Damoclès au-dessus de la tête.
 
 ## Qu'est-ce que l'exit tax, et qui la paie ?
 
@@ -130,7 +117,11 @@ Ce montant n'est pas forcément payé :
 
 Avant de faire ses valises, il faut comparer avec ce que permet une transmission organisée en France. Dans notre [cas pratique](/journal/cas-pratique-reduire-droits-succession), deux décisions suffisent à faire passer les droits d'environ 295 000 € à 45 000 € pour 1,8 M€ de patrimoine. Les [abattements renouvelables tous les 15 ans](/journal/abattement-donation-15-ans), le démembrement, l'[assurance-vie](/journal/assurance-vie-succession-clause-beneficiaire) ou la [donation avant cession](/journal/donation-avant-cession) produisent souvent plus d'effet qu'un départ, sans en avoir les contraintes.
 
-Christophe Faglin met aussi en garde contre les coûts cachés : un coût de la vie élevé dans certaines destinations pour un même niveau de vie, un accompagnement bancaire parfois médiocre, et un projet familial bouleversé [(à 34:05 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2045s). On ne quitte pas un pays pour une fiscalité, mais pour un projet de vie. La fiscalité peut en être un moteur, pas la seule raison.
+Il faut aussi compter avec les coûts cachés : un coût de la vie élevé dans certaines destinations pour un même niveau de vie, un accompagnement bancaire parfois médiocre, et un projet familial bouleversé. On ne quitte pas un pays pour une fiscalité, mais pour un projet de vie. La fiscalité peut en être un moteur, pas la seule raison.
+
+Cette question du départ, mise en balance avec ce que permet une transmission organisée en France, est débattue par Rémi de Truchis de Varennes et Christophe Faglin dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 Si le projet existe, la préparation est détaillée dans notre [check-list patrimoniale de l'expatriation](/journal/expatriation-checklist-patrimoniale).
 
@@ -159,31 +150,6 @@ Non. Le Code général des impôts retient trois critères alternatifs : le foye
 ### Faut-il quitter la France pour réduire ses droits de succession ?
 
 Rarement pour cette seule raison. Une transmission anticipée bien organisée en France (donations, démembrement, assurance-vie) réduit souvent la facture à quelques pourcents du patrimoine. L'expatriation n'a de sens que portée par un vrai projet de vie.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [32:55](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1975s) Faut-il quitter la France pour sa succession ?
-- [33:13](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1993s) D'abord, faire le bilan de sa fiscalité en France
-- [34:05](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2045s) Un vrai projet de vie avant tout
-- [34:28](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=2068s) Exit tax et intérêts économiques réels
-
-### Assurance-vie luxembourgeoise
-
-**[Assurance-vie luxembourgeoise : La Faille Légale que 99% des investisseurs oublient](https://www.youtube.com/watch?v=z-pAIMtxv1w)**, publiée le 30 août 2025 (39 min).
-
-Les passages clés :
-
-- [7:15](https://www.youtube.com/watch?v=z-pAIMtxv1w&t=435s) Contrat français et non-résident : la convention fiscale
 
 ## Sources
 

@@ -14,7 +14,6 @@ intention: informationnelle
 auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
-  - https://www.youtube.com/watch?v=dJ9yXONnr5M
 longueur: environ 800 mots
 ordre_publication: 13
 date_mise_a_jour: 2026-10-20
@@ -32,17 +31,6 @@ videos:
     url: https://www.youtube.com/watch?v=V8qZaCLBKX0
     date_publication: 2026-03-18
     duree: PT47M41S
-    passages:
-      - {t: 926, label: "L'exemple des deux fils"}
-      - {t: 1010, label: "Immobilier : lots séparés ou indivision"}
-      - {t: 1083, label: "La donation-partage expliquée"}
-  - id: dJ9yXONnr5M
-    titre: "Comment Éviter 400 000 € de Frais de Succession en Toute Légalité"
-    url: https://www.youtube.com/watch?v=dJ9yXONnr5M
-    date_publication: 2025-03-21
-    duree: PT44M36S
-    passages:
-      - {t: 2483, label: "La donation simple, une erreur fréquente"}
 faq:
   - q: "Quelle différence entre donation simple et donation-partage ?"
     r: "La donation simple est rapportée à la succession à la valeur actuelle du bien, ce qui peut créer des inégalités. La donation-partage fige la valeur des lots au jour de la donation."
@@ -84,13 +72,17 @@ Au décès, on rapporte les donations :
 - pour le premier fils, on retient 100 000 € (le montant donné, puisqu'il ne reste rien) ;
 - pour le second, on retient **400 000 €**.
 
-Pour rétablir l'égalité, les 300 000 premiers euros de la succession reviennent au fils qui a tout dépensé. Celui qui a fait fructifier sa donation se retrouve pénalisé. Le père voulait l'équité, il a créé un conflit. Christophe Faglin raconte cet exemple [à 15:26 dans la vidéo Héritage en France](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=926s).
+Pour rétablir l'égalité, les 300 000 premiers euros de la succession reviennent au fils qui a tout dépensé. Celui qui a fait fructifier sa donation se retrouve pénalisé. Le père voulait l'équité, il a créé un conflit.
+
+Ce cas des deux frères est l'un de ceux que Christophe Faglin et Rémi de Truchis de Varennes analysent dans [Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0), sur la chaîne Parlons Long Terme, avec la question des lots immobiliers.
+
+<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
 
 Les frères s'entendaient bien ? Les enfants se marient, d'autres personnes entrent dans la famille, les situations évoluent, a fortiori dans une [famille recomposée](/journal/famille-recomposee-succession). La règle, elle, ne change pas.
 
 ## La donation-partage : figer les valeurs
 
-La parade est simple : passer par une **donation-partage**, devant notaire [(explication à 18:03)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1083s).
+La parade est simple : passer par une **donation-partage**, devant notaire.
 
 Sa propriété essentielle : les biens donnés sont évalués **au jour de la donation**, et cette valeur est **figée**. Au décès, peu importe ce que chacun en a fait. Le fils qui a dépensé et celui qui a investi ont reçu la même chose, point.
 
@@ -100,7 +92,7 @@ La donation-partage coûte un peu plus cher en frais de notaire qu'une donation 
 
 ## Immobilier : des lots séparés ou l'indivision ?
 
-Pour l'immobilier, la question se pose autrement [(à 16:50 dans la vidéo)](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1010s). Imaginons deux appartements de même valeur, l'un à Marseille, l'autre à Montpellier, et deux enfants.
+Pour l'immobilier, la question se pose autrement. Imaginons deux appartements de même valeur, l'un à Marseille, l'autre à Montpellier, et deux enfants.
 
 **Option 1 : des lots distincts via une donation-partage.** Chaque enfant reçoit un appartement. C'est simple : pas d'indivision, chacun gère, garde ou vend comme il l'entend. Mais rien ne garantit que les deux biens évolueront de la même façon. Dans vingt ans, l'un vaudra peut-être bien plus que l'autre.
 
@@ -138,30 +130,6 @@ Oui, elle se fait devant notaire. Ses frais sont un peu plus élevés que ceux d
 ### Peut-on assortir une donation de conditions ?
 
 Oui, par exemple rendre les fonds indisponibles avant un certain âge ou les réserver à l'achat d'une résidence principale.
-
-## La vidéo de référence
-
-Cet article s'appuie sur plusieurs vidéos de la chaîne Parlons Long Terme, avec Rémi de Truchis de Varennes et Christophe Faglin. Chaque lien ouvre la vidéo au passage concerné.
-
-### Héritage en France
-
-**[Héritage en France : comment éviter que les droits de succession détruisent votre patrimoine](https://www.youtube.com/watch?v=V8qZaCLBKX0)**, publiée le 18 mars 2026 (48 min).
-
-<!-- Lecteur YouTube à intégrer ici : V8qZaCLBKX0 -->
-
-Les passages clés :
-
-- [15:26](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=926s) L'exemple des deux fils
-- [16:50](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1010s) Immobilier : lots séparés ou indivision
-- [18:03](https://www.youtube.com/watch?v=V8qZaCLBKX0&t=1083s) La donation-partage expliquée
-
-### 400 000 € de frais de succession
-
-**[Comment Éviter 400 000 € de Frais de Succession en Toute Légalité](https://www.youtube.com/watch?v=dJ9yXONnr5M)**, publiée le 21 mars 2025 (45 min).
-
-Les passages clés :
-
-- [41:23](https://www.youtube.com/watch?v=dJ9yXONnr5M&t=2483s) La donation simple, une erreur fréquente
 
 ## Sources
 
