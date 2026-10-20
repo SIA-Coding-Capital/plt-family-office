@@ -8,7 +8,7 @@ fonction: "Cofondateur, conseiller en investissements financiers (CIF)"
 organisation: PLT Family Office
 photo: https://cdn.prod.website-files.com/684f28f3bc4263879ab598bc/686246bd6dac00ac3738db27_S%C3%A9bastien-Valton.png
 same_as:
-  - "LinkedIn : URL à fournir"
+  - https://www.linkedin.com/in/s%C3%A9bastien-valton-743847164/
 expertise:
   - Allocation d'actifs
   - Stratégie de portefeuille
@@ -31,6 +31,8 @@ date_mise_a_jour: 2026-10-20
 Avec Christophe Faglin, Sébastien opère le conseil délivré aux familles accompagnées par PLT Family Office. En tant que conseiller en investissements financiers, il construit et suit la stratégie de portefeuille de chaque famille : répartition entre classes d'actifs, choix des supports et sélection des titres.
 
 Son domaine de prédilection est l'analyse fondamentale des entreprises. Il pilote les recommandations du family office en stock picking small cap value, ainsi que l'étude des portefeuilles investis en titres vifs.
+
+Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-valton-743847164/).
 
 ## Sa méthode
 
