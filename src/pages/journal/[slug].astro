@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import AppelFinal from '../../components/AppelFinal.astro';
 import '../../styles/journal.css';
-import { SITE, lien, dateLongue, insecables } from '../../lib/site';
+import { SITE, lien, dateLongue, insecables, portrait } from '../../lib/site';
 import { articlesPublies, grappe, minutes, publieLe, misAJourLe, type Article } from '../../lib/journal';
 
 export async function getStaticPaths() {
@@ -17,6 +17,7 @@ const d = a.data;
 const auteurs = await getCollection('auteurs');
 const auteur = auteurs.find((x) => x.data.nom === d.auteur);
 const urlAuteur = auteur ? lien(`/auteurs/${auteur.data.slug}`) : undefined;
+const photoAuteur = auteur ? portrait(auteur.data.slug) : undefined;
 const pub = publieLe(a);
 const maj = misAJourLe(a);
 const abs = (p: string) => new URL(lien(p), Astro.site).href;
@@ -41,6 +42,7 @@ const jsonld: object[] = [
     author: {
       '@type': 'Person',
       name: d.auteur,
+      ...(photoAuteur && { image: new URL(photoAuteur, Astro.site).href }),
       ...(auteur && { url: abs(`/auteurs/${auteur.data.slug}`), jobTitle: auteur.data.fonction, sameAs: auteur.data.same_as.filter((s) => s.startsWith('http')) }),
     },
     publisher: { '@type': 'Organization', '@id': new URL('/#organisation', Astro.site).href, name: SITE.nom, logo: { '@type': 'ImageObject', url: abs('/apple-touch-icon.png') } },
@@ -84,6 +86,7 @@ for (const v of d.videos)
       <p class="sur">{grappe(a)} · {minutes(a)} min</p>
       <h1 class="split">{insecables(d.title)}</h1>
       <p class="signature">
+        {photoAuteur && <img class="signature-photo" src={photoAuteur} alt="" width="56" height="63">}
         Par {urlAuteur ? <a href={urlAuteur} rel="author">{d.auteur}</a> : d.auteur}, cofondateur de PLT Family Office.<br>
         Publié le <time datetime={pub}>{dateLongue(pub)}</time>{maj !== pub && <>, mis à jour le <time datetime={maj}>{dateLongue(maj)}</time></>}.
       </p>

@@ -2,7 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import '../../styles/journal.css';
-import { SITE, lien } from '../../lib/site';
+import { SITE, lien, portrait } from '../../lib/site';
 
 export async function getStaticPaths() {
   return (await getCollection('auteurs')).map((p) => ({ params: { slug: p.data.slug }, props: { p } }));
@@ -12,6 +12,7 @@ const d = p.data;
 const { Content } = await render(p);
 const url = new URL(lien(`/auteurs/${d.slug}`), Astro.site).href;
 const personne = `${url}#personne`;
+const photo = portrait(d.slug);
 const jsonld = [
   {
     '@context': 'https://schema.org',
@@ -22,6 +23,7 @@ const jsonld = [
       '@type': 'Person',
       '@id': personne,
       description: d.meta_description,
+      ...(photo && { image: new URL(photo, Astro.site).href }),
       name: d.nom,
       jobTitle: d.fonction,
       worksFor: { '@type': 'Organization', name: SITE.nom, url: new URL(lien('/'), Astro.site).href },
@@ -42,7 +44,12 @@ const jsonld = [
 ];
 ---
 <Base titre={`${d.title} | PLT Family Office`} description={d.meta_description} jsonld={jsonld} actif="journal">
-  <div class="wrap" style="padding-top:64px">
+  <div class="wrap auteur">
+    {photo && (
+      <figure class="auteur-photo">
+        <img src={photo} alt={`Portrait de ${d.nom}`} width="222" height="250" fetchpriority="high">
+      </figure>
+    )}
     <article class="prose">
       <Content />
     </article>

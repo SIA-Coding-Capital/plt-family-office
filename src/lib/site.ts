@@ -17,3 +17,7 @@ export const dateLongue = (d: Date | string) =>
 
 // Typographie française : espace insécable avant : ; ? ! » et après «, pour éviter les retours à la ligne orphelins.
 export const insecables = (t: string) => t.replace(/ ([:;?!»])/g, '\u00a0$1').replace(/« /g, '«\u00a0').replace(/(\d) (?=\d{3}\b|%|€)/g, '$1\u00a0');
+
+// Portraits des fondateurs (public/img/<slug>.webp), partagés par l'accueil, les pages auteur et les signatures.
+const PORTRAITS = new Set(['remi-de-truchis-de-varennes', 'christophe-faglin', 'sebastien-valton', 'stephane-gambillon']);
+export const portrait = (slug: string) => (PORTRAITS.has(slug) ? lien(`/img/${slug}.webp`) : undefined);
