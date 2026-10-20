@@ -17,7 +17,7 @@ npm run build        # génère dist/
 
 - Les articles sont dans `src/content/journal/`, un fichier Markdown par article. L'en-tête YAML porte le titre SEO, la meta description, l'ordre de publication, la FAQ, les vidéos et les sources.
 - Ils viennent du dossier éditorial du projet : `npm run sync-blog -- /chemin/vers/blog` recopie `articles/` et `auteurs/` et relit les thèmes (grappes) dans le calendrier du `README.md`.
-- **Un article par jour.** L'article n° N (`ordre_publication`) sort le jour `PUBLICATION_START + N - 1` (par défaut le 2 novembre 2026). Le site est reconstruit chaque matin vers 6 h (heure de Paris) par GitHub Actions : seuls les articles déjà sortis sont générés, listés dans le sitemap et le flux RSS, et liés depuis les autres articles. Un lien vers un article à venir est affiché comme du texte simple, et les entrées « À lire aussi » correspondantes sont masquées jusqu'à sa sortie.
+- **10 articles au lancement, puis un par jour.** Les 10 premiers (`ordre_publication` 1 à 10) sortent le jour `PUBLICATION_START` (par défaut le 20 octobre 2026), puis l'article n° N sort le jour `PUBLICATION_START + N - 10`. La taille du premier lot se règle avec `PUBLICATION_FIRST_BATCH`. Le site est reconstruit chaque matin vers 6 h (heure de Paris) par GitHub Actions : seuls les articles déjà sortis sont générés, listés dans le sitemap et le flux RSS, et liés depuis les autres articles. Un lien vers un article à venir est affiché comme du texte simple, et les entrées « À lire aussi » correspondantes sont masquées jusqu'à sa sortie.
 - Le commentaire `<!-- Lecteur YouTube à intégrer ici : ID -->` devient un lecteur léger : seule la miniature est chargée, la vidéo (youtube-nocookie) ne se charge qu'au clic.
 
 ## SEO
@@ -32,7 +32,7 @@ Le workflow `.github/workflows/deploy.yml` construit et publie le site à chaque
 1. Dans **Settings > Pages**, choisir **Source : GitHub Actions**.
 2. Tant qu'aucun domaine n'est branché, le site est servi sur `https://sia-coding-capital.github.io/plt-family-office/`.
 3. Pour passer sur le vrai domaine : dans **Settings > Secrets and variables > Actions > Variables**, créer `CUSTOM_DOMAIN` = `www.plt-family-office.com`, puis pointer le DNS (`CNAME www` vers `sia-coding-capital.github.io`) et renseigner le domaine dans **Settings > Pages**.
-4. Pour décaler le calendrier du journal, créer la variable `PUBLICATION_START` (format `AAAA-MM-JJ`).
+4. Pour décaler le calendrier du journal, créer la variable `PUBLICATION_START` (format `AAAA-MM-JJ`), et `PUBLICATION_FIRST_BATCH` pour changer le nombre d'articles du premier jour.
 
 GitHub désactive les tâches planifiées d'un dépôt sans activité pendant 60 jours : un commit de temps en temps (un nouvel article, par exemple) suffit à les garder actives.
 

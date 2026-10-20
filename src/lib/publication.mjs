@@ -1,9 +1,11 @@
-// Calendrier : l'article n° N (ordre_publication) sort le jour LANCEMENT + N - 1, à Paris.
+// Calendrier : les PREMIER_LOT premiers articles (ordre_publication) sortent le jour du LANCEMENT,
+// puis un par jour : l'article n° N sort le jour LANCEMENT + N - PREMIER_LOT, à Paris.
 // Le site est reconstruit chaque matin ; seuls les articles déjà sortis sont générés et liés.
 import fs from 'node:fs';
 import path from 'node:path';
 
-export const LANCEMENT = process.env.PUBLICATION_START || '2026-11-02';
+export const LANCEMENT = process.env.PUBLICATION_START || '2026-10-20';
+export const PREMIER_LOT = Number(process.env.PUBLICATION_FIRST_BATCH || 10);
 const TOUT_AFFICHER = process.env.SHOW_ALL === '1';
 
 const jourParis = (d = new Date()) =>
@@ -13,7 +15,7 @@ export const aujourdhui = () => process.env.BUILD_DATE || jourParis();
 
 export function datePublication(ordre) {
   const d = new Date(`${LANCEMENT}T00:00:00Z`);
-  d.setUTCDate(d.getUTCDate() + ordre - 1);
+  d.setUTCDate(d.getUTCDate() + Math.max(0, ordre - PREMIER_LOT));
   return d.toISOString().slice(0, 10);
 }
 
