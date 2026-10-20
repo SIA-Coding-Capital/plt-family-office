@@ -32,15 +32,15 @@ date_mise_a_jour: 2026-10-20
 
 *Cofondateur et actionnaire de PLT Family Office. Investisseur et entrepreneur.*
 
-> Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Ingénieur de formation, il a fondé Coding Capital, un groupe de logiciels dédiés à l'intelligence financière, ainsi que la chaîne Parlons Long Terme. Chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*, il est très actif dans l'écosystème des introductions en Bourse. Il signe les articles du journal de PLT Family Office.
+> Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Ingénieur de formation, il a cofondé [Coding Capital](https://www.coding-capital.com), un groupe de logiciels dédiés à l'intelligence financière, ainsi que la chaîne Parlons Long Terme. Chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*, il est très actif dans l'écosystème des introductions en Bourse. Il signe les articles du journal de PLT Family Office.
 
 <!-- Portrait HD de Rémi à intégrer ici -->
 
 ## Son parcours
 
-Rémi n'est pas conseiller : il est investisseur et entrepreneur. Cofondateur et actionnaire de PLT Family Office, il a porté la vision du projet : rendre accessibles, dès 300 000 € de patrimoine, les méthodes que les grandes familles réservaient jusqu'ici à leur propre family office. Le multi family office est opéré par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers (CIF), qui délivrent les conseils aux familles.
+Rémi est investisseur et entrepreneur. Cofondateur et actionnaire de PLT Family Office, il a porté la vision du projet : rendre accessibles, dès 300 000 € de patrimoine, les méthodes que les grandes familles réservaient jusqu'ici à leur propre family office. Le multi family office est opéré par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers (CIF), qui délivrent les conseils aux familles.
 
-Ingénieur de formation, Rémi construit depuis 2022 Coding Capital, un groupe européen de sociétés logicielles qui développe des outils conçus à partir de sa vision de l'investissement, dont [Value Investing Screener](https://www.value-investing-screener.com), sa plateforme de recherche actions.
+Ingénieur de formation, Rémi construit depuis 2022 [Coding Capital](https://www.coding-capital.com), dont il est cofondateur, un groupe européen de sociétés logicielles qui développe des outils conçus à partir de sa vision de l'investissement, dont [Value Investing Screener](https://www.value-investing-screener.com), sa plateforme de recherche actions.
 
 ## Les introductions en Bourse
 
