@@ -1,10 +1,8 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import Carte from '../../components/Carte.astro';
 import '../../styles/journal.css';
 import { SITE, lien } from '../../lib/site';
-import { articlesPublies } from '../../lib/journal';
 
 export async function getStaticPaths() {
   return (await getCollection('auteurs')).map((p) => ({ params: { slug: p.data.slug }, props: { p } }));
@@ -12,15 +10,18 @@ export async function getStaticPaths() {
 const { p } = Astro.props;
 const d = p.data;
 const { Content } = await render(p);
-const siens = (await articlesPublies()).filter((a) => a.data.auteur === d.nom);
 const url = new URL(lien(`/auteurs/${d.slug}`), Astro.site).href;
+const personne = `${url}#personne`;
 const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'ProfilePage',
     url,
+    dateModified: d.date_mise_a_jour.toISOString().slice(0, 10),
     mainEntity: {
       '@type': 'Person',
+      '@id': personne,
+      description: d.meta_description,
       name: d.nom,
       jobTitle: d.fonction,
       worksFor: { '@type': 'Organization', name: SITE.nom, url: new URL(lien('/'), Astro.site).href },
@@ -29,6 +30,15 @@ const jsonld = [
       url,
     },
   },
+  ...d.livres.map((l) => ({
+    '@context': 'https://schema.org',
+    '@type': 'Book',
+    name: l.titre,
+    inLanguage: 'fr-FR',
+    author: { '@id': personne },
+    ...(l.url && { url: l.url }),
+    ...(l.isbn && { isbn: l.isbn }),
+  })),
 ];
 ---
 <Base titre={`${d.title} | PLT Family Office`} description={d.meta_description} jsonld={jsonld} actif="journal">
@@ -37,10 +47,4 @@ const jsonld = [
       <Content />
     </article>
   </div>
-  {siens.length > 0 && (
-    <section class="wrap liste">
-      <h2 class="grappe-bloc" style="font-size:30px;margin-bottom:28px">Ses articles</h2>
-      <div class="articles">{siens.map((a) => <Carte a={a} />)}</div>
-    </section>
-  )}
 </Base>

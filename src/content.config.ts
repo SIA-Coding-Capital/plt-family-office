@@ -42,6 +42,8 @@ const auteurs = defineCollection({
     organisation: z.string(),
     same_as: z.array(z.string()).default([]),
     expertise: z.array(z.string()).default([]),
+    medias: z.array(z.string()).default([]),
+    livres: z.array(z.object({ titre: z.string(), url: z.string().optional(), isbn: z.string().optional() })).default([]),
     date_mise_a_jour: z.coerce.date(),
   }),
 });

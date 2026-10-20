@@ -16,6 +16,6 @@ export default defineConfig({
   compressHTML: true,
   integrations: [sitemap({ filter: (page) => !page.endsWith('/404') })],
   markdown: {
-    processor: unified({ smartypants: false, rehypePlugins: [[rehypeJournal, { publies: slugsPublies(), base }]] }),
+    processor: unified({ smartypants: false, rehypePlugins: [[rehypeJournal, { publies: slugsPublies(), base, formulaire: 'https://forms.gle/78iLjWRAvM94KBA48' }]] }),
   },
 });

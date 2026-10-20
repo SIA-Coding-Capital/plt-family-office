@@ -1,10 +1,10 @@
 ---
 title: "Rémi de Truchis de Varennes, cofondateur de PLT Family Office"
-meta_description: "Rémi de Truchis de Varennes, cofondateur de PLT Family Office et de la chaîne Parlons Long Terme : parcours, convictions d'investisseur et articles du journal."
+meta_description: "Rémi de Truchis de Varennes, investisseur et entrepreneur, cofondateur de PLT Family Office, Coding Capital et IPO Arena, chroniqueur BFM Business."
 slug: remi-de-truchis-de-varennes
 url: /auteurs/remi-de-truchis-de-varennes
 nom: Rémi de Truchis de Varennes
-fonction: "Cofondateur, investisseur"
+fonction: "Cofondateur et actionnaire, investisseur et entrepreneur"
 organisation: PLT Family Office
 photo: "À fournir (portrait HD, demandé plus tard)"
 livres:
@@ -16,32 +16,43 @@ livres:
 same_as:
   - https://www.youtube.com/@parlons-long-terme
   - https://www.linkedin.com/in/remi-de-truchis-de-varennes/
+  - https://www.ipo-arena.com
+medias:
+  - BFM Business (chroniqueur, « Thème d'avenir » sur BFM Bourse)
 expertise:
   - Allocation de capital à long terme
   - Value investing
   - Small caps
   - Investissement en bourse
+  - Introductions en Bourse (IPO)
 date_mise_a_jour: 2026-10-20
 ---
 
 # Rémi de Truchis de Varennes
 
-*Cofondateur de PLT Family Office. Investisseur.*
+*Cofondateur et actionnaire de PLT Family Office. Investisseur et entrepreneur.*
 
-> Rémi de Truchis de Varennes est cofondateur de PLT Family Office, dont il a porté la vision et défini les principes fondateurs. Spécialiste de l'allocation de capital à long terme et du value investing, il a fondé la chaîne YouTube Parlons Long Terme et plusieurs entreprises dans le logiciel et la finance. Il est l'auteur de *Surperformez en bourse avec les small caps* et signe les articles du journal de PLT Family Office.
+> Rémi de Truchis de Varennes est investisseur et entrepreneur, cofondateur et actionnaire de PLT Family Office. Ingénieur de formation, il a fondé Coding Capital, un groupe de logiciels dédiés à l'intelligence financière, ainsi que la chaîne Parlons Long Terme. Chroniqueur sur BFM Business et auteur de *Surperformez en bourse avec les small caps*, il est très actif dans l'écosystème des introductions en Bourse. Il signe les articles du journal de PLT Family Office.
 
 <!-- Portrait HD de Rémi à intégrer ici -->
 
 ## Son parcours
 
-Rémi est entrepreneur avant d'être conseiller. Il a créé plusieurs entreprises dans les univers du logiciel et de la finance, puis la chaîne [Parlons Long Terme](https://www.youtube.com/@parlons-long-terme), consacrée à l'investissement et à la gestion de patrimoine sur le long terme. Il y reçoit notamment Christophe Faglin, cofondateur de PLT Family Office, pour décrypter la transmission, la fiscalité et l'allocation des grandes fortunes.
+Rémi n'est pas conseiller : il est investisseur et entrepreneur. Cofondateur et actionnaire de PLT Family Office, il a porté la vision du projet : rendre accessibles, dès 300 000 € de patrimoine, les méthodes que les grandes familles réservaient jusqu'ici à leur propre family office. Le multi family office est opéré par Christophe Faglin et Sébastien Valton, conseillers en investissements financiers (CIF), qui délivrent les conseils aux familles.
 
-C'est de cette démarche qu'est né PLT Family Office : rendre accessibles, dès 300 000 € de patrimoine, les méthodes que les grandes familles réservaient jusqu'ici à leur propre family office. Rémi intervient aujourd'hui comme cofondateur et investisseur. Le conseil aux familles est assuré par les associés conseillers en investissements financiers (CIF) de PLT Family Office.
+Ingénieur de formation, Rémi construit depuis 2022 Coding Capital, un groupe européen de sociétés logicielles qui développe des outils conçus à partir de sa vision de l'investissement, dont [Value Investing Screener](https://www.value-investing-screener.com), sa plateforme de recherche actions.
 
-Il est l'auteur de deux livres :
+## Les introductions en Bourse
 
-- [*Surperformez en bourse avec les small caps : le value investing pour des investissements performants et sécurisés*](https://www.amazon.fr/dp/2818812240) ;
-- [*Enseignez l'argent à vos enfants : le guide de l'éducation financière de 3 à 18 ans, argent, épargne et investissement en famille*](https://www.amazon.fr/dp/B09RGBXQV7).
+Rémi est un acteur actif de l'écosystème des introductions en Bourse. Il a participé à de multiples IPO et conseille des dirigeants sur cette thématique. Il est cofondateur d'[IPO Arena](https://www.ipo-arena.com), le réseau d'investisseurs dédié aux introductions en Bourse européennes, qui aide les particuliers à repérer, comprendre et, lorsque l'offre le permet, souscrire aux IPO avant la première cotation. L'initiative est menée en partenariat avec Saxo Banque et soutenue par Euronext.
+
+## Médias et publications
+
+- **BFM Business** : chroniqueur régulier, notamment dans « Thème d'avenir », sur BFM Bourse.
+- **Parlons Long Terme** : fondateur de la [chaîne YouTube](https://www.youtube.com/@parlons-long-terme) consacrée à l'investissement et à la gestion de patrimoine sur le long terme, où il reçoit notamment Christophe Faglin.
+- **Livres** :
+  - [*Surperformez en bourse avec les small caps : le value investing pour des investissements performants et sécurisés*](https://www.amazon.fr/dp/2818812240) ;
+  - [*Enseignez l'argent à vos enfants : le guide de l'éducation financière de 3 à 18 ans, argent, épargne et investissement en famille*](https://www.amazon.fr/dp/B09RGBXQV7).
 
 Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/remi-de-truchis-de-varennes/).
 

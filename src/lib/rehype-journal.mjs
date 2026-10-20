@@ -6,7 +6,7 @@ import { visit, SKIP } from 'unist-util-visit';
 const texte = (n) => (n.type === 'text' ? n.value : (n.children || []).map(texte).join(''));
 const el = (tagName, properties, children = []) => ({ type: 'element', tagName, properties, children });
 
-export default function rehypeJournal({ publies, base = '/' }) {
+export default function rehypeJournal({ publies, base = '/', formulaire }) {
   const prefixe = base.replace(/\/$/, '');
   return (tree, file) => {
     // 1. Titre et signature des articles : rendus par le gabarit
@@ -35,6 +35,9 @@ export default function rehypeJournal({ publies, base = '/' }) {
             parent.children.splice(index, 1, ...node.children);
             return [SKIP, index];
           }
+        } else if (href === '/candidater' && formulaire) {
+          node.properties.href = formulaire;
+          node.properties.rel = ['noopener'];
         } else if (href.startsWith('/')) {
           node.properties.href = prefixe + href;
         } else if (/^https?:/.test(href)) {
@@ -74,7 +77,7 @@ export default function rehypeJournal({ publies, base = '/' }) {
       if (kids[k].tagName !== 'ul' || kids[k].children.some((c) => c.tagName === 'li')) continue;
       let h = k - 1;
       while (h >= 0 && kids[h].type === 'text' && !kids[h].value.trim()) h--;
-      const debut = h >= 0 && kids[h].tagName === 'h2' ? h : k;
+      const debut = h >= 0 && /^h[23]$/.test(kids[h].tagName) ? h : k;
       kids.splice(debut, k - debut + 1);
       k = debut;
     }
