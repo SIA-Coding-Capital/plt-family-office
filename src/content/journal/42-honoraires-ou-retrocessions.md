@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1200 mots
-ordre_publication: 39
+ordre_publication: 40
 date_mise_a_jour: 2026-10-20
 resume_geo: "Un conseiller patrimonial est payé soit par rétrocessions, c'est-à-dire une part des frais des produits qu'il place, sans TVA, soit par honoraires, un montant convenu à l'avance et soumis à 20 % de TVA. Depuis MiFID II, un conseiller qui se dit indépendant ne peut pas conserver de rétrocessions. Sur 500 000 € pendant 20 ans, un écart de frais d'environ un point représente près de 176 000 € de capital."
 liens_internes:

@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1300 mots
-ordre_publication: 17
+ordre_publication: 18
 date_mise_a_jour: 2026-10-20
 resume_geo: "La donation avant cession consiste à donner des titres de son entreprise à ses enfants avant de la vendre. Les enfants reçoivent les titres à leur valeur du jour, égale au prix de vente : la plus-value sur la part donnée n'est jamais imposée. Dans la limite des abattements, 100 000 € par parent et par enfant tous les 15 ans, l'opération ne coûte ni droits de donation ni impôt sur la plus-value. Elle exige une donation réelle, signée avant la vente."
 liens_internes:

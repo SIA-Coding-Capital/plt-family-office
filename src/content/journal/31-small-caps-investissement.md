@@ -17,17 +17,18 @@ source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1150 mots
-ordre_publication: 35
+ordre_publication: 36
 date_mise_a_jour: 2026-10-20
 resume_geo: "Les small caps sont les entreprises cotées de petite capitalisation, souvent moins de 2 milliards d'euros en Europe. Moins suivies par les analystes, elles offrent davantage d'occasions de trouver des sociétés mal valorisées, et la recherche académique a documenté sur longue période une prime liée à la taille, irrégulière. En contrepartie, elles sont plus volatiles et moins liquides. Elles se détiennent en PEA ou PEA-PME (225 000 € de versements cumulés), en compte-titres ou dans un contrat luxembourgeois pour les marchés hors Europe."
 liens_internes:
-  - /journal/etf-ou-gestion-active
   - /journal/allocation-patrimoine-grandes-fortunes
-  - /journal/compte-titres-pea-succession
   - /journal/assurance-vie-luxembourgeoise
+  - /journal/compte-titres-pea-succession
   - /journal/credit-lombard
-  - /journal/verifier-qualite-fonds-quantalys-morningstar
   - /journal/diversification-devises-risque-change
+  - /journal/etf-ou-gestion-active
+  - /journal/n4-group-introduction-bourse-inshape-nutrition
+  - /journal/verifier-qualite-fonds-quantalys-morningstar
 videos:
   - id: A1gOvHMmxBk
     titre: "1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026"
@@ -66,7 +67,7 @@ Quand on parle de bourse, on parle presque toujours des mêmes noms : quelques g
 
 ## Qu'est-ce qu'une small cap ?
 
-Une small cap est une entreprise cotée dont la capitalisation boursière, c'est-à-dire la valeur totale de ses actions, est faible par rapport aux grandes valeurs de son marché. Il n'existe pas de seuil officiel unique. En Europe, on parle généralement de sociétés valant moins de 1 à 2 milliards d'euros. La réglementation française retient d'ailleurs une capitalisation inférieure à 2 milliards d'euros pour qu'une société cotée soit éligible au PEA-PME.
+Une small cap est une entreprise cotée dont la capitalisation boursière, c'est-à-dire la valeur totale de ses actions, est faible par rapport aux grandes valeurs de son marché. Il n'existe pas de seuil officiel unique. En Europe, on parle généralement de sociétés valant moins de 1 à 2 milliards d'euros. La réglementation française retient d'ailleurs une capitalisation inférieure à 2 milliards d'euros pour qu'une société cotée soit éligible au PEA-PME. Notre [analyse de l'introduction en Bourse de N4 Group](/journal/n4-group-introduction-bourse-inshape-nutrition), la société derrière InShape Nutrition, montre comment étudier une petite valeur avant même sa cotation.
 
 On distingue souvent les **small caps value**, des entreprises rentables qui se paient peu cher au regard de leurs bénéfices ou de leurs actifs, des small caps de croissance, qui misent sur un développement futur encore à démontrer. Mes portefeuilles relèvent de la première famille.
 
@@ -161,6 +162,7 @@ Elles ne sont pas éligibles au PEA. On les détient sur un compte-titres, où c
 
 ## À lire aussi
 
+- [N4 Group (InShape Nutrition) en Bourse : analyse de l'IPO](/journal/n4-group-introduction-bourse-inshape-nutrition) : un exemple concret d'analyse d'une petite valeur avant sa cotation
 - [ETF ou gestion active : quand chaque approche a du sens](/journal/etf-ou-gestion-active) : pourquoi la sélection paie davantage sur les petites valeurs
 - [Compte-titres, PEA, assurance-vie : que se passe-t-il au décès ?](/journal/compte-titres-pea-succession) : choisir l'enveloppe en pensant aussi à la transmission
 - [Assurance-vie luxembourgeoise : avantages, frais et pièges](/journal/assurance-vie-luxembourgeoise) : loger des small caps du monde entier en titres vifs

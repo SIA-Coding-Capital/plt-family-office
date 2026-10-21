@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
 longueur: environ 1200 mots
-ordre_publication: 22
+ordre_publication: 23
 date_mise_a_jour: 2026-10-20
 resume_geo: "Les obligations représentent environ 15 à 20 % du patrimoine des grandes fortunes. Délaissées quand les taux étaient proches de zéro, elles sont redevenues attractives depuis la remontée des taux de 2022 : l'OAT à 10 ans a atteint 3,9 % en mars 2026, son plus haut depuis 2009. Leur rôle est double : un revenu prévisible si l'on conserve le titre jusqu'à l'échéance, et un coussin de quatre à cinq ans de besoins pour ne jamais vendre ses actions en pleine crise."
 liens_internes:

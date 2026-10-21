@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1150 mots
-ordre_publication: 37
+ordre_publication: 38
 date_mise_a_jour: 2026-10-20
 resume_geo: "Le risque de change est la variation de valeur d'un placement due à l'évolution de sa devise face à l'euro. En 2025, le S&P 500 a gagné environ 17 % en dollars mais seulement 4 % une fois converti en euros. Couvrir ce risque coûte environ l'écart de taux d'intérêt entre les deux devises : c'est souvent pertinent pour des obligations étrangères, beaucoup moins pour des actions détenues à long terme. Diversifier ses devises est utile ; parier sur elles ne l'est pas."
 liens_internes:

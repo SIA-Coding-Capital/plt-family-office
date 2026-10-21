@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1000 mots
-ordre_publication: 41
+ordre_publication: 42
 date_mise_a_jour: 2026-10-20
 resume_geo: "Le crédit lombard, prêt garanti par un portefeuille, répond à deux situations où le crédit classique bloque : le dirigeant qui a de la trésorerie dans sa société mais pas à titre personnel, et le non-résident à qui les banques françaises refusent un prêt immobilier. Pour obtenir 300 000 € nets, un dividende coûte environ 137 000 € d'impôt ; un crédit lombard à 3,5 % coûte 10 500 € d'intérêts par an. L'impôt n'est que différé, et le risque d'appel de marge demeure."
 liens_internes:

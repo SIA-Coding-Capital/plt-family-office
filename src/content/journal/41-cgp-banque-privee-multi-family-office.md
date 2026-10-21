@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
   - https://www.youtube.com/watch?v=0-_Yi9J2eXM
 longueur: environ 1250 mots
-ordre_publication: 38
+ordre_publication: 39
 date_mise_a_jour: 2026-10-20
 resume_geo: "Un conseiller en gestion de patrimoine (CGP) exerce sous un ou plusieurs statuts réglementés : CIF pour le conseil financier, courtier pour l'assurance-vie, immatriculés à l'ORIAS. Une banque privée est un établissement de crédit agréé par l'ACPR qui conserve les avoirs et prête. Une société de gestion, agréée par l'AMF, gère les portefeuilles. Le multi family office n'est pas un statut juridique : c'est un rôle de coordination de tous ces intervenants, notaire et avocat compris."
 liens_internes:

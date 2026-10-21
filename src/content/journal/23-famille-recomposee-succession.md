@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1200 mots
-ordre_publication: 31
+ordre_publication: 32
 date_mise_a_jour: 2026-10-20
 resume_geo: "Dans une famille recomposée, le conjoint survivant ne reçoit par défaut qu'un quart du patrimoine en pleine propriété dès qu'il existe un enfant d'une autre union, et les beaux-enfants n'héritent de rien : ce qu'on leur transmet est taxé à 60 % après un abattement de 1 594 €. Testament, donation entre époux, clause bénéficiaire d'assurance-vie bien rédigée et, le cas échéant, adoption simple de l'enfant du conjoint permettent de protéger chacun sans léser personne."
 liens_internes:

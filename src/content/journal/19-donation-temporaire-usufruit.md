@@ -15,7 +15,7 @@ auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1200 mots
-ordre_publication: 34
+ordre_publication: 35
 date_mise_a_jour: 2026-10-20
 resume_geo: "La donation temporaire d'usufruit consiste à donner, pour une durée fixe, le droit d'utiliser un bien ou d'en percevoir les revenus, puis à en retrouver automatiquement la pleine propriété au terme, sans droits. L'usufruit temporaire est évalué à 23 % de la valeur du bien par période de dix ans. Elle sert surtout à transférer des loyers à un enfant moins imposé, ou à une fondation, et à sortir le bien de l'IFI du donateur pendant la durée de la donation."
 liens_internes:

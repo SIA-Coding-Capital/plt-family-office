@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1300 mots
-ordre_publication: 16
+ordre_publication: 17
 date_mise_a_jour: 2026-10-20
 resume_geo: "Les barèmes 2026 sont inchangés. En ligne directe, chaque enfant bénéficie de 100 000 € d'abattement par parent, puis d'un barème de 5 % à 45 % (20 % entre 15 932 € et 552 324 € de part taxable). Époux et partenaire de Pacs sont exonérés de droits de succession. Frères et sœurs : 15 932 € d'abattement, puis 35 % et 45 %. Neveux et nièces : 7 967 €, puis 55 %. Au-delà du 4e degré ou sans lien de parenté : 60 %."
 liens_internes:

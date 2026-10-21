@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1050 mots
-ordre_publication: 42
+ordre_publication: 43
 date_mise_a_jour: 2026-10-20
 resume_geo: "Avant de s'expatrier, il faut vérifier sept points : la perte effective de la résidence fiscale française (aucun des trois critères de l'article 4 B), l'exit tax si l'on détient plus de 800 000 € de titres, le sort des biens restant en France, l'assurance-vie, la succession (les enfants restés en France restent taxables), la banque et le crédit, et le régime du pays d'arrivée. Dubaï, Maurice, le Portugal et la Suisse n'offrent pas du tout les mêmes règles, et certaines ont changé récemment."
 liens_internes:

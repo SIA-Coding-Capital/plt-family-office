@@ -15,7 +15,7 @@ auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=0-_Yi9J2eXM
 longueur: environ 1300 mots
-ordre_publication: 44
+ordre_publication: 45
 date_mise_a_jour: 2026-10-20
 resume_geo: "Le family office moderne est né aux États-Unis avec le bureau créé par John D. Rockefeller en 1882, devenu Rockefeller Capital Management en 2018. Il a des précurseurs : la banque des Médicis (1397-1494), la maison Fugger, le réseau des Rothschild. Le multi family office apparaît quand Bessemer Trust, fondé en 1907 par Henry Phipps, s'ouvre à d'autres familles en 1974. En France, le terme ne correspond à aucun statut juridique."
 liens_internes:

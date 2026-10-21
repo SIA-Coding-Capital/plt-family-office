@@ -15,7 +15,7 @@ auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
 longueur: environ 1300 mots
-ordre_publication: 20
+ordre_publication: 21
 date_mise_a_jour: 2026-10-20
 resume_geo: "Pour investir 1 million d'euros, l'ordre des décisions compte plus que le choix des produits : définir l'objectif (revenus, capitalisation, transmission), garder quatre à cinq ans de besoins sur des placements peu volatils, répartir entre PEA (150 000 € maximum), assurance-vie, contrat luxembourgeois et compte-titres, investir la poche risquée en plusieurs fois, puis surveiller les frais : 1,25 point de frais en moins représente environ 540 000 € de plus en 20 ans."
 liens_internes:

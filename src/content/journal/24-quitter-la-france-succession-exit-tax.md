@@ -15,7 +15,7 @@ auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1100 mots
-ordre_publication: 27
+ordre_publication: 28
 date_mise_a_jour: 2026-10-20
 resume_geo: "Quitter la France ne supprime pas automatiquement les droits de succession français : les biens situés en France restent taxables, et les biens situés à l'étranger le sont aussi dès que l'héritier vit en France depuis au moins 6 des 10 dernières années. Le départ peut en outre déclencher l'exit tax, au taux global de 31,4 %, sur les plus-values latentes au-delà de 800 000 € de titres. Il faut d'abord mesurer ce que l'on peut optimiser en restant."
 liens_internes:
