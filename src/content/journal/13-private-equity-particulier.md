@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 800 mots
-ordre_publication: 13
+ordre_publication: 12
 date_mise_a_jour: 2026-10-20
 resume_geo: "Le private equity consiste à investir dans des entreprises non cotées. Il représente environ un quart du patrimoine des grandes fortunes, contre 2 à 5 % chez les particuliers français. Sur vingt ans, les fonds médians de croissance ont rapporté environ 13 % par an et ceux du premier quartile plus de 20 %. Un particulier y accède via des fonds de fonds ou un contrat d'assurance-vie luxembourgeois."
 liens_internes:
@@ -28,7 +28,6 @@ liens_internes:
   - /journal/donation-partage-ou-donation-simple
   - /journal/family-office-ou-banque-privee
   - /journal/multi-family-office-definition
-  - /journal/n4-group-introduction-bourse-inshape-nutrition
 videos:
   - id: A1gOvHMmxBk
     titre: "1M€ à 10M€ de patrimoine : l'allocation intelligente pour 2026"
@@ -60,7 +59,7 @@ sources:
 
 > **L'essentiel.** Le private equity consiste à investir dans des entreprises non cotées. Il représente environ un quart du patrimoine des grandes fortunes, contre 2 à 5 % chez les particuliers français. Sur vingt ans, les fonds médians de croissance ont rapporté environ 13 % par an et ceux du premier quartile plus de 20 %. Un particulier y accède via des fonds de fonds ou un contrat d'assurance-vie luxembourgeois.
 
-Le private equity, ou capital-investissement, consiste à investir dans des entreprises non cotées : jeunes sociétés en forte croissance, entreprises rentables qui veulent accélérer, opérations de reprise. Chez les particuliers français, il pèse entre 2 et 5 % du patrimoine. Chez les grandes fortunes, le private equity et la dette privée représentent **environ un quart** des actifs. L'introduction en Bourse est souvent l'étape suivante, comme pour [N4 Group, la maison mère d'InShape Nutrition](/journal/n4-group-introduction-bourse-inshape-nutrition).
+Le private equity, ou capital-investissement, consiste à investir dans des entreprises non cotées : jeunes sociétés en forte croissance, entreprises rentables qui veulent accélérer, opérations de reprise. Chez les particuliers français, il pèse entre 2 et 5 % du patrimoine. Chez les grandes fortunes, le private equity et la dette privée représentent **environ un quart** des actifs.
 
 Cet écart n'est pas un hasard : c'est l'un des domaines où un [multi family office](/journal/multi-family-office-definition) apporte le plus.
 
@@ -146,7 +145,6 @@ Elle dépend de l'horizon et des besoins de liquidité. Chez les grandes fortune
 
 ## À lire aussi
 
-- [N4 Group (InShape Nutrition) en Bourse : analyse de l'IPO](/journal/n4-group-introduction-bourse-inshape-nutrition) : ce qui change quand une entreprise arrive en Bourse
 - [Comment investissent les grandes fortunes](/journal/allocation-patrimoine-grandes-fortunes) : la répartition type d'un patrimoine fortuné
 - [Assurance-vie luxembourgeoise : avantages, frais et pièges](/journal/assurance-vie-luxembourgeoise) : sécurité, neutralité fiscale et vrais frais
 - [Crédit lombard : fonctionnement, taux et risques](/journal/credit-lombard) : emprunter sans vendre ses placements, et éviter l'appel de marge

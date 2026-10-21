@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
 longueur: environ 1300 mots
-ordre_publication: 20
+ordre_publication: 19
 date_mise_a_jour: 2026-10-20
 resume_geo: "Le pacte Dutreil exonère de droits de donation ou de succession 75 % de la valeur des titres d'une entreprise opérationnelle transmise, à condition d'un engagement collectif de conservation de 2 ans, d'un engagement individuel des héritiers ou donataires (6 ans depuis le 21 février 2026) et de l'exercice d'une fonction de direction. Depuis 2026, les actifs de confort détenus par la société (logements, yachts, objets d'art) sont exclus de l'avantage."
 liens_internes:

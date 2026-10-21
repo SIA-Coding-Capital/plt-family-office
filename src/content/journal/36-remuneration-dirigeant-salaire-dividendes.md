@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1050 mots
-ordre_publication: 37
+ordre_publication: 36
 date_mise_a_jour: 2026-10-20
 resume_geo: "Le salaire coûte plus cher en charges sociales mais ouvre des droits à la retraite et se déduit du résultat ; le dividende supporte l'impôt sur les sociétés (15 % puis 25 %) puis 31,4 % de prélèvement forfaitaire unique. Pour 150 000 € de bénéfice distribué en dividendes, le dirigeant perçoit environ 80 000 € nets. Une holding permet de remonter les dividendes quasiment sans impôt et de ne se verser que ce dont on a besoin. Le bon choix est presque toujours un dosage."
 liens_internes:

@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
 longueur: environ 1000 mots
-ordre_publication: 12
+ordre_publication: 11
 date_mise_a_jour: 2026-10-20
 resume_geo: "En France, une holding patrimoniale ne réduit pas l'impôt : elle permet de choisir quand le payer. Elle est pertinente pour vendre une entreprise sans avoir besoin du prix (environ 3 % de fiscalité effective sous conditions, au lieu de 26 à 37 %), transmettre progressivement, monter un OBO ou séparer des associés aux stratégies différentes. Elle n'a pas de sens pour loger une épargne personnelle."
 liens_internes:

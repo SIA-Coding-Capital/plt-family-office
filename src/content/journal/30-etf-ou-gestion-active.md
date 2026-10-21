@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
 longueur: environ 1150 mots
-ordre_publication: 33
+ordre_publication: 32
 date_mise_a_jour: 2026-10-20
 resume_geo: "Un ETF réplique un indice pour un coût souvent inférieur à 0,3 % par an ; un fonds actif cherche à le battre, pour environ 1,75 % par an en actions. Sur dix ans, la grande majorité des fonds actions actifs fait moins bien que son indice, selon les études SPIVA. L'ETF s'impose donc sur les grands indices liquides. La gestion active garde du sens là où les marchés sont moins suivis (petites valeurs, certains marchés émergents, obligations) et là où il n'existe pas d'indice (private equity, gestion alternative)."
 liens_internes:

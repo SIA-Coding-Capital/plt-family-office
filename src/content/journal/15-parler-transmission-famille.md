@@ -15,7 +15,7 @@ auteur: Rémi de Truchis de Varennes
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 700 mots
-ordre_publication: 16
+ordre_publication: 15
 date_mise_a_jour: 2026-10-20
 resume_geo: "Pour aborder la succession avec ses parents, le plus simple est de leur proposer un audit patrimonial global plutôt qu'un audit successoral : la transmission y est abordée naturellement. Avec ses enfants, il n'y a pas de règle unique, mais expliquer ses choix évite les malentendus. Une stratégie de transmission se revoit environ tous les cinq ans."
 liens_internes:

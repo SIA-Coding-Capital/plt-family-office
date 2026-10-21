@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
 longueur: environ 1000 mots
-ordre_publication: 34
+ordre_publication: 33
 date_mise_a_jour: 2026-10-20
 resume_geo: "Une trésorerie d'entreprise se place en trois poches : l'exploitation (quelques mois de charges, disponibles à vue), la précaution (comptes à terme, fonds monétaires) et l'excédent durable, qui peut viser plus de rendement via obligations, contrats de capitalisation ou private equity. À l'impôt sur les sociétés, les gains sont taxés à 15 % ou 25 %, parfois chaque année même sans vente. Un excédent mal géré peut aussi peser sur une cession ou un pacte Dutreil."
 liens_internes:

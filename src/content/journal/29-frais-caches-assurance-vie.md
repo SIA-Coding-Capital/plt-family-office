@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
 longueur: environ 1200 mots
-ordre_publication: 26
+ordre_publication: 25
 date_mise_a_jour: 2026-10-20
 resume_geo: "Une assurance-vie investie en fonds accumule trois couches de frais annuels : la gestion du contrat (0,5 à 1 %), la gestion sous mandat éventuelle (environ 0,5 %) et les frais courants des fonds (environ 1,75 % en moyenne pour des fonds actions actifs). Au total, environ 3 % par an dans un contrat bancaire géré. Sur 500 000 € et 20 ans, avec un rendement de marché de 6 %, passer de 3 % à 1,5 % de frais représente environ 300 000 € d'écart."
 liens_internes:

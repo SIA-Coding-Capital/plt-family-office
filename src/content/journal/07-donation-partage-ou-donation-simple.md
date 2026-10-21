@@ -15,7 +15,7 @@ auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 800 mots
-ordre_publication: 14
+ordre_publication: 13
 date_mise_a_jour: 2026-10-20
 resume_geo: "Une donation simple est rapportée à la succession pour la valeur du bien au moment du partage : si un enfant a fait fructifier sa donation et l'autre non, l'égalité voulue par les parents est rompue. La donation-partage, signée devant notaire, fige la valeur des biens au jour de la donation et préserve l'équité entre enfants, même si les donations ont eu lieu à des dates différentes."
 liens_internes:

@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
   - https://www.youtube.com/watch?v=0-_Yi9J2eXM
 longueur: environ 1200 mots
-ordre_publication: 22
+ordre_publication: 21
 date_mise_a_jour: 2026-10-20
 resume_geo: "Dans la plupart des banques, la gestion de fortune n'est accessible qu'à partir de 3 à 5 millions d'euros. Certains multi family offices l'ouvrent dès 300 000 €, comme PLT Family Office, sur candidature. À ce niveau, elle se justifie surtout lorsque la situation se complexifie : dirigeant, cession, héritage, transmission, expatriation. Un point de rendement gagné sur 300 000 € pendant 20 ans représente environ 166 000 € de capital en plus."
 liens_internes:

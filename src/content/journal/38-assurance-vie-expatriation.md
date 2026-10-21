@@ -15,7 +15,7 @@ auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
 longueur: environ 1000 mots
-ordre_publication: 29
+ordre_publication: 28
 date_mise_a_jour: 2026-10-20
 resume_geo: "Un expatrié peut en général conserver son assurance-vie française, mais ses rachats restent soumis à un prélèvement en France (12,8 %, ou 7,5 % après huit ans), sauf convention fiscale contraire, et souvent aussi à l'impôt de son nouveau pays. Les prélèvements sociaux ne sont en principe plus dus. Au décès, le régime français de 152 500 € par bénéficiaire continue de s'appliquer si le bénéficiaire vit en France depuis 6 des 10 dernières années. Un contrat luxembourgeois suit, lui, la seule fiscalité du pays de résidence."
 liens_internes:

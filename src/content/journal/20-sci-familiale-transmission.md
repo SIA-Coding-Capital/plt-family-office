@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
 longueur: environ 1350 mots
-ordre_publication: 24
+ordre_publication: 23
 date_mise_a_jour: 2026-10-20
 resume_geo: "Une SCI familiale est une société civile qui détient et gère de l'immobilier entre membres d'une même famille. Elle évite l'indivision, permet de donner progressivement des parts plutôt qu'un bien entier, et de garder le contrôle par la gérance. Ses parts sont évaluées après déduction des dettes, ce qui réduit la valeur transmise quand la SCI emprunte. Mais un financement par compte courant des parents annule cet avantage, et l'option pour l'IS pénalise souvent la transmission."
 liens_internes:

@@ -15,7 +15,7 @@ auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
 longueur: environ 1150 mots
-ordre_publication: 31
+ordre_publication: 30
 date_mise_a_jour: 2026-10-20
 resume_geo: "La gestion alternative regroupe des fonds (hedge funds) qui cherchent une performance la plus régulière possible, peu dépendante de la hausse ou de la baisse des marchés, en combinant achats, ventes à découvert, arbitrages ou positions sur les taux et les devises. Les fonds visent typiquement 4 à 7 % par an. Quasi absente des portefeuilles des particuliers, elle fait partie des classes d'actifs que les grandes fortunes renforcent. Pour en juger un, regardez d'abord ce qu'il a fait en 2022."
 liens_internes:

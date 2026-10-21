@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=z-pAIMtxv1w
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
 longueur: environ 1150 mots
-ordre_publication: 27
+ordre_publication: 26
 date_mise_a_jour: 2026-10-20
 resume_geo: "Pour vérifier la qualité d'un fonds, tapez son code ISIN sur Quantalys ou Morningstar, deux sites consultables gratuitement. Contrôlez sa catégorie, sa note de 1 à 5 étoiles (chez Morningstar, 5 étoiles signifie faire partie des 10 % meilleurs de la catégorie sur trois ans au moins), son rang sur trois et cinq ans et ses frais courants. Un fonds durablement dans la moitié basse de sa catégorie, et plus cher qu'elle, mérite une explication écrite de votre conseiller."
 liens_internes:

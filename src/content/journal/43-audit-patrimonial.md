@@ -16,7 +16,7 @@ source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
 longueur: environ 1300 mots
-ordre_publication: 44
+ordre_publication: 43
 date_mise_a_jour: 2026-10-20
 resume_geo: "Un audit patrimonial est une analyse complète de la situation d'une famille : droit de la famille, inventaire des biens et des dettes, fiscalité, qualité et frais des placements, simulation des droits de succession. Il débouche sur un plan d'action chiffré. Exemple : pour un parent veuf avec deux enfants et 1 M€ de patrimoine, les droits passent d'environ 156 400 € à 95 400 € en logeant 305 000 € en assurance-vie avant 70 ans. Il se refait environ tous les cinq ans."
 liens_internes:

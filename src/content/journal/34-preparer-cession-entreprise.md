@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=kRNe9rGqKyA
 longueur: environ 1100 mots
-ordre_publication: 30
+ordre_publication: 29
 date_mise_a_jour: 2026-10-20
 resume_geo: "Une cession d'entreprise se prépare idéalement trois ans à l'avance. Vendre en direct coûte 31,4 % de la plus-value, plus 3 à 4 % de contribution sur les hauts revenus. Un apport préalable des titres à une holding reporte l'impôt, à condition depuis février 2026 de réinvestir 70 % du prix dans une activité économique sous trois ans. Une donation avant la vente purge la plus-value sur les titres donnés. Trésorerie, régime matrimonial et allocation du prix se règlent aussi en amont."
 liens_internes:
@@ -26,7 +26,6 @@ liens_internes:
   - /journal/donation-avant-cession
   - /journal/holding-patrimoniale-quand-la-creer
   - /journal/investir-1-million-euros
-  - /journal/n4-group-introduction-bourse-inshape-nutrition
   - /journal/pacte-dutreil-transmission-entreprise
   - /journal/placer-tresorerie-entreprise
   - /journal/private-equity-particulier
@@ -64,7 +63,7 @@ sources:
 
 > **L'essentiel.** Une cession d'entreprise se prépare idéalement trois ans à l'avance. Vendre en direct coûte 31,4 % de la plus-value, plus 3 à 4 % de contribution sur les hauts revenus. Un apport préalable des titres à une holding reporte l'impôt, à condition depuis février 2026 de réinvestir 70 % du prix dans une activité économique sous trois ans. Une donation avant la vente purge la plus-value sur les titres donnés. Trésorerie, régime matrimonial et allocation du prix se règlent aussi en amont.
 
-La plupart des dirigeants préparent leur cession avec soin sur le plan opérationnel : audit, data room, banque d'affaires. La préparation patrimoniale arrive souvent trop tard, quand la lettre d'intention est signée et que la plupart des leviers sont fermés. Or c'est elle qui détermine ce qui restera réellement à la famille. La vente peut aussi passer par une introduction en Bourse, qui permet de céder une partie du capital tout en gardant le contrôle, comme l'ont fait les fondateurs de [N4 Group, la société derrière InShape Nutrition](/journal/n4-group-introduction-bourse-inshape-nutrition).
+La plupart des dirigeants préparent leur cession avec soin sur le plan opérationnel : audit, data room, banque d'affaires. La préparation patrimoniale arrive souvent trop tard, quand la lettre d'intention est signée et que la plupart des leviers sont fermés. Or c'est elle qui détermine ce qui restera réellement à la famille.
 
 ## Combien coûte une cession sans préparation ?
 
@@ -163,7 +162,6 @@ Oui, sur les titres donnés : le donataire les reçoit à leur valeur au jour de
 
 ## À lire aussi
 
-- [N4 Group (InShape Nutrition) en Bourse : analyse de l'IPO](/journal/n4-group-introduction-bourse-inshape-nutrition) : l'introduction en Bourse comme mode de cession partielle
 - [Donation avant cession](/journal/donation-avant-cession) : purger la plus-value en transmettant avant de vendre
 - [Holding patrimoniale : quand la créer](/journal/holding-patrimoniale-quand-la-creer) : apport-cession, OBO et transmission
 - [Pacte Dutreil](/journal/pacte-dutreil-transmission-entreprise) : transmettre plutôt que vendre, avec 75 % d'abattement

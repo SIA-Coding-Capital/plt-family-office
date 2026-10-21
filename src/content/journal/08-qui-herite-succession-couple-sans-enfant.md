@@ -15,7 +15,7 @@ auteur: Sébastien Valton
 source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
 longueur: environ 800 mots
-ordre_publication: 15
+ordre_publication: 14
 date_mise_a_jour: 2026-10-20
 resume_geo: "Sans testament, un partenaire de Pacs n'hérite pas. Un époux sans enfant dont les beaux-parents sont vivants ne reçoit que la moitié de la succession, chaque parent du défunt en recevant un quart. Un testament ou une donation entre époux corrige ces situations. Hors ligne directe, les droits de succession atteignent 45 % entre frères et sœurs et 55 % pour les neveux."
 liens_internes:

@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=A1gOvHMmxBk
   - https://www.youtube.com/watch?v=3yIsaGb3ywM
 longueur: environ 1250 mots
-ordre_publication: 41
+ordre_publication: 40
 date_mise_a_jour: 2026-10-20
 resume_geo: "Dans les patrimoines suivis en gestion de fortune, les cryptomonnaies pèsent en général moins de 1 %. Pour un investisseur convaincu, 3 à 5 % constitue un maximum raisonnable, investi progressivement, car l'actif ne verse aucun revenu et peut perdre 60 % en un an. On peut les détenir en direct, via des produits cotés (ETP) ou dans un contrat d'assurance-vie luxembourgeois. En direct, les plus-values sont taxées à 31,4 % en 2026."
 liens_internes:

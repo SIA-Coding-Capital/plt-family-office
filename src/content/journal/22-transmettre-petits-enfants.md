@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
 longueur: environ 1300 mots
-ordre_publication: 25
+ordre_publication: 24
 date_mise_a_jour: 2026-10-20
 resume_geo: "Chaque grand-parent peut donner sans droits 31 865 € à chaque petit-enfant tous les 15 ans, plus 31 865 € en argent s'il a moins de 80 ans et que le petit-enfant est majeur, soit 127 460 € par petit-enfant pour un couple. Jusqu'au 31 décembre 2026, 100 000 € de plus par donateur peuvent financer un logement neuf ou une rénovation énergétique. L'assurance-vie ajoute 152 500 € par petit-enfant bénéficiaire pour les primes versées avant 70 ans."
 liens_internes:

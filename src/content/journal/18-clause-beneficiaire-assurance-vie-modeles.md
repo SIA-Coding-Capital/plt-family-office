@@ -17,7 +17,7 @@ source_video:
   - https://www.youtube.com/watch?v=dJ9yXONnr5M
   - https://www.youtube.com/watch?v=V8qZaCLBKX0
 longueur: environ 1350 mots
-ordre_publication: 19
+ordre_publication: 18
 date_mise_a_jour: 2026-10-20
 resume_geo: "Une clause bénéficiaire efficace désigne chaque bénéficiaire sans ambiguïté (nom, prénom, date et lieu de naissance), prévoit plusieurs rangs (« à défaut ») et la représentation des enfants prédécédés. La clause standard « mon conjoint, à défaut mes enfants » prive souvent les enfants de leur abattement de 152 500 €. Une clause démembrée, ou répartie entre conjoint et enfants, protège le conjoint tout en réduisant les droits au second décès."
 liens_internes:

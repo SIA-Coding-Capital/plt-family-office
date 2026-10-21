@@ -73,7 +73,6 @@ Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/remi-de-truchis-de
 ### Allocation et investissement
 
 - [Small caps : pourquoi les petites valeurs méritent une place](/journal/small-caps-investissement)
-- [N4 Group (InShape Nutrition) en Bourse : analyse de l'IPO](/journal/n4-group-introduction-bourse-inshape-nutrition)
 
 ### Choisir son accompagnement
 
