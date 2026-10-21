@@ -27,12 +27,13 @@ npm run build        # génère dist/
 
 ## Mise en ligne (GitHub Pages)
 
-Le workflow `.github/workflows/deploy.yml` construit et publie le site à chaque push sur `main`, chaque matin, et à la demande.
+Le workflow `.github/workflows/deploy.yml` construit et publie le site à chaque push sur `main`, chaque matin, et à la demande. Il est servi sur `https://www.plt-family-office.com` (domaine renseigné dans **Settings > Pages**, fichier `CNAME` généré au build).
 
-1. Dans **Settings > Pages**, choisir **Source : GitHub Actions**.
-2. Tant qu'aucun domaine n'est branché, le site est servi sur `https://sia-coding-capital.github.io/plt-family-office/`.
-3. Pour passer sur le vrai domaine : dans **Settings > Secrets and variables > Actions > Variables**, créer `CUSTOM_DOMAIN` = `www.plt-family-office.com`, puis pointer le DNS (`CNAME www` vers `sia-coding-capital.github.io`) et renseigner le domaine dans **Settings > Pages**.
-4. Pour décaler le calendrier du journal, créer la variable `PUBLICATION_START` (format `AAAA-MM-JJ`), et `PUBLICATION_FIRST_BATCH` pour changer le nombre d'articles du premier jour.
+DNS chez OVH :
+- `www` : `CNAME` vers `sia-coding-capital.github.io.`
+- domaine nu `plt-family-office.com` : quatre enregistrements `A` vers `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` (et `AAAA` vers `2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153`). GitHub redirige alors le domaine nu vers `www`.
+
+Variables facultatives (**Settings > Secrets and variables > Actions > Variables**) : `CUSTOM_DOMAIN` pour changer de domaine, `PUBLICATION_START` et `PUBLICATION_FIRST_BATCH` pour décaler le calendrier du journal.
 
 GitHub désactive les tâches planifiées d'un dépôt sans activité pendant 60 jours : un commit de temps en temps (un nouvel article, par exemple) suffit à les garder actives.
 
