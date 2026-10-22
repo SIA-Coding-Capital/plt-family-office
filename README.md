@@ -16,7 +16,7 @@ npm run build        # génère dist/
 ## Le Journal
 
 - Les articles sont dans `src/content/journal/`, un fichier Markdown par article. L'en-tête YAML porte le titre SEO, la meta description, l'ordre de publication, la FAQ, les vidéos et les sources.
-- Ils viennent du dossier éditorial du projet : `npm run sync-blog -- /chemin/vers/blog` recopie `articles/` et `auteurs/` et relit les thèmes (grappes) dans le calendrier du `README.md`.
+- Les articles et les pages auteur (`src/content/auteurs/`) se modifient directement dans ce dépôt. Le thème (grappe) de chaque article, affiché sur le Journal, se règle dans `src/data/grappes.json` (numéro de l'article vers le nom du thème).
 - **10 articles au lancement, puis un par jour.** Les 10 premiers (`ordre_publication` 1 à 10) sortent le jour `PUBLICATION_START` (par défaut le 20 octobre 2026), puis l'article n° N sort le jour `PUBLICATION_START + N - 10`. La taille du premier lot se règle avec `PUBLICATION_FIRST_BATCH`. Le site est reconstruit chaque matin vers 6 h (heure de Paris) par GitHub Actions : seuls les articles déjà sortis sont générés, listés dans le sitemap et le flux RSS, et liés depuis les autres articles. Un lien vers un article à venir est affiché comme du texte simple, et les entrées « À lire aussi » correspondantes sont masquées jusqu'à sa sortie.
 - Le commentaire `<!-- Lecteur YouTube à intégrer ici : ID -->` devient un lecteur léger : seule la miniature est chargée, la vidéo (youtube-nocookie) ne se charge qu'au clic.
 
