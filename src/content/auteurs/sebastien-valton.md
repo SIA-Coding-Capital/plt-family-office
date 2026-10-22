@@ -9,6 +9,7 @@ organisation: PLT Family Office
 photo: https://cdn.prod.website-files.com/684f28f3bc4263879ab598bc/686246bd6dac00ac3738db27_S%C3%A9bastien-Valton.png
 same_as:
   - https://www.youtube.com/@Value-Investing-Screener
+  - https://www.youtube.com/@lecafefinance
   - https://www.linkedin.com/in/s%C3%A9bastien-valton-743847164/
 expertise:
   - Allocation d'actifs
@@ -49,7 +50,7 @@ Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-val
 ## Médias et pédagogie
 
 - **Value Investing Screener** : auteur de la [chaîne YouTube](https://www.youtube.com/@Value-Investing-Screener) consacrée à la pédagogie financière, à l'analyse d'entreprises et à l'investissement long terme.
-- **Le Café Finance** : cofondateur de ce média qui déconstruit les idées reçues sur la finance et la gestion de patrimoine, pour aider chacun à prendre des décisions éclairées.
+- **Le Café Finance** : cofondateur de ce [média](https://www.youtube.com/@lecafefinance) qui déconstruit les idées reçues sur la finance et la gestion de patrimoine, pour aider chacun à prendre des décisions éclairées.
 
 ## Ses articles
 
