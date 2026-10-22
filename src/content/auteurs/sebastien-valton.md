@@ -8,6 +8,7 @@ fonction: "Cofondateur, conseiller en investissements financiers (CIF)"
 organisation: PLT Family Office
 photo: https://cdn.prod.website-files.com/684f28f3bc4263879ab598bc/686246bd6dac00ac3738db27_S%C3%A9bastien-Valton.png
 same_as:
+  - https://www.youtube.com/@Value-Investing-Screener
   - https://www.linkedin.com/in/s%C3%A9bastien-valton-743847164/
 expertise:
   - Allocation d'actifs
@@ -15,16 +16,20 @@ expertise:
   - Analyse fondamentale
   - Small caps value
   - Titres vifs
-date_mise_a_jour: 2026-10-20
+date_mise_a_jour: 2026-10-22
 ---
 
 # Sébastien Valton
 
 *Cofondateur de PLT Family Office. Conseiller en investissements financiers (CIF), allocation d'actifs et stratégie boursière.*
 
-> Sébastien Valton est cofondateur de PLT Family Office et conseiller en investissements financiers (CIF). Référent en stratégie de portefeuille au sein du family office, spécialiste de l'analyse fondamentale, il pilote les recommandations en stock picking small cap value et l'étude des portefeuilles en titres vifs. Il signe les articles du journal consacrés à la fiscalité, à la transmission et à l'investissement.
+> Sébastien Valton est conseiller en investissements financiers (CIF) au sein de PLT Family Office. Spécialiste de l'analyse fondamentale des entreprises, il accompagne les familles dans la construction et le suivi de leur portefeuille, avec une conviction : l'investissement long terme.
 
 <!-- Portrait de Sébastien à intégrer ici -->
+
+## Son parcours
+
+Passé par Sciences Po, puis diplômé du Master 222 Asset Management de l'Université Paris Dauphine, Sébastien s'est passionné pour l'analyse fondamentale, et plus particulièrement pour le stock picking : la sélection rigoureuse des entreprises, une par une, à partir de leurs comptes, de leur modèle économique et de leur valorisation. Fervent défenseur de la gestion active, il est convaincu qu'une analyse approfondie permet de dénicher des entreprises de qualité que le marché sous-estime.
 
 ## Son rôle chez PLT Family Office
 
@@ -32,7 +37,7 @@ Avec Christophe Faglin, Sébastien opère le conseil délivré aux familles acco
 
 Son domaine de prédilection est l'analyse fondamentale des entreprises. Il pilote les recommandations du family office en stock picking small cap value, ainsi que l'étude des portefeuilles investis en titres vifs.
 
-Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-valton-743847164/).
+Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-valton-743847164/) et sur [YouTube](https://www.youtube.com/@Value-Investing-Screener).
 
 ## Sa méthode
 
@@ -40,6 +45,11 @@ Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-val
 - **Analyser les entreprises.** Comprendre une société, ses résultats et sa valorisation avant d'investir.
 - **Chercher la valeur.** Les petites et moyennes valeurs de qualité, achetées à un prix raisonnable, sont une source de performance souvent négligée.
 - **Vérifier la qualité de chaque support.** Fonds, ETF ou titres en direct : chaque ligne doit justifier sa place et ses frais.
+
+## Médias et pédagogie
+
+- **Value Investing Screener** : auteur de la [chaîne YouTube](https://www.youtube.com/@Value-Investing-Screener) consacrée à la pédagogie financière, à l'analyse d'entreprises et à l'investissement long terme.
+- **Le Café Finance** : cofondateur de ce média qui déconstruit les idées reçues sur la finance et la gestion de patrimoine, pour aider chacun à prendre des décisions éclairées.
 
 ## Ses articles
 
@@ -94,6 +104,10 @@ Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-val
 
 - [Honoraires ou rétrocessions : comment votre conseiller est payé](/journal/honoraires-ou-retrocessions)
 - [Audit patrimonial : ce qu'il contient, ce qu'il fait économiser](/journal/audit-patrimonial)
+
+## Ses vidéos
+
+Sébastien publie régulièrement des analyses d'entreprises et des vidéos de pédagogie financière sur la chaîne YouTube [Value Investing Screener](https://www.youtube.com/@Value-Investing-Screener).
 
 ---
 
