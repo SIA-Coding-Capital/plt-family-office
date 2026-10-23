@@ -4,8 +4,12 @@ on:
   push:
     branches: [main]
   schedule:
-    # Chaque matin vers 6 h à Paris : le site est reconstruit et l'article du jour sort.
-    - cron: '5 4 * * *'
+    # Chaque matin, heure de Paris : le site est reconstruit et l'article du jour sort.
+    # GitHub retarde (voire saute) souvent les tâches planifiées : plusieurs passages
+    # de secours, sans effet si l'article est déjà en ligne.
+    - cron: '5 3 * * *'
+    - cron: '35 5 * * *'
+    - cron: '5 8 * * *'
   workflow_dispatch:
 
 permissions:
