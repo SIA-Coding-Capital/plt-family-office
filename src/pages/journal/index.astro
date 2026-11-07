@@ -4,14 +4,19 @@ import AppelFinal from '../../components/AppelFinal.astro';
 import Carte from '../../components/Carte.astro';
 import '../../styles/journal.css';
 import { SITE, lien } from '../../lib/site';
-import { articlesPublies, grappe } from '../../lib/journal';
+import { articlesPublies, grappe, CATEGORIES, lienCategorie } from '../../lib/journal';
 
 const articles = await articlesPublies();
-const ordre = ['Transmission et succession', 'Enveloppes et fiscalité', 'Allocation et investissement', 'Dirigeants et international', 'Choisir son accompagnement'];
-const groupes = ordre
-  .map((g) => ({ g, id: g.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z]+/g, '-'), liste: articles.filter((a) => grappe(a) === g) }))
-  .filter((x) => x.liste.length);
-const recents = articles.slice(0, 3);
+const NB_RECENTS = 6;
+const NB_PAR_CATEGORIE = 3;
+const recents = articles.slice(0, NB_RECENTS);
+// Chaque bloc montre jusqu'à 3 articles de sa catégorie non déjà mis en avant au-dessus ; le lien mène à la liste complète.
+const groupes = CATEGORIES.map((c) => {
+  const tous = articles.filter((a) => grappe(a) === c.nom);
+  const autres = tous.filter((a) => !recents.includes(a));
+  const choix = (autres.length ? autres : tous).slice(0, NB_PAR_CATEGORIE);
+  return { c, total: tous.length, liste: choix.sort((a, b) => b.data.ordre_publication - a.data.ordre_publication) };
+}).filter((x) => x.total);
 const titre = 'Le Journal : gestion de patrimoine, transmission et fiscalité';
 const description =
   'Les analyses de PLT Family Office pour structurer, protéger et transmettre votre patrimoine : succession, donation, assurance-vie, holding, allocation et fiscalité du dirigeant.';
@@ -41,18 +46,19 @@ const jsonld = [
       <p class="vide">Les premiers articles paraissent très bientôt.</p>
     ) : (
       <>
-        {groupes.length > 1 && (
-          <ul class="grappes" aria-label="Thèmes">
-            {groupes.map((x) => <li><a href={`#${x.id}`}>{x.g}</a></li>)}
-          </ul>
-        )}
+        <ul class="grappes" aria-label="Catégories">
+          {groupes.map((x) => <li><a href={lien(lienCategorie(x.c))}>{x.c.nom}</a></li>)}
+        </ul>
         <section class="grappe-bloc" aria-labelledby="recents">
-          <h2 id="recents">Les plus récents</h2>
+          <div class="bloc-tete"><h2 id="recents">Les plus récents</h2></div>
           <div class="articles">{recents.map((a) => <Carte a={a} />)}</div>
         </section>
-        {articles.length > 3 && groupes.map((x) => (
-          <section class="grappe-bloc" id={x.id} aria-labelledby={`t-${x.id}`}>
-            <h2 id={`t-${x.id}`}>{x.g}</h2>
+        {articles.length > NB_RECENTS && groupes.map((x) => (
+          <section class="grappe-bloc" aria-labelledby={`t-${x.c.slug}`}>
+            <div class="bloc-tete">
+              <h2 id={`t-${x.c.slug}`}><a href={lien(lienCategorie(x.c))}>{x.c.nom}</a></h2>
+              <a class="tout-voir" href={lien(lienCategorie(x.c))}>{x.total > 1 ? `Voir les ${x.total} articles` : 'Voir la rubrique'}</a>
+            </div>
             <div class="articles">{x.liste.map((a) => <Carte a={a} />)}</div>
           </section>
         ))}

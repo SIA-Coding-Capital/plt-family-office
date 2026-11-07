@@ -17,7 +17,16 @@
 .grappes a{display:inline-block;font-size:13px;font-weight:700;letter-spacing:.02em;color:var(--cuivre-fonce);border:1px solid var(--filet);padding:7px 14px;transition:border-color .3s var(--ease),background-color .3s var(--ease)}
 .grappes a:hover{border-color:var(--cuivre)}
 .grappe-bloc{margin-bottom:72px;scroll-margin-top:96px}
-.grappe-bloc > h2{font-size:32px;font-weight:700;margin-bottom:28px}
+.bloc-tete{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 24px;margin-bottom:28px}
+.bloc-tete h2{font-size:32px;font-weight:700}
+.bloc-tete h2 a{transition:color .3s}
+.bloc-tete h2 a:hover{color:var(--cuivre-fonce)}
+.tout-voir{font-family:var(--display);font-size:17px;font-weight:700;color:var(--cuivre);border-bottom:1px solid var(--cuivre-clair);transition:border-color .3s var(--ease)}
+.tout-voir::after{content:" ›"}
+.tout-voir:hover{border-color:var(--cuivre)}
+.autres-cat{border-top:1px solid var(--filet);padding-top:40px;text-align:center}
+.autres-cat .sur{margin-bottom:18px}
+.autres-cat .grappes{margin-bottom:0}
 .articles{row-gap:44px}
 .vide{text-align:center;color:var(--gris)}
 

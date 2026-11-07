@@ -1,0 +1,74 @@
+---
+import Base from '../../../layouts/Base.astro';
+import AppelFinal from '../../../components/AppelFinal.astro';
+import Carte from '../../../components/Carte.astro';
+import '../../../styles/journal.css';
+import { SITE, lien } from '../../../lib/site';
+import { articlesPublies, grappe, CATEGORIES, lienCategorie, type Categorie } from '../../../lib/journal';
+
+// Une page par catégorie ayant au moins un article sorti (la reconstruction quotidienne ajoute les suivants).
+export async function getStaticPaths() {
+  const articles = await articlesPublies();
+  return CATEGORIES.map((c) => ({ c, liste: articles.filter((a) => grappe(a) === c.nom) }))
+    .filter((x) => x.liste.length)
+    .map(({ c, liste }) => ({ params: { slug: c.slug }, props: { c, liste } }));
+}
+
+const { c, liste } = Astro.props as { c: Categorie; liste: Awaited<ReturnType<typeof articlesPublies>> };
+const abs = (p: string) => new URL(lien(p), Astro.site).href;
+const url = abs(lienCategorie(c));
+const autres = (await articlesPublies()).reduce((s, a) => s.add(grappe(a)), new Set<string>());
+const voisines = CATEGORIES.filter((x) => x.slug !== c.slug && autres.has(x.nom));
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${c.nom} : le Journal de PLT Family Office`,
+    description: c.description,
+    url,
+    inLanguage: 'fr-FR',
+    isPartOf: { '@type': 'Blog', name: 'Le Journal de PLT Family Office', url: abs('/journal') },
+    publisher: { '@type': 'Organization', name: SITE.nom },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: liste.length,
+      itemListElement: liste.map((a, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(`/journal/${a.data.slug}`), name: a.data.title })),
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: abs('/') },
+      { '@type': 'ListItem', position: 2, name: 'Journal', item: abs('/journal') },
+      { '@type': 'ListItem', position: 3, name: c.nom, item: url },
+    ],
+  },
+];
+---
+<Base titre={`${c.nom} : nos analyses | PLT Family Office`} description={c.description} jsonld={jsonld} actif="journal">
+  <header class="page-tete">
+    <div class="wrap">
+      <nav class="fil" aria-label="Fil d'Ariane">
+        <ol><li><a href={lien('/')}>Accueil</a></li><li><a href={lien('/journal')}>Journal</a></li><li aria-current="page">{c.nom}</li></ol>
+      </nav>
+      <h1 class="split">{c.nom}</h1>
+      <p class="chapo">{c.chapo}</p>
+    </div>
+  </header>
+  <div class="wrap liste">
+    <section class="grappe-bloc" aria-label={`Articles : ${c.nom}`}>
+      <div class="articles">{liste.map((a) => <Carte a={a} niveau="h2" />)}</div>
+    </section>
+    {voisines.length > 0 && (
+      <nav class="autres-cat" aria-label="Autres catégories">
+        <p class="sur">Autres thèmes</p>
+        <ul class="grappes">
+          <li><a href={lien('/journal')}>Tout le Journal</a></li>
+          {voisines.map((x) => <li><a href={lien(lienCategorie(x))}>{x.nom}</a></li>)}
+        </ul>
+      </nav>
+    )}
+  </div>
+  <AppelFinal />
+</Base>
