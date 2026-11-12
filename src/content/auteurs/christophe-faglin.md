@@ -1,12 +1,13 @@
 ---
-title: "Christophe Faglin, cofondateur de PLT Family Office"
-meta_description: "Christophe Faglin, cofondateur de PLT Family Office, expert en gestion de patrimoine et gestion de fortune depuis 2008 : Allianz, HSBC, Swiss Life, enseignant à la Sorbonne."
+title: "Christophe Faglin, cofondateur de PLT Family Office, CIF"
+meta_description: "Christophe Faglin, cofondateur de PLT Family Office et conseiller en investissements financiers (CIF), expert en gestion de patrimoine et gestion de fortune depuis 2008 : Allianz, HSBC, Swiss Life, enseignant à la Sorbonne."
 slug: christophe-faglin
 url: /auteurs/christophe-faglin
 nom: Christophe Faglin
-fonction: "Cofondateur, expert en gestion de patrimoine et gestion de fortune"
+fonction: "Cofondateur, conseiller en investissements financiers (CIF), gestion de patrimoine et gestion de fortune"
 organisation: PLT Family Office
 same_as:
+  - https://www.linkedin.com/in/christophe-faglin-44141a46/
   - https://www.youtube.com/@parlons-long-terme
 expertise:
   - Gestion de patrimoine
@@ -19,7 +20,7 @@ date_mise_a_jour: 2026-11-12
 
 # Christophe Faglin
 
-*Cofondateur de PLT Family Office. Expert en gestion de patrimoine et gestion de fortune.*
+*Cofondateur de PLT Family Office. Conseiller en investissements financiers (CIF), expert en gestion de patrimoine et gestion de fortune.*
 
 > Christophe Faglin évolue depuis 2008 dans l'univers de la gestion de patrimoine, de l'ingénierie patrimoniale et de la gestion de fortune. Passé par Allianz, HSBC et Swiss Life, entrepreneur et enseignant, il conjugue expertise de terrain et transmission académique au service de stratégies patrimoniales de long terme.
 
@@ -41,7 +42,9 @@ Parallèlement à ses activités professionnelles, Christophe Faglin enseigne de
 
 Aujourd'hui cofondateur de PLT Family Office, il conjugue près de deux décennies d'expérience, une vision entrepreneuriale du conseil patrimonial et une solide culture de la transmission des connaissances, au service de stratégies patrimoniales de long terme.
 
-Retrouvez-le aussi dans les vidéos de la chaîne YouTube [Parlons Long Terme](https://www.youtube.com/@parlons-long-terme).
+Avec Sébastien Valton, il opère le conseil délivré aux familles accompagnées par PLT Family Office, en tant que conseiller en investissements financiers (CIF).
+
+Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/christophe-faglin-44141a46/) et dans les vidéos de la chaîne YouTube [Parlons Long Terme](https://www.youtube.com/@parlons-long-terme).
 
 ---
 

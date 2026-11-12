@@ -61,6 +61,10 @@
 .fiche:hover .photo img,.fiche:focus-within .photo img{filter:grayscale(0) contrast(1);transform:scale(1.06)}
 .fiche:hover .photo::after,.fiche:focus-within .photo::after{opacity:0}
 .fiche h3{font-size:26px;font-weight:500;line-height:1.1;margin-top:4px;color:var(--encre)}
+.photo a{display:block;height:100%}
+.photo::after{pointer-events:none}
+.fiche h3 a{color:inherit;text-decoration:none;transition:color .3s var(--ease)}
+.fiche h3 a:hover,.fiche h3 a:focus-visible{color:var(--cuivre-fonce)}
 .fiche h3::after{content:"";display:block;width:28px;height:1px;background:var(--cuivre);margin-top:14px;transform-origin:left;transition:transform .7s var(--ease)}
 .fiche:hover h3::after{transform:scaleX(2.2)}
 .fiche .role{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;line-height:1.5;color:var(--cuivre-fonce);margin-top:14px}
