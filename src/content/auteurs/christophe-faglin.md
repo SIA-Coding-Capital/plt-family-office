@@ -42,7 +42,7 @@ Parallèlement à ses activités professionnelles, Christophe Faglin enseigne de
 
 Aujourd'hui cofondateur de PLT Family Office, il conjugue près de deux décennies d'expérience, une vision entrepreneuriale du conseil patrimonial et une solide culture de la transmission des connaissances, au service de stratégies patrimoniales de long terme.
 
-Il opère le conseil délivré aux familles accompagnées par PLT Family Office, en tant que conseiller en investissements financiers (CIF).
+Il opère le conseil délivré aux familles et individus accompagnés par PLT Family Office, en tant que conseiller en investissements financiers (CIF).
 
 Retrouvez-le aussi sur [LinkedIn](https://www.linkedin.com/in/christophe-faglin-44141a46/) et dans les vidéos de la chaîne YouTube [Parlons Long Terme](https://www.youtube.com/@parlons-long-terme).
 
